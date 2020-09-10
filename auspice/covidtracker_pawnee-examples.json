@@ -6419,9 +6419,6 @@
                                                                                               "url": "https://www.gisaid.org",
                                                                                               "Unnamed:_0": {
                                                                                                 "value": "8"
-                                                                                              },
-                                                                                              "cluster": {
-                                                                                                "value": "St Joseph hospital"
                                                                                               }
                                                                                             },
                                                                                             "name": "I"
@@ -6901,6 +6898,9 @@
                                                                   "url": "https://www.gisaid.org",
                                                                   "Unnamed:_0": {
                                                                     "value": "7"
+                                                                  },
+                                                                  "cluster": {
+                                                                    "value": "St Joseph hospital"
                                                                   }
                                                                 },
                                                                 "name": "H"
