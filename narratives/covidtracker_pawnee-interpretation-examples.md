@@ -59,7 +59,8 @@ Finally, we'll wrap up with:
 </a>
 </p>
 <p>
-Before we get started, [we strongly recommend reading through this wonderful primer on genomic epidemiology developed by Jonathan Corum and Carl Zimmer of the NYTimes](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html). It's a clear, engaging, and visual explanation of how viruses mutate as they are transmitted from person-to-person, and how this enables us to use genomics to track epidemic spread.
+Before we get started, <a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html">
+we strongly recommend reading through this wonderful primer on genomic epidemiology developed by Jonathan Corum and Carl Zimmer of the NYTimes</a>. It's a clear, engaging, and visual explanation of how viruses mutate as they are transmitted from person-to-person, and how this enables us to use genomics to track epidemic spread.
 </p>
 </div>
 ```

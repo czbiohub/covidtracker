@@ -13,8 +13,8 @@
         "type": "categorical"
       },
       {
-        "key": "cluster",
-        "title": "Cluster",
+        "key": "Epi Cluster",
+        "title": "Epi Cluster",
         "type": "categorical"
       },
       {
@@ -48,8 +48,8 @@
         "type": "categorical"
       },
       {
-        "key": "cluster",
-        "title": "Cluster",
+        "key": "Epi Cluster",
+        "title": "Epi Cluster",
         "type": "categorical"
       },
       {
@@ -163,18 +163,8 @@
     "filters": [
       "neighborhood",
       "employer",
-      "cluster",
-      "location",
-      "division",
-      "country",
-      "region",
-      "neighborhood",
-      "employer",
-      "cluster",
-      "location",
-      "division",
-      "country",
-      "region"
+      "Epi Cluster",
+      "location"
     ],
     "genome_annotations": {
       "E": {
@@ -353,11 +343,10 @@
     ],
     "panels": [
       "tree",
-      "map",
-      "entropy"
+      "map"
     ],
     "title": "Fictionalized example dataset: SARS-CoV-2 in Pawnee, Indiana",
-    "updated": "2020-09-09"
+    "updated": "2020-09-16"
   },
   "version": "v2",
   "tree": {
@@ -3149,7 +3138,7 @@
                                                                                                                                       "Unnamed:_0": {
                                                                                                                                         "value": "18"
                                                                                                                                       },
-                                                                                                                                      "cluster": {
+                                                                                                                                      "Epi Cluster": {
                                                                                                                                         "value": "JJs diner"
                                                                                                                                       }
                                                                                                                                     },
@@ -3623,7 +3612,7 @@
                                                                                                               "location": {
                                                                                                                 "value": "Pawnee"
                                                                                                               },
-                                                                                                              "cluster": {
+                                                                                                              "Epi Cluster": {
                                                                                                                 "value": "JJs diner"
                                                                                                               }
                                                                                                             },
@@ -4554,7 +4543,7 @@
                                                                                                               "location": {
                                                                                                                 "value": "Pawnee"
                                                                                                               },
-                                                                                                              "cluster": {
+                                                                                                              "Epi Cluster": {
                                                                                                                 "value": "JJs diner"
                                                                                                               }
                                                                                                             },
@@ -4816,7 +4805,7 @@
                                                                                           "Unnamed:_0": {
                                                                                             "value": "12"
                                                                                           },
-                                                                                          "cluster": {
+                                                                                          "Epi Cluster": {
                                                                                             "value": "St Joseph hospital"
                                                                                           },
                                                                                           "Employer": {
@@ -5021,7 +5010,7 @@
                                                                                                   "location": {
                                                                                                     "value": "Pawnee"
                                                                                                   },
-                                                                                                  "cluster": {
+                                                                                                  "Epi Cluster": {
                                                                                                     "value": "St Joseph hospital"
                                                                                                   }
                                                                                                 },
@@ -5508,7 +5497,7 @@
                                                                                                                       "location": {
                                                                                                                         "value": "Pawnee"
                                                                                                                       },
-                                                                                                                      "cluster": {
+                                                                                                                      "Epi Cluster": {
                                                                                                                         "value": "St Joseph hospital"
                                                                                                                       }
                                                                                                                     },
@@ -6899,7 +6888,7 @@
                                                                   "Unnamed:_0": {
                                                                     "value": "7"
                                                                   },
-                                                                  "cluster": {
+                                                                  "Epi Cluster": {
                                                                     "value": "St Joseph hospital"
                                                                   }
                                                                 },
@@ -7753,7 +7742,7 @@
                                                                                                               "Unnamed:_0": {
                                                                                                                 "value": "6"
                                                                                                               },
-                                                                                                              "cluster": {
+                                                                                                              "Epi Cluster": {
                                                                                                                 "value": "JJs Diner - waiter"
                                                                                                               },
                                                                                                               "Employer": {
@@ -9504,7 +9493,7 @@
                                                                                           "employer": {
                                                                                             "value": "Sweetums Factory"
                                                                                           },
-                                                                                          "cluster": {
+                                                                                          "Epi Cluster": {
                                                                                             "value": "Sweetums Factory"
                                                                                           }
                                                                                         },
@@ -9875,7 +9864,7 @@
                                                                                           "employer": {
                                                                                             "value": "Sweetums Factory"
                                                                                           },
-                                                                                          "cluster": {
+                                                                                          "Epi Cluster": {
                                                                                             "value": "Sweetums Factory"
                                                                                           }
                                                                                         },
@@ -10205,7 +10194,7 @@
                                                                                               "neighborhood": {
                                                                                                 "value": "Ramsett Park"
                                                                                               },
-                                                                                              "cluster": {
+                                                                                              "Epi Cluster": {
                                                                                                 "value": "Sweetums Factory"
                                                                                               }
                                                                                             },
