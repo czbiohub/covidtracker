@@ -17,9 +17,6 @@ We end with resources for further reading and avenues for finding help.
 "
 ---
 
-<!-- Comment tags like these are not rendered, they're just helpful for you -->
-<!-- Known 'gotcha' bug: ensure that links always end in a 'letter' (a period counts). If some kind of text doesn't follow them, it breaks the slide. -->
-
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE  -->
@@ -60,7 +57,7 @@ We highly recommend that you start with this introduction; if you prefer, you ca
 # Primer
 <div width="100%" margin="auto">
 <p>
-<img width="800px" src="https://github.com/czbiohub/covidtracker/raw/master/narratives/NYT-genomic-epi.png">
+<img width="800px" src="https://github.com/czbiohub/covidtracker/raw/master/narratives/NYT-genomic-epi.pdf">
 </p>
 </div>
 ```
@@ -247,7 +244,6 @@ Overall, though, the available epi data is incomplete.
 #### Question  
 Is transmission happening within the neighborhood, or imported from elsewhere in the community?
 
-
 #### Hypotheses  
 * Transmission is occurring through neighborhood shared spaces or events  
 * These cases were acquired elsewhere  
@@ -268,10 +264,10 @@ Here, we see that the cases from this neighborhood are scattered across the tree
 # [Case study: resolving relationships between outbreaks](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?c=cluster&d=tree&f_employer=Sweetums%20Factory&p=full)
 <!-- This is left-side text -->
 #### Situation  
-The Sweetums factory had an outbreak last month. After 3 weeks of no cases, two employees tested positive.   
+The Sweetums factory had an outbreak last month. After many weeks of no cases, two employees tested positive.   
 
 #### Question  
-Are these new cases a continuation of last month's outbreak, indicative of ongoing cryptic transmission?  
+Are these new cases a continuation of the previous outbreak, indicative of ongoing cryptic transmission?  
 
 #### Data  
 Shown are all samples from Sweetums factory workers, colored by which cases were from the the original outbreak.
@@ -316,7 +312,25 @@ Similarly, it's possible that there were intermediate cases from unsampled locat
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE  -->
 <!-- This is left-side text -->
-# [Resources: finding help](https://nextstrain.org/ncov/global?c=country)
+# [Resources: further reading](https://nextstrain.org/ncov/global?d=map,c=country)
+
+## Background    
+* ["Tracking virus outbreaks in the 21st century," Grubaugh et al., Nature 2019](https://www.nature.com/articles/s41564-018-0296-2)
+* ["How coronavirus mutates and spreads", NYTimes primer on genomic epidemiology](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).  
+* ["How to read a tree," Nextstrain tutorial](https://nextstrain.org/narratives/trees-background).  
+
+## More examples    
+* [Identifying origins of an HIV outbreak in Cambodia](https://academic.oup.com/cid/article-abstract/66/11/1733/4689456?redirectedFrom=fulltext).  
+* [Supplementing contact tracing for Ebola in the DRC](https://www.medrxiv.org/content/10.1101/2020.06.08.20125567v1).
+
+## Setting up Nextstrain for your own data  
+* [In-depth tutorial](https://nextstrain.github.io/ncov/).  
+
+
+<!-- ############ SLIDE BREAK ############# -->
+<!-- SLIDE  -->
+<!-- This is left-side text -->
+# [Resources: finding help](https://nextstrain.org/ncov/global?d=map,c=country)
 
 Have questions about data interpretation? Head over to [the Nextstrain Discussion Board](https://discussion.nextstrain.org).
 The friendly Nextstrain team is happy to help!
