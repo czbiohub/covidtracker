@@ -25,24 +25,21 @@ We end with resources for further reading and avenues for finding help.
 <!-- This is left-side text -->
 In this guide, we hope to give you a foundational understanding of genomic epidemiology and confidence interpreting your data.
 <br><br>
+
 We'll start with some brief primers (if you're already familiar with these topics, feel free to skip ahead).  
-<br>
-(1) How viruses mutate and spread  
-<br>
-(2) How to read a tree  
+* [How viruses mutate and spread](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=2).  
+* [How to read a tree](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=4).  
 <br><br>
-We'll then walk through a series of case studies to demonstrate the kinds of questions that can be answered with genomic epidemiology and guide interpretation, such as:
+
+We'll then walk through a series of case studies to demonstrate the kinds of questions that can be answered with genomic epidemiology and guide interpretation, such as:  
+* [Tracking introductions to a jurisdiction](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=6).  
+* [Resolving ambiguous contact tracing links](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=7).  
+* [Understanding how local outbreaks are related to each other](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=9).  
 <br><br>
-(3) Tracking introductions to a jurisdiction  
-<br>
-(4) Resolving ambiguous contact tracing links  
-<br>
-(5) Understanding how local outbreaks are related to each other  
-<br><br>
+
 Finally, we'll wrap up with:  
-(7) Resources and further reading  
-<br>
-(7) Where to go for help  
+* [Resources and further reading](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=11).  
+* [Where to go for help](https://nextstrain.org/community/narratives/czbiohub/covidtracker/pawnee-interpretation-examples?n=12).  
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 1 -->
