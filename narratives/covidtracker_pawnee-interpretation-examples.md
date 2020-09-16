@@ -56,9 +56,9 @@ We highly recommend that you start with this introduction; if you prefer, you ca
 ```auspiceMainDisplayMarkdown  
 # Primer
 <div width="100%" margin="auto">
-<p>
-<img width="800px" src="https://github.com/czbiohub/covidtracker/raw/master/narratives/NYT-genomic-epi.pdf">
-</p>
+<object data="https://github.com/czbiohub/covidtracker/raw/master/narratives/NYT-genomic-epi.pdf" type="application/pdf" width="800px">
+<embed src="http://yoursite.com/the.pdf"/>
+</object>
 </div>
 ```
 
