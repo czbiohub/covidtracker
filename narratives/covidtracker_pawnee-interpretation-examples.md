@@ -46,18 +46,20 @@ Finally, we'll wrap up with:
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 1 -->
-# ["How coronavirus mutates and spreads": a primer on genomic epidemiology from the NYTimes](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
-
-Jonathan Corum and Carl Zimmer created a wonderful primer on how SARS-CoV-2 mutates and spreads (right).
-We highly recommend that you start with this introduction; if you prefer, you can find the original piece [here](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html).
-
+# [Pre-read](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown  
-# Primer
-<div width="100%" margin="auto">
+# ["How coronavirus mutates and spreads": a primer on genomic epidemiology from the NYTimes](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)  
+
+<div width="80%">
 <p>
-<img width="800px" src="https://github.com/czbiohub/covidtracker/raw/master/narratives/NYT-genomic-epi.tiff">
+<a href="https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html">
+<img src="https://static01.nyt.com/newsgraphics/2020/04/21/virus-mutation-transmission/9162ae055f7c422967a87f94ec34233efa97bae2/virus-450.png" width="450px">
+</a>
+</p>
+<p>
+Before we get started, [we strongly recommend reading through this wonderful primer on genomic epidemiology developed by Jonathan Corum and Carl Zimmer of the NYTimes](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html). It's a clear, engaging, and visual explanation of how viruses mutate as they are transmitted from person-to-person, and how this enables us to use genomics to track epidemic spread.
 </p>
 </div>
 ```
