@@ -50,7 +50,7 @@ Finally, we'll wrap up with:
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown  
-# ["How coronavirus mutates and spreads": a primer on genomic epidemiology from the NYTimes](https://www.nytimes.com/interactive/2020/04/30/science/coronavirus-mutations.html)  
+# "How coronavirus mutates and spreads": a primer on genomic epidemiology from the NYTimes
 
 <div width="80%">
 <p>
