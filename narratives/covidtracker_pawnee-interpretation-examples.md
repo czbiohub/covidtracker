@@ -95,7 +95,7 @@ Here, we see the full picture of the transmission tree. In practice, however, on
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 4-->
 <!-- This is left-side text -->
-# [A primer on how to read a tree](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
+# [First: what am I looking at?](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
 
 The horizontal axis (from the root towards the tips) of this tree represents the number of mutations that have occurred since the beginning of the outbreak and the current samples. The vertical axis just helps spread things out so we can see everything; it doesn't have any units of measurement.
 <br><br>
@@ -103,16 +103,17 @@ The tips of the tree represent samples (i.e., blue cases from the last slide). T
 
 <!-- This is right-side text -->
 ```auspiceMainDisplayMarkdown
-## An example
+## Working through an example
 <div width="50%" margin="auto">
 <p>
 <img width="700px" alt="Example phylogeny" src="https://github.com/czbiohub/covidtracker/raw/master/narratives/infection_tree_alignment.png"/>
 </p>
+</div>
 #### Walking through the tree  
 <p>
 Above, we see an illustration with a phylogenetic tree on the left. On the right are the corresponding viral genomes, which were isolated from cases. Mutations appear as colored diamonds.  
 </p><p>
-One way to approach reading a tree is to start with the most ancestral sequences (closest to the root) and trace towards the most diverged sequences (furthest away from the root).
+One way to approach reading a tree is to start with the sequences with the fewest mutations ("ancestral," or closest to the root) and trace towards the sequences with the most mutations ("diverged," furthest from the root).
 <p></p>
 Starting from the root, the first sample we encounter is **F**. There are no mutations between the root and this sample.  
 <p></p>
@@ -139,16 +140,13 @@ Continuing to trace back towards the root, we see that **A, B, C, and D are more
 * [Tutorial from Nextstrain](https://nextstrain.org/narratives/trees-background).  
 * [Tutorial from Arctic Network](https://artic.network/how-to-read-a-tree.html).  
 * [Video from Khan academy](https://www.khanacademy.org/science/high-school-biology/hs-evolution/hs-phylogeny/a/phylogenetic-trees).  
-
-</div>
-
 ```
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- SLIDE 5-->
 <!-- This is left-side text -->
-# [Case studies](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
+# [Format of each case study](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
 
 #### Situation  
 For each case study, we'll first describe the situation.  
@@ -169,15 +167,20 @@ Finally, we'll walk through our interpretation of the genomic data. Did your rea
 
 <!-- This is the right-side text -->
 ```auspiceMainDisplayMarkdown
-# Tracking SARS-CoV-2 in Pawnee, Indiana    
+# Case studies: tracking SARS-CoV-2 in Pawnee, Indiana
+<div width="50%" margin="auto">
+<p>
+<img width="400px" alt="Welcome to Pawnee" src="https://github.com/czbiohub/covidtracker/raw/master/narratives/pawnee.jpg"/>
+</p>
+</div>
 <p>
 Throughout this guide*, we'll be tracking SARS-CoV-2 in the fictional Pawnee, Indiana.  
 </p><p>
 SARS-CoV-2 is a coronavirus, with an RNA-based genome ~30,000 bases long. It is primarily spread through droplets during close contact. On average, ~1 mutation occurs every 2-3 transmissions. Risk factors for severe case outcomes include age, obesity, diabetes, COPD and cardiovascular disease, among others.
 </p><p>
-Pawnee is a city of ~80,000 people. It has high rates of obesity and cultural quirks that encourage close personal contact (e.g., residents habitually place entire water fountain guards in their mouths when drinking). A small proportion of residents travel regionally for work. Notable establishments in Pawnee include St. Joseph's hospital, the primary source of medical care; the Sweetum's Factory, a major employer; JJ's, a popular diner; and Ramsett Park, a popular community space.
+Pawnee is a city of ~80,000 people. It has high rates of obesity and cultural quirks that encourage close personal contact (e.g., [residents habitually place entire water fountain guards in their mouths when drinking](https://www.imdb.com/title/tt2230337/)). A small proportion of residents travel regionally for work. Notable establishments in Pawnee include St. Joseph's hospital, the primary source of medical care; the Sweetum's Factory, a major employer; JJ's, a popular diner; and Ramsett Park, a popular community space.
 </p><p>
-While the local government is eager to serve, they were caught off-guard by the SARS-CoV-2 pandemic: a recent pandemic disaster drill resulted in the simulated destruction of the entire city. Without swift action by the public health department (you!), the risk of a severe epidemic is extremely high. Approximately 1-5\% of all cases are being sequenced.  
+While the local government is eager to serve, they were caught off-guard by the SARS-CoV-2 pandemic: [a recent pandemic disaster drill resulted in the simulated destruction of the entire city](https://www.imdb.com/title/tt2658686/). Without swift action by the public health department (you!), the risk of a severe epidemic is extremely high. Approximately 1-5% of all cases are being sequenced.  
 </p><p>
 _* This guide is entirely unaffiliated with "Parks and Rec" but was written by a genomic epidemiologist who's a fan and needs a spot of joy_  
 </p><p>
