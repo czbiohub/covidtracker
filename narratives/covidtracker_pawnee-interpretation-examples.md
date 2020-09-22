@@ -97,8 +97,10 @@ Here, we see the full picture of the transmission tree. In practice, however, on
 <!-- This is left-side text -->
 # [First: what am I looking at?](https://nextstrain.org/community/czbiohub/covidtracker/pawnee-examples?d=tree,map&p=grid)
 
-The horizontal axis (from the root towards the tips) of this tree represents the number of mutations that have occurred since the beginning of the outbreak and the current samples. The vertical axis just helps spread things out so we can see everything; it doesn't have any units of measurement.
-<br><br>
+The horizontal axis (from the root towards the tips) of this tree represents the number of mutations that have occurred since the beginning of the outbreak and the current samples.
+<p/>
+The vertical axis just helps spread things out so we can see everything; it doesn't have any units of measurement.
+<p/>
 The tips of the tree represent samples (i.e., blue cases from the last slide). The internal nodes represent cases that weren't sampled, but that we think were the source of all the cases descendant from them (i.e., the red nodes from the last slide). These relationships are inferred by analyzing the pattern of mutations observed in the sampled cases.
 
 <!-- This is right-side text -->
@@ -110,31 +112,28 @@ The tips of the tree represent samples (i.e., blue cases from the last slide). T
 </p>
 </div>
 #### Walking through the tree  
-<p>
 Above, we see an illustration with a phylogenetic tree on the left. On the right are the corresponding viral genomes, which were isolated from cases. Mutations appear as colored diamonds.  
-</p><p>
+<p/>
 One way to approach reading a tree is to start with the sequences with the fewest mutations ("ancestral," or closest to the root) and trace towards the sequences with the most mutations ("diverged," furthest from the root).
-<p></p>
+<p/>
 Starting from the root, the first sample we encounter is **F**. There are no mutations between the root and this sample.  
-<p></p>
+<p/>
 Next, we encounter **E**. Along the way, we observe the **red** mutation that separates **F** (the outgroup) from the rest of the tree. We can see this reflected in the genomes on the right, where all of the samples in the tree except for **F** have inherited the red mutation. **E** does not have any other mutations.   
-<p></p>
+<p/>
 Walking from **E** toward the clade (group) containing the rest of the sequences, we encounter a **yellow** mutation. In the genomes on the right, we can see that all of the descendent samples (i.e., the samples which nest underneath this branch) inherit the **yellow** mutation. **C** does not have any additional mutations.  
-<p></p>
+<p/>
 From this point, there are two paths: one path acquires the **green** mutation, which is unique to sample **D**. The other acquires the **pink** mutation, which is then inherited by both **A** and **B**. **A** has also acquired a unique **blue** mutation.    
-</p>
+<p/>
 #### Interpreting our observations  
-<p>
-To relate this back to the underlying transmission process, consider that with SARS-CoV-2, we expect 1 mutation to occur per ~2-3 transmissions <b>on average</b>. __Caveat: as this is an average, keep in mind that the actual ratio of mutations / transmission is context dependent; for example, if there's a super-spreading event where many people are infected from the same source, their viral genomes may be identical to each other (many transmissions, no mutations).__  
-</p><p>
+To relate this back to the underlying transmission process, consider that with SARS-CoV-2, we expect 1 mutation to occur per ~2-3 transmissions **on average**. _Caveat: as this is an average, keep in mind that the actual ratio of mutations / transmission is context dependent; for example, if there's a super-spreading event where many people are infected from the same source, their viral genomes may be identical to each other (many transmissions, no mutations)._  
+<p/>
 To put this tree into epidemiological terms, we can trace the same path in the opposite direction.
-
+<p/>
 Starting with the most diverged samples, we see that **A and B are closely linked cases** -- they share 3 mutations, with only 1 mutation separating them. It's likely that they are connected by ~1-2 transmissions.  
-
+<p/>
 Similarly, **C is 1 mutation away from B or D**, and could be linked by ~1-2 transmissions to either of them.
-
+<p/>
 Continuing to trace back towards the root, we see that **A, B, C, and D are more closely related to each other than to E or F**, based on the yellow mutation that they all share.   
-</p>
 
 ### Further reading on how to read a tree  
 * [Tutorial from Nextstrain](https://nextstrain.org/narratives/trees-background).  
@@ -173,17 +172,16 @@ Finally, we'll walk through our interpretation of the genomic data. Did your rea
 <img width="400px" alt="Welcome to Pawnee" src="https://github.com/czbiohub/covidtracker/raw/master/narratives/pawnee.jpg"/>
 </p>
 </div>
-<p>
 Throughout this guide*, we'll be tracking SARS-CoV-2 in the fictional Pawnee, Indiana.  
-</p><p>
+<p/>
 SARS-CoV-2 is a coronavirus, with an RNA-based genome ~30,000 bases long. It is primarily spread through droplets during close contact. On average, ~1 mutation occurs every 2-3 transmissions. Risk factors for severe case outcomes include age, obesity, diabetes, COPD and cardiovascular disease, among others.
-</p><p>
+<p/>
 Pawnee is a city of ~80,000 people. It has high rates of obesity and cultural quirks that encourage close personal contact (e.g., [residents habitually place entire water fountain guards in their mouths when drinking](https://www.imdb.com/title/tt2230337/)). A small proportion of residents travel regionally for work. Notable establishments in Pawnee include St. Joseph's hospital, the primary source of medical care; the Sweetum's Factory, a major employer; JJ's, a popular diner; and Ramsett Park, a popular community space.
-</p><p>
+<p/>
 While the local government is eager to serve, they were caught off-guard by the SARS-CoV-2 pandemic: [a recent pandemic disaster drill resulted in the simulated destruction of the entire city](https://www.imdb.com/title/tt2658686/). Without swift action by the public health department (you!), the risk of a severe epidemic is extremely high. Approximately 1-5% of all cases are being sequenced.  
-</p><p>
+<p/>
 _* This guide is entirely unaffiliated with "Parks and Rec" but was written by a genomic epidemiologist who's a fan and needs a spot of joy_  
-</p><p>
+<p/>
 _* This guide borrows publicly available genomic data but uses entirely fictionalized metadata and scenarios_
 
 ```
@@ -205,14 +203,14 @@ We have two competing hypotheses:
 
 #### Data  
 Viral genomes, sampled from each of these 4 cases, are highlighted to the right. If each case was acquired independently, we would expect them to be sprinkled across the tree.  
-<br>
+<p/>
 Here, we see that cases **J** and **L** both appear to be descendent of case **M**, despite a 3-week gap between case **M** and **J** & **L** (hover over each tip to see the date of collection).
 
 Contrastingly, case **H** nests in an entirely separate clade of the tree.  
 
 #### Interpretation  
 From this, we can infer that **J**, **L** and **M** are most likely part of a locally-circulating transmission chain. Notably, there are 1 -- 3 mutations separating these cases, while we expect to see ~1 mutation per 2-3 transmissions. This strongly suggests that there are **unsampled intermediate cases** separating these cases in the transmission chain.
-<br><br>
+<p/>
 Case **H** is not closely related to **J, L** and **M**, and is not the result of the same transmission chain. This was likely a separate introduction.
 
 <!-- There is NO right-side text on this slide -->
@@ -239,9 +237,9 @@ Highlighting cases from the diner, we see a cluster of 3 cases with identical ge
 
 #### Interpretation  
 If all of these cases were acquired from the same source in a short timeframe, we would expect their genomes to be identical or perhaps 1 mutation apart. This is consistent with the cluster of 3 closely-related cases.  
-<br><br>
+<p/>
 The waiter's sample does not nest with this cluster. This **rules out** the hypothesis that the waiter was the source of the other cases.  
-<br><br>
+<p/>
 The main cluster of cases would be _consistent_ with some indirect transmission from the diner. However, **we cannot definitively confirm the true source of infection from this data alone**. It is always possible that there was some other common location or contact which was not sampled or detected during contact tracing.
 <!-- There is NO right-side text on this slide -->
 
@@ -267,7 +265,7 @@ To the right, we see samples from the Ramsett Park neighborhood highlighted. We 
 
 #### Interpretation  
 If transmission is occurring through shared neighborhood spaces or events, we would expect most cases from the neighborhood to cluster together, implying closely related cases.  
-<br><br>
+<p/>
 Here, we see that the cases from this neighborhood are scattered across the tree, indicating that they came from disparate sources. From this, we can conclude that these cases were unlikely to be acquired from a shared source within the neighborhood.  
 
 <!-- There is NO right-side text on this slide -->
@@ -288,7 +286,7 @@ Shown are all samples from Sweetums factory workers, colored by which cases were
 
 #### Interpretation
 Case **T** nests in a separate part of the tree and is not closely related to the original outbreak.
-<br><br>
+<p/>
 However, case **D** is a direct descendent of the original outbreak cluster. This is most consistent with ongoing, cryptic transmission among factory workers.
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -314,13 +312,13 @@ Most of the Eagleton samples we have descend from and nest within a cluster from
 
 #### Interpretation
 This would be _consistent_ with a transmission from Pawnee to Eagleton. **However, we need to account for sampling.**
-<br><br>
+<p/>
 If we assume that the true size of the outbreaks in Pawnee and Eagleton are roughly equal, then we are severely under-sampling cases from Eagleton. If we were able to include more samples, we might see:  
-<br>
+<p/>
 1. The missing Eagleton samples could be ancestral to the Pawnee outbreak, which would indicate transmission from Eagleton to Pawnee  
-<br>
+<p/>
 2. The missing Eagleton samples could be extensively intermixed, which would make it impossible to tell which location was the source  
-<br>
+<p/>
 3. Additional samples from a 3rd location could be intermediate between Pawnee and Eagleton
 <!-- There is NO right-side text on this slide -->
 
