@@ -1,0 +1,15 @@
+,county,lineage,collection_date,sample
+0,San Francisco County,A.1,2020-03-23,1
+1,San Francisco County,A.1,2020-03-30,4
+2,San Francisco County,A.1,2020-04-27,3
+3,San Francisco County,A.1,2020-05-04,5
+4,San Francisco County,B.1,2020-04-06,2
+5,San Francisco County,B.1.314,2020-04-06,2
+6,Santa Clara County,B,2020-04-06,4
+7,Santa Clara County,B,2020-04-13,1
+8,Santa Clara County,B.1,2020-04-06,2
+9,Santa Clara County,B.1.14,2020-04-13,2
+10,Santa Clara County,B.1.14,2020-04-27,1
+11,Santa Clara County,B.19,2020-04-06,3
+12,Santa Clara County,B.20,2020-05-04,1
+13,Santa Clara County,B.6,2020-04-06,1
