@@ -1,0 +1,1457 @@
+,county,lineage,collection_date,count
+0,Alameda County,A.1,2020-04-06,2
+1,Alameda County,A.1,2020-04-13,5
+2,Alameda County,A.1,2020-04-20,1
+3,Alameda County,A.1,2020-05-04,1
+4,Alameda County,A.1,2020-05-18,1
+5,Alameda County,A.1,2020-06-01,1
+6,Alameda County,B,2020-03-23,1
+7,Alameda County,B,2020-03-30,1
+8,Alameda County,B,2020-04-13,6
+9,Alameda County,B,2020-04-20,12
+10,Alameda County,B,2020-05-11,1
+11,Alameda County,B,2020-05-18,1
+12,Alameda County,B,2020-06-08,1
+13,Alameda County,B.1,2020-03-23,1
+14,Alameda County,B.1,2020-04-13,1
+15,Alameda County,B.1,2020-05-04,1
+16,Alameda County,B.1,2020-05-18,6
+17,Alameda County,B.1,2020-05-25,6
+18,Alameda County,B.1,2020-06-01,3
+19,Alameda County,B.1,2020-06-08,2
+20,Alameda County,B.1,2020-06-15,1
+21,Alameda County,B.1,2020-06-22,2
+22,Alameda County,B.1,2020-06-29,4
+23,Alameda County,B.1,2020-07-06,1
+24,Alameda County,B.1,2020-07-13,2
+25,Alameda County,B.1,2020-07-27,1
+26,Alameda County,B.1,2020-08-03,1
+27,Alameda County,B.1,2020-08-10,4
+28,Alameda County,B.1,2020-08-17,9
+29,Alameda County,B.1,2020-08-24,4
+30,Alameda County,B.1,2020-08-31,4
+31,Alameda County,B.1,2020-09-07,6
+32,Alameda County,B.1,2020-09-14,3
+33,Alameda County,B.1,2020-09-21,5
+34,Alameda County,B.1,2020-09-28,2
+35,Alameda County,B.1,2020-10-05,1
+36,Alameda County,B.1,2020-11-09,1
+37,Alameda County,B.1,2021-01-04,2
+38,Alameda County,B.1.1.101,2020-06-22,2
+39,Alameda County,B.1.1.101,2020-07-06,1
+40,Alameda County,B.1.1.101,2020-07-13,1
+41,Alameda County,B.1.1.109,2020-05-25,1
+42,Alameda County,B.1.1.127,2020-06-22,1
+43,Alameda County,B.1.1.127,2020-06-29,2
+44,Alameda County,B.1.1.128,2020-06-29,1
+45,Alameda County,B.1.1.128,2020-08-10,1
+46,Alameda County,B.1.1.128,2020-08-31,1
+47,Alameda County,B.1.1.130,2020-08-17,1
+48,Alameda County,B.1.1.162,2020-06-15,1
+49,Alameda County,B.1.1.174,2020-06-22,2
+50,Alameda County,B.1.1.174,2020-06-29,2
+51,Alameda County,B.1.1.174,2020-08-10,2
+52,Alameda County,B.1.1.186,2020-09-21,1
+53,Alameda County,B.1.1.186,2020-09-28,1
+54,Alameda County,B.1.1.205,2020-06-01,2
+55,Alameda County,B.1.1.205,2020-06-15,1
+56,Alameda County,B.1.1.205,2020-06-22,1
+57,Alameda County,B.1.1.205,2020-07-06,1
+58,Alameda County,B.1.1.205,2020-09-28,1
+59,Alameda County,B.1.1.205,2020-10-05,1
+60,Alameda County,B.1.1.216,2020-08-17,12
+61,Alameda County,B.1.1.216,2020-08-24,3
+62,Alameda County,B.1.1.216,2020-09-07,3
+63,Alameda County,B.1.1.216,2020-09-14,4
+64,Alameda County,B.1.1.222,2020-09-14,1
+65,Alameda County,B.1.1.222,2020-11-09,1
+66,Alameda County,B.1.1.222,2021-01-04,2
+67,Alameda County,B.1.1.222,2021-01-11,1
+68,Alameda County,B.1.1.228,2020-07-27,1
+69,Alameda County,B.1.1.239,2020-08-03,1
+70,Alameda County,B.1.1.274,2020-05-18,1
+71,Alameda County,B.1.1.274,2020-12-28,1
+72,Alameda County,B.1.1.274,2021-01-04,1
+73,Alameda County,B.1.1.277,2020-06-29,3
+74,Alameda County,B.1.1.277,2020-08-24,1
+75,Alameda County,B.1.1.287,2020-06-29,1
+76,Alameda County,B.1.1.29,2020-05-25,2
+77,Alameda County,B.1.1.29,2020-06-01,2
+78,Alameda County,B.1.1.29,2020-08-17,1
+79,Alameda County,B.1.1.294,2020-08-24,1
+80,Alameda County,B.1.1.4,2021-01-04,1
+81,Alameda County,B.1.1.54,2020-08-03,1
+82,Alameda County,B.1.1.64,2020-08-17,1
+83,Alameda County,B.1.1.70,2020-04-20,1
+84,Alameda County,B.1.1.70,2020-05-11,1
+85,Alameda County,B.1.1.70,2020-05-18,2
+86,Alameda County,B.1.1.70,2020-05-25,6
+87,Alameda County,B.1.1.70,2020-06-01,9
+88,Alameda County,B.1.1.70,2020-06-08,1
+89,Alameda County,B.1.1.70,2020-06-15,1
+90,Alameda County,B.1.1.70,2020-06-22,10
+91,Alameda County,B.1.1.70,2020-06-29,2
+92,Alameda County,B.1.1.70,2020-07-06,2
+93,Alameda County,B.1.1.70,2020-07-13,7
+94,Alameda County,B.1.1.70,2020-07-20,5
+95,Alameda County,B.1.1.70,2020-07-27,1
+96,Alameda County,B.1.1.70,2020-08-10,2
+97,Alameda County,B.1.1.70,2020-08-17,4
+98,Alameda County,B.1.1.70,2020-08-24,4
+99,Alameda County,B.1.1.70,2020-08-31,3
+100,Alameda County,B.1.1.70,2020-09-07,3
+101,Alameda County,B.1.1.70,2020-10-05,1
+102,Alameda County,B.1.1.82,2020-08-03,1
+103,Alameda County,B.1.1.82,2020-09-14,1
+104,Alameda County,B.1.110,2020-04-13,3
+105,Alameda County,B.1.110,2020-04-20,1
+106,Alameda County,B.1.110,2020-05-04,1
+107,Alameda County,B.1.110,2020-05-11,2
+108,Alameda County,B.1.110,2020-05-18,1
+109,Alameda County,B.1.110,2020-06-01,1
+110,Alameda County,B.1.110,2020-06-08,1
+111,Alameda County,B.1.139,2021-01-04,1
+112,Alameda County,B.1.166,2020-04-13,1
+113,Alameda County,B.1.166,2020-05-04,6
+114,Alameda County,B.1.166,2020-05-11,4
+115,Alameda County,B.1.166,2020-05-18,4
+116,Alameda County,B.1.2,2020-07-13,2
+117,Alameda County,B.1.2,2020-08-17,1
+118,Alameda County,B.1.2,2020-08-24,1
+119,Alameda County,B.1.2,2020-08-31,3
+120,Alameda County,B.1.2,2020-09-07,1
+121,Alameda County,B.1.2,2020-09-14,1
+122,Alameda County,B.1.2,2020-09-21,1
+123,Alameda County,B.1.2,2020-11-09,6
+124,Alameda County,B.1.2,2021-01-04,4
+125,Alameda County,B.1.2,2021-01-11,3
+126,Alameda County,B.1.206,2020-09-07,1
+127,Alameda County,B.1.232,2021-01-04,2
+128,Alameda County,B.1.234,2020-10-05,1
+129,Alameda County,B.1.239,2020-08-10,2
+130,Alameda County,B.1.239,2020-08-17,1
+131,Alameda County,B.1.239,2020-09-14,1
+132,Alameda County,B.1.239,2020-10-05,1
+133,Alameda County,B.1.240,2020-07-13,1
+134,Alameda County,B.1.241,2020-08-10,1
+135,Alameda County,B.1.241,2020-08-24,2
+136,Alameda County,B.1.241,2020-08-31,1
+137,Alameda County,B.1.243,2020-06-22,3
+138,Alameda County,B.1.243,2020-06-29,1
+139,Alameda County,B.1.243,2020-07-06,1
+140,Alameda County,B.1.243,2020-07-13,2
+141,Alameda County,B.1.243,2020-07-20,2
+142,Alameda County,B.1.243,2020-07-27,2
+143,Alameda County,B.1.243,2020-08-03,1
+144,Alameda County,B.1.243,2020-08-10,7
+145,Alameda County,B.1.243,2020-08-17,11
+146,Alameda County,B.1.243,2020-08-24,6
+147,Alameda County,B.1.243,2020-08-31,3
+148,Alameda County,B.1.243,2020-09-07,5
+149,Alameda County,B.1.243,2020-09-14,8
+150,Alameda County,B.1.243,2020-09-21,27
+151,Alameda County,B.1.243,2020-09-28,2
+152,Alameda County,B.1.243,2020-10-05,5
+153,Alameda County,B.1.243,2020-11-09,1
+154,Alameda County,B.1.243,2021-01-04,4
+155,Alameda County,B.1.243,2021-01-11,2
+156,Alameda County,B.1.311,2021-01-04,1
+157,Alameda County,B.1.320,2020-05-04,1
+158,Alameda County,B.1.320,2020-05-11,2
+159,Alameda County,B.1.320,2020-05-18,1
+160,Alameda County,B.1.320,2020-05-25,1
+161,Alameda County,B.1.320,2020-06-01,2
+162,Alameda County,B.1.320,2020-06-15,2
+163,Alameda County,B.1.320,2020-06-22,7
+164,Alameda County,B.1.320,2020-06-29,5
+165,Alameda County,B.1.320,2020-07-06,1
+166,Alameda County,B.1.320,2020-07-13,5
+167,Alameda County,B.1.320,2020-08-31,1
+168,Alameda County,B.1.324,2021-01-04,1
+169,Alameda County,B.1.336,2020-08-17,1
+170,Alameda County,B.1.343,2020-06-29,2
+171,Alameda County,B.1.348,2020-07-20,1
+172,Alameda County,B.1.36,2020-10-05,1
+173,Alameda County,B.1.361,2020-07-20,1
+174,Alameda County,B.1.361,2020-08-17,1
+175,Alameda County,B.1.361,2020-08-24,1
+176,Alameda County,B.1.363,2020-07-13,1
+177,Alameda County,B.1.369,2020-06-22,2
+178,Alameda County,B.1.369,2020-06-29,1
+179,Alameda County,B.1.369,2020-07-13,4
+180,Alameda County,B.1.369,2020-07-20,1
+181,Alameda County,B.1.369,2020-07-27,1
+182,Alameda County,B.1.369,2020-08-17,1
+183,Alameda County,B.1.369,2020-09-07,1
+184,Alameda County,B.1.369,2020-09-14,2
+185,Alameda County,B.1.369,2020-09-21,2
+186,Alameda County,B.1.369,2020-09-28,1
+187,Alameda County,B.1.369,2020-10-05,1
+188,Alameda County,B.1.390,2020-06-29,1
+189,Alameda County,B.1.397,2020-08-17,1
+190,Alameda County,B.1.397,2020-08-24,1
+191,Alameda County,B.1.398,2020-08-31,1
+192,Alameda County,B.1.402,2020-08-10,2
+193,Alameda County,B.1.402,2020-08-31,2
+194,Alameda County,B.1.403,2020-08-17,1
+195,Alameda County,B.1.403,2020-08-31,3
+196,Alameda County,B.1.403,2020-09-28,1
+197,Alameda County,B.1.404,2020-09-28,1
+198,Alameda County,B.1.404,2021-01-18,1
+199,Alameda County,B.1.405,2021-01-04,1
+200,Alameda County,B.1.427,2021-01-04,4
+201,Alameda County,B.1.427,2021-01-11,4
+202,Alameda County,B.1.429,2020-12-21,1
+203,Alameda County,B.1.429,2021-01-04,3
+204,Alameda County,B.1.429,2021-01-18,1
+205,Alameda County,B.1.452,2020-07-13,2
+206,Alameda County,B.1.453,2020-04-20,3
+207,Alameda County,B.1.453,2020-05-04,8
+208,Alameda County,B.1.453,2020-05-11,6
+209,Alameda County,B.1.453,2020-05-18,17
+210,Alameda County,B.1.453,2020-05-25,8
+211,Alameda County,B.1.453,2020-06-01,13
+212,Alameda County,B.1.453,2020-06-08,3
+213,Alameda County,B.1.453,2020-06-15,2
+214,Alameda County,B.1.453,2020-06-22,7
+215,Alameda County,B.1.453,2020-06-29,12
+216,Alameda County,B.1.453,2020-07-06,1
+217,Alameda County,B.1.453,2020-07-13,1
+218,Alameda County,B.1.453,2020-07-20,1
+219,Alameda County,B.1.453,2020-08-17,1
+220,Alameda County,B.1.453,2020-09-28,1
+221,Alameda County,B.1.503,2020-04-20,2
+222,Alameda County,B.1.503,2020-05-04,1
+223,Alameda County,B.1.503,2020-05-11,5
+224,Alameda County,B.1.503,2020-05-18,4
+225,Alameda County,B.1.503,2020-05-25,4
+226,Alameda County,B.1.503,2020-06-01,3
+227,Alameda County,B.1.503,2020-06-22,4
+228,Alameda County,B.1.503,2020-06-29,1
+229,Alameda County,B.1.508,2020-08-10,1
+230,Alameda County,B.40,2020-03-23,2
+231,Contra Costa County,A.1,2020-03-30,1
+232,Contra Costa County,A.1,2020-04-06,1
+233,Contra Costa County,B,2020-03-30,1
+234,Contra Costa County,B,2020-04-06,1
+235,Contra Costa County,B.1,2020-03-30,1
+236,Contra Costa County,B.1,2020-04-06,4
+237,Contra Costa County,B.1,2020-04-13,2
+238,Contra Costa County,B.1,2020-05-18,2
+239,Contra Costa County,B.1,2020-07-27,3
+240,Contra Costa County,B.1,2020-08-03,1
+241,Contra Costa County,B.1.1.158,2020-07-27,1
+242,Contra Costa County,B.1.1.158,2020-08-03,1
+243,Contra Costa County,B.1.1.244,2020-08-03,3
+244,Contra Costa County,B.1.1.70,2020-03-30,1
+245,Contra Costa County,B.1.1.70,2020-07-27,8
+246,Contra Costa County,B.1.1.70,2020-08-03,3
+247,Contra Costa County,B.1.240,2020-08-03,3
+248,Contra Costa County,B.1.243,2020-07-27,5
+249,Contra Costa County,B.1.243,2020-08-03,2
+250,Contra Costa County,B.1.243,2020-08-10,1
+251,Contra Costa County,B.1.243,2020-08-24,1
+252,Contra Costa County,B.1.243,2020-09-14,1
+253,Contra Costa County,B.1.320,2020-03-30,1
+254,Contra Costa County,B.1.320,2020-04-06,25
+255,Contra Costa County,B.1.320,2020-04-13,2
+256,Contra Costa County,B.1.336,2020-07-27,4
+257,Contra Costa County,B.1.336,2020-08-03,1
+258,Contra Costa County,B.1.36,2020-07-27,1
+259,Contra Costa County,B.1.369,2020-08-03,3
+260,Contra Costa County,B.1.399,2020-07-27,1
+261,Contra Costa County,B.1.400,2020-08-10,1
+262,Fresno County,B.1,2020-09-28,1
+263,Fresno County,B.1.402,2020-09-07,1
+264,Fresno County,B.1.402,2020-09-14,1
+265,Humboldt County,A.1,2020-03-30,4
+266,Humboldt County,A.1,2020-06-01,1
+267,Humboldt County,A.3,2020-04-06,5
+268,Humboldt County,A.3,2020-04-13,1
+269,Humboldt County,B,2020-04-06,1
+270,Humboldt County,B.1,2020-03-30,7
+271,Humboldt County,B.1,2020-04-06,2
+272,Humboldt County,B.1,2020-04-20,1
+273,Humboldt County,B.1,2020-05-18,7
+274,Humboldt County,B.1,2020-06-01,1
+275,Humboldt County,B.1,2020-07-20,3
+276,Humboldt County,B.1,2020-07-27,1
+277,Humboldt County,B.1,2020-08-31,1
+278,Humboldt County,B.1,2020-10-05,2
+279,Humboldt County,B.1,2020-10-12,5
+280,Humboldt County,B.1,2020-10-19,2
+281,Humboldt County,B.1,2020-10-26,1
+282,Humboldt County,B.1,2020-11-16,1
+283,Humboldt County,B.1,2020-12-28,1
+284,Humboldt County,B.1,2021-01-04,1
+285,Humboldt County,B.1.1.10,2020-03-23,1
+286,Humboldt County,B.1.1.10,2020-03-30,5
+287,Humboldt County,B.1.1.128,2020-08-24,1
+288,Humboldt County,B.1.1.172,2020-06-01,1
+289,Humboldt County,B.1.1.207,2020-06-22,10
+290,Humboldt County,B.1.1.207,2020-06-29,3
+291,Humboldt County,B.1.1.207,2020-07-06,1
+292,Humboldt County,B.1.1.207,2020-07-13,2
+293,Humboldt County,B.1.1.222,2020-08-03,3
+294,Humboldt County,B.1.1.222,2020-08-10,1
+295,Humboldt County,B.1.1.222,2020-08-17,7
+296,Humboldt County,B.1.1.222,2020-09-28,2
+297,Humboldt County,B.1.1.222,2020-11-30,1
+298,Humboldt County,B.1.1.244,2021-01-04,1
+299,Humboldt County,B.1.1.274,2021-01-04,1
+300,Humboldt County,B.1.1.304,2020-07-20,1
+301,Humboldt County,B.1.1.34,2020-03-23,1
+302,Humboldt County,B.1.1.44,2020-11-02,1
+303,Humboldt County,B.1.1.44,2020-11-09,6
+304,Humboldt County,B.1.1.70,2020-07-27,2
+305,Humboldt County,B.1.1.70,2020-08-03,1
+306,Humboldt County,B.1.110.3,2020-07-06,6
+307,Humboldt County,B.1.110.3,2020-07-13,1
+308,Humboldt County,B.1.110.3,2020-07-20,1
+309,Humboldt County,B.1.110.3,2020-12-07,2
+310,Humboldt County,B.1.110.3,2021-01-04,1
+311,Humboldt County,B.1.139,2020-08-31,1
+312,Humboldt County,B.1.139,2020-09-07,1
+313,Humboldt County,B.1.139,2020-11-23,1
+314,Humboldt County,B.1.189,2020-08-24,1
+315,Humboldt County,B.1.2,2020-07-06,6
+316,Humboldt County,B.1.2,2020-07-13,1
+317,Humboldt County,B.1.2,2020-07-20,3
+318,Humboldt County,B.1.2,2020-09-28,1
+319,Humboldt County,B.1.2,2020-10-19,1
+320,Humboldt County,B.1.2,2020-11-02,3
+321,Humboldt County,B.1.2,2020-11-09,6
+322,Humboldt County,B.1.2,2020-11-16,9
+323,Humboldt County,B.1.2,2020-11-23,12
+324,Humboldt County,B.1.2,2020-11-30,5
+325,Humboldt County,B.1.2,2020-12-28,24
+326,Humboldt County,B.1.2,2021-01-04,28
+327,Humboldt County,B.1.232,2020-11-09,1
+328,Humboldt County,B.1.232,2020-11-16,1
+329,Humboldt County,B.1.234,2020-11-09,1
+330,Humboldt County,B.1.234,2020-11-16,1
+331,Humboldt County,B.1.234,2020-12-28,4
+332,Humboldt County,B.1.239,2020-11-09,1
+333,Humboldt County,B.1.239,2020-11-30,1
+334,Humboldt County,B.1.240,2020-07-13,6
+335,Humboldt County,B.1.240,2020-08-31,1
+336,Humboldt County,B.1.240,2020-10-05,2
+337,Humboldt County,B.1.240,2020-10-12,3
+338,Humboldt County,B.1.240,2020-10-19,3
+339,Humboldt County,B.1.240,2020-10-26,2
+340,Humboldt County,B.1.240,2020-11-09,2
+341,Humboldt County,B.1.240,2020-11-23,1
+342,Humboldt County,B.1.240,2020-12-07,1
+343,Humboldt County,B.1.240,2020-12-28,1
+344,Humboldt County,B.1.243,2020-07-27,4
+345,Humboldt County,B.1.243,2020-08-03,4
+346,Humboldt County,B.1.243,2020-08-10,9
+347,Humboldt County,B.1.243,2020-08-17,3
+348,Humboldt County,B.1.243,2020-08-24,4
+349,Humboldt County,B.1.243,2020-08-31,23
+350,Humboldt County,B.1.243,2020-09-07,7
+351,Humboldt County,B.1.243,2020-09-14,2
+352,Humboldt County,B.1.243,2020-09-28,4
+353,Humboldt County,B.1.243,2020-11-23,1
+354,Humboldt County,B.1.243,2020-12-28,3
+355,Humboldt County,B.1.243,2021-01-04,4
+356,Humboldt County,B.1.265,2020-10-26,1
+357,Humboldt County,B.1.280,2020-10-05,1
+358,Humboldt County,B.1.305,2020-08-03,1
+359,Humboldt County,B.1.311,2020-11-02,1
+360,Humboldt County,B.1.311,2020-11-09,2
+361,Humboldt County,B.1.311,2020-11-16,8
+362,Humboldt County,B.1.311,2020-11-23,43
+363,Humboldt County,B.1.311,2020-11-30,32
+364,Humboldt County,B.1.311,2020-12-07,24
+365,Humboldt County,B.1.311,2020-12-28,1
+366,Humboldt County,B.1.311,2021-01-04,5
+367,Humboldt County,B.1.314,2020-04-06,2
+368,Humboldt County,B.1.319,2020-08-10,2
+369,Humboldt County,B.1.320,2020-05-11,4
+370,Humboldt County,B.1.320,2020-05-18,14
+371,Humboldt County,B.1.320,2020-05-25,1
+372,Humboldt County,B.1.336,2020-07-20,1
+373,Humboldt County,B.1.340,2020-07-27,2
+374,Humboldt County,B.1.340,2020-08-03,2
+375,Humboldt County,B.1.349,2020-11-16,3
+376,Humboldt County,B.1.369,2020-07-06,2
+377,Humboldt County,B.1.369,2020-07-20,2
+378,Humboldt County,B.1.369,2020-07-27,3
+379,Humboldt County,B.1.369,2020-11-02,1
+380,Humboldt County,B.1.369,2020-11-23,1
+381,Humboldt County,B.1.404,2020-11-23,1
+382,Humboldt County,B.1.404,2020-12-28,1
+383,Humboldt County,B.1.404,2021-01-04,1
+384,Humboldt County,B.1.404,2021-01-11,1
+385,Humboldt County,B.1.427,2020-12-28,1
+386,Humboldt County,B.1.427,2021-01-04,3
+387,Humboldt County,B.1.429,2020-11-16,1
+388,Humboldt County,B.1.429,2020-11-30,1
+389,Humboldt County,B.1.429,2020-12-28,3
+390,Humboldt County,B.1.429,2021-01-04,4
+391,Humboldt County,B.1.452,2020-08-03,1
+392,Humboldt County,B.1.503,2020-05-11,1
+393,Humboldt County,B.1.513,2020-05-25,3
+394,Humboldt County,B.1.513,2020-06-08,1
+395,Humboldt County,B.1.98,2020-04-06,6
+396,Madera County,B.1,2020-07-06,2
+397,Madera County,B.1,2020-07-20,1
+398,Madera County,B.1,2020-07-27,2
+399,Madera County,B.1,2020-08-03,1
+400,Madera County,B.1,2020-09-07,3
+401,Madera County,B.1,2020-09-14,1
+402,Madera County,B.1,2020-10-26,2
+403,Madera County,B.1,2020-11-02,3
+404,Madera County,B.1.1.113,2020-10-26,1
+405,Madera County,B.1.1.128,2020-10-26,2
+406,Madera County,B.1.1.139,2020-07-20,6
+407,Madera County,B.1.1.139,2020-11-02,7
+408,Madera County,B.1.1.162,2020-07-27,1
+409,Madera County,B.1.1.162,2020-08-03,1
+410,Madera County,B.1.1.193,2020-10-19,1
+411,Madera County,B.1.1.222,2020-10-26,2
+412,Madera County,B.1.1.222,2020-11-09,2
+413,Madera County,B.1.1.70,2020-07-27,1
+414,Madera County,B.1.1.70,2020-08-03,1
+415,Madera County,B.1.1.70,2020-10-19,1
+416,Madera County,B.1.1.70,2020-10-26,1
+417,Madera County,B.1.1.70,2020-11-02,1
+418,Madera County,B.1.1.70,2020-11-09,1
+419,Madera County,B.1.2,2020-10-26,2
+420,Madera County,B.1.2,2020-11-02,2
+421,Madera County,B.1.232,2020-10-26,1
+422,Madera County,B.1.239,2020-10-19,2
+423,Madera County,B.1.239,2020-10-26,4
+424,Madera County,B.1.239,2020-11-02,2
+425,Madera County,B.1.240,2020-07-27,3
+426,Madera County,B.1.240,2020-08-03,5
+427,Madera County,B.1.240,2020-11-02,1
+428,Madera County,B.1.243,2020-07-06,2
+429,Madera County,B.1.243,2020-07-13,8
+430,Madera County,B.1.243,2020-07-20,15
+431,Madera County,B.1.243,2020-07-27,5
+432,Madera County,B.1.243,2020-08-03,3
+433,Madera County,B.1.243,2020-08-17,3
+434,Madera County,B.1.243,2020-09-14,1
+435,Madera County,B.1.243,2020-10-19,3
+436,Madera County,B.1.243,2020-10-26,13
+437,Madera County,B.1.243,2020-11-02,17
+438,Madera County,B.1.243,2020-11-09,2
+439,Madera County,B.1.306,2020-11-09,1
+440,Madera County,B.1.309,2020-10-26,1
+441,Madera County,B.1.320,2020-10-26,2
+442,Madera County,B.1.369,2020-07-27,1
+443,Madera County,B.1.369,2020-10-26,1
+444,Madera County,B.1.399,2020-10-19,2
+445,Madera County,B.1.400,2020-09-14,3
+446,Madera County,B.1.400,2020-10-19,1
+447,Madera County,B.1.402,2020-07-20,1
+448,Madera County,B.1.402,2020-07-27,1
+449,Madera County,B.1.402,2020-08-03,4
+450,Madera County,B.1.402,2020-09-07,2
+451,Madera County,B.1.402,2020-09-14,1
+452,Madera County,B.1.402,2020-10-26,4
+453,Madera County,B.1.402,2020-11-02,2
+454,Madera County,B.1.503,2020-11-09,1
+455,Madera County,B.1.509,2020-11-09,1
+456,Marin County,B.1,2020-05-11,1
+457,Marin County,B.1,2020-05-18,2
+458,Marin County,B.1,2020-07-20,1
+459,Marin County,B.1,2020-07-27,1
+460,Marin County,B.1,2020-08-03,1
+461,Marin County,B.1,2020-08-10,1
+462,Marin County,B.1,2020-08-17,3
+463,Marin County,B.1,2020-09-28,1
+464,Marin County,B.1,2020-10-05,1
+465,Marin County,B.1,2020-10-26,1
+466,Marin County,B.1.1.162,2020-07-20,1
+467,Marin County,B.1.1.222,2020-10-19,1
+468,Marin County,B.1.1.244,2020-07-20,1
+469,Marin County,B.1.1.306,2020-08-17,1
+470,Marin County,B.1.1.70,2020-05-11,1
+471,Marin County,B.1.1.70,2020-06-15,1
+472,Marin County,B.1.1.70,2020-07-20,10
+473,Marin County,B.1.1.70,2020-08-17,6
+474,Marin County,B.1.1.70,2020-10-12,4
+475,Marin County,B.1.1.70,2020-10-19,1
+476,Marin County,B.1.1.70,2020-10-26,2
+477,Marin County,B.1.106,2020-05-25,8
+478,Marin County,B.1.189,2020-08-03,1
+479,Marin County,B.1.2,2020-09-14,1
+480,Marin County,B.1.2,2020-10-12,1
+481,Marin County,B.1.2,2020-10-19,1
+482,Marin County,B.1.216,2020-09-14,3
+483,Marin County,B.1.240,2020-07-20,1
+484,Marin County,B.1.243,2020-07-20,1
+485,Marin County,B.1.243,2020-07-27,1
+486,Marin County,B.1.243,2020-08-03,1
+487,Marin County,B.1.243,2020-08-17,2
+488,Marin County,B.1.243,2020-08-31,5
+489,Marin County,B.1.243,2020-10-05,1
+490,Marin County,B.1.243,2020-10-12,1
+491,Marin County,B.1.243,2020-10-19,2
+492,Marin County,B.1.313,2020-07-20,1
+493,Marin County,B.1.320,2020-06-15,9
+494,Marin County,B.1.320,2020-07-20,2
+495,Marin County,B.1.320,2020-07-27,5
+496,Marin County,B.1.320,2020-08-03,3
+497,Marin County,B.1.320,2020-08-24,2
+498,Marin County,B.1.320,2020-08-31,10
+499,Marin County,B.1.320,2020-09-07,8
+500,Marin County,B.1.320,2020-09-28,1
+501,Marin County,B.1.400,2020-09-07,1
+502,Marin County,B.1.400,2020-10-19,1
+503,Marin County,B.1.508,2020-05-11,2
+504,Marin County,B.1.508,2020-05-18,9
+505,Marin County,B.1.508,2020-05-25,14
+506,Marin County,B.1.508,2020-06-01,1
+507,Marin County,B.1.508,2020-06-15,4
+508,Marin County,B.1.508,2020-08-10,1
+509,Monterey County,B.1,2020-06-08,4
+510,Monterey County,B.1.239,2020-09-21,1
+511,Monterey County,B.1.240,2020-09-07,1
+512,Monterey County,B.1.240,2020-09-14,1
+513,Monterey County,B.1.429,2020-12-14,1
+514,"Napa, Solano, Yolo, Marin Counties",B.1,2020-04-27,2
+515,"Napa, Solano, Yolo, Marin Counties",B.1,2020-05-04,6
+516,"Napa, Solano, Yolo, Marin Counties",B.1,2020-05-11,1
+517,"Napa, Solano, Yolo, Marin Counties",B.1,2020-09-07,1
+518,"Napa, Solano, Yolo, Marin Counties",B.1.1.205,2020-09-14,7
+519,"Napa, Solano, Yolo, Marin Counties",B.1.1.205,2020-09-21,3
+520,"Napa, Solano, Yolo, Marin Counties",B.1.1.70,2020-11-02,6
+521,"Napa, Solano, Yolo, Marin Counties",B.1.2,2020-09-07,1
+522,"Napa, Solano, Yolo, Marin Counties",B.1.2,2020-09-21,1
+523,"Napa, Solano, Yolo, Marin Counties",B.1.243,2020-10-26,1
+524,"Napa, Solano, Yolo, Marin Counties",B.1.369,2020-09-14,1
+525,Orange County,A.1,2020-04-27,1
+526,Orange County,B.1,2020-04-27,18
+527,Orange County,B.1,2020-05-04,11
+528,Orange County,B.1,2020-05-11,18
+529,Orange County,B.1,2020-05-18,19
+530,Orange County,B.1,2020-05-25,33
+531,Orange County,B.1,2020-06-01,28
+532,Orange County,B.1,2020-06-08,1
+533,Orange County,B.1,2020-06-29,1
+534,Orange County,B.1,2020-07-13,5
+535,Orange County,B.1,2020-07-20,3
+536,Orange County,B.1,2020-07-27,15
+537,Orange County,B.1,2020-08-03,4
+538,Orange County,B.1,2020-08-10,3
+539,Orange County,B.1,2020-08-17,16
+540,Orange County,B.1,2020-08-24,20
+541,Orange County,B.1,2020-08-31,7
+542,Orange County,B.1,2020-09-07,7
+543,Orange County,B.1,2020-09-14,16
+544,Orange County,B.1,2020-09-21,9
+545,Orange County,B.1,2020-09-28,13
+546,Orange County,B.1,2020-10-05,5
+547,Orange County,B.1,2020-10-19,6
+548,Orange County,B.1,2020-10-26,2
+549,Orange County,B.1,2020-11-02,2
+550,Orange County,B.1,2020-11-16,1
+551,Orange County,B.1,2020-11-23,1
+552,Orange County,B.1,2020-11-30,2
+553,Orange County,B.1,2020-12-07,2
+554,Orange County,B.1,2020-12-28,3
+555,Orange County,B.1,2021-01-04,1
+556,Orange County,B.1,2021-01-11,2
+557,Orange County,B.1.1.10,2020-09-07,2
+558,Orange County,B.1.1.10,2020-09-14,1
+559,Orange County,B.1.1.10,2020-11-30,1
+560,Orange County,B.1.1.10,2020-12-07,1
+561,Orange County,B.1.1.128,2020-07-20,1
+562,Orange County,B.1.1.128,2020-08-03,1
+563,Orange County,B.1.1.128,2020-09-07,1
+564,Orange County,B.1.1.132,2020-05-04,6
+565,Orange County,B.1.1.132,2020-05-11,2
+566,Orange County,B.1.1.132,2020-05-18,11
+567,Orange County,B.1.1.132,2020-05-25,13
+568,Orange County,B.1.1.132,2020-06-01,26
+569,Orange County,B.1.1.132,2020-07-13,7
+570,Orange County,B.1.1.132,2020-07-20,1
+571,Orange County,B.1.1.147,2020-11-16,1
+572,Orange County,B.1.1.147,2020-11-23,1
+573,Orange County,B.1.1.147,2020-11-30,11
+574,Orange County,B.1.1.147,2020-12-07,2
+575,Orange County,B.1.1.147,2020-12-28,1
+576,Orange County,B.1.1.15,2020-04-27,1
+577,Orange County,B.1.1.167,2020-09-28,5
+578,Orange County,B.1.1.167,2020-10-05,6
+579,Orange County,B.1.1.167,2020-10-12,3
+580,Orange County,B.1.1.172,2020-04-20,18
+581,Orange County,B.1.1.172,2020-04-27,8
+582,Orange County,B.1.1.172,2020-05-04,1
+583,Orange County,B.1.1.172,2020-05-18,6
+584,Orange County,B.1.1.172,2020-05-25,3
+585,Orange County,B.1.1.172,2020-06-01,15
+586,Orange County,B.1.1.172,2020-07-20,1
+587,Orange County,B.1.1.212,2020-12-07,1
+588,Orange County,B.1.1.216,2021-01-11,1
+589,Orange County,B.1.1.222,2020-10-19,1
+590,Orange County,B.1.1.222,2020-11-30,1
+591,Orange County,B.1.1.222,2020-12-21,1
+592,Orange County,B.1.1.228,2020-07-13,1
+593,Orange County,B.1.1.228,2020-08-17,1
+594,Orange County,B.1.1.228,2020-12-07,14
+595,Orange County,B.1.1.228,2020-12-21,1
+596,Orange County,B.1.1.239,2020-07-27,2
+597,Orange County,B.1.1.239,2020-08-10,4
+598,Orange County,B.1.1.239,2020-08-17,1
+599,Orange County,B.1.1.239,2020-08-24,4
+600,Orange County,B.1.1.239,2020-08-31,1
+601,Orange County,B.1.1.239,2020-09-14,1
+602,Orange County,B.1.1.239,2020-09-21,1
+603,Orange County,B.1.1.239,2020-10-05,1
+604,Orange County,B.1.1.244,2020-09-28,3
+605,Orange County,B.1.1.244,2020-11-16,2
+606,Orange County,B.1.1.246,2020-12-14,1
+607,Orange County,B.1.1.287,2020-07-27,2
+608,Orange County,B.1.1.287,2020-08-10,2
+609,Orange County,B.1.1.304,2020-07-13,1
+610,Orange County,B.1.1.304,2020-07-20,1
+611,Orange County,B.1.1.44,2020-11-09,1
+612,Orange County,B.1.1.54,2020-04-20,1
+613,Orange County,B.1.1.54,2020-05-04,1
+614,Orange County,B.1.1.61,2020-04-20,2
+615,Orange County,B.1.1.61,2020-04-27,30
+616,Orange County,B.1.1.61,2020-05-04,27
+617,Orange County,B.1.1.61,2020-05-11,7
+618,Orange County,B.1.1.61,2020-05-18,3
+619,Orange County,B.1.1.61,2020-06-01,2
+620,Orange County,B.1.1.70,2020-05-11,1
+621,Orange County,B.1.1.70,2020-05-25,1
+622,Orange County,B.1.1.70,2020-06-29,1
+623,Orange County,B.1.1.70,2020-07-13,1
+624,Orange County,B.1.1.70,2020-07-20,4
+625,Orange County,B.1.1.70,2020-07-27,2
+626,Orange County,B.1.1.70,2020-10-12,2
+627,Orange County,B.1.1.70,2020-10-19,3
+628,Orange County,B.1.1.70,2020-11-02,1
+629,Orange County,B.1.1.70,2020-11-16,4
+630,Orange County,B.1.1.70,2020-11-30,3
+631,Orange County,B.1.1.70,2021-01-11,1
+632,Orange County,B.1.1.85,2020-12-14,1
+633,Orange County,B.1.110,2020-04-20,1
+634,Orange County,B.1.110.3,2020-11-02,4
+635,Orange County,B.1.110.3,2020-11-09,2
+636,Orange County,B.1.110.3,2020-11-30,1
+637,Orange County,B.1.189,2020-07-13,1
+638,Orange County,B.1.189,2020-08-24,1
+639,Orange County,B.1.189,2020-12-28,1
+640,Orange County,B.1.2,2020-08-31,1
+641,Orange County,B.1.2,2020-09-21,2
+642,Orange County,B.1.2,2020-09-28,2
+643,Orange County,B.1.2,2020-10-05,1
+644,Orange County,B.1.2,2020-10-12,4
+645,Orange County,B.1.2,2020-10-19,11
+646,Orange County,B.1.2,2020-10-26,5
+647,Orange County,B.1.2,2020-11-09,2
+648,Orange County,B.1.2,2020-11-16,43
+649,Orange County,B.1.2,2020-11-23,30
+650,Orange County,B.1.2,2020-11-30,18
+651,Orange County,B.1.2,2020-12-07,22
+652,Orange County,B.1.2,2020-12-14,21
+653,Orange County,B.1.2,2020-12-21,9
+654,Orange County,B.1.2,2020-12-28,30
+655,Orange County,B.1.2,2021-01-04,1
+656,Orange County,B.1.2,2021-01-11,3
+657,Orange County,B.1.232,2020-09-14,1
+658,Orange County,B.1.232,2020-11-30,1
+659,Orange County,B.1.232,2020-12-07,1
+660,Orange County,B.1.232,2020-12-14,1
+661,Orange County,B.1.232,2021-01-04,1
+662,Orange County,B.1.234,2020-12-28,8
+663,Orange County,B.1.239,2020-09-21,2
+664,Orange County,B.1.239,2020-09-28,2
+665,Orange County,B.1.240,2020-07-13,3
+666,Orange County,B.1.241,2020-11-30,8
+667,Orange County,B.1.241,2020-12-07,2
+668,Orange County,B.1.243,2020-08-31,1
+669,Orange County,B.1.243,2020-10-26,1
+670,Orange County,B.1.243,2020-11-30,3
+671,Orange County,B.1.243,2020-12-07,17
+672,Orange County,B.1.243,2020-12-14,1
+673,Orange County,B.1.243,2020-12-28,1
+674,Orange County,B.1.243,2021-01-04,2
+675,Orange County,B.1.265,2020-10-19,1
+676,Orange County,B.1.265,2020-11-16,1
+677,Orange County,B.1.265,2020-11-30,1
+678,Orange County,B.1.311,2020-11-16,1
+679,Orange County,B.1.313,2020-07-27,2
+680,Orange County,B.1.313,2020-08-03,1
+681,Orange County,B.1.313,2020-08-10,3
+682,Orange County,B.1.319,2020-11-09,1
+683,Orange County,B.1.320,2020-04-20,16
+684,Orange County,B.1.320,2020-04-27,13
+685,Orange County,B.1.320,2020-05-04,8
+686,Orange County,B.1.320,2020-05-11,6
+687,Orange County,B.1.320,2020-05-18,2
+688,Orange County,B.1.320,2020-05-25,8
+689,Orange County,B.1.320,2020-06-01,4
+690,Orange County,B.1.320,2020-08-10,10
+691,Orange County,B.1.320,2020-08-17,2
+692,Orange County,B.1.320,2020-08-24,2
+693,Orange County,B.1.336,2020-04-27,1
+694,Orange County,B.1.336,2020-07-27,2
+695,Orange County,B.1.336,2020-09-21,1
+696,Orange County,B.1.361,2020-11-16,6
+697,Orange County,B.1.369,2020-07-20,2
+698,Orange County,B.1.369,2020-07-27,1
+699,Orange County,B.1.369,2020-08-10,2
+700,Orange County,B.1.369,2020-08-17,1
+701,Orange County,B.1.369,2020-08-24,7
+702,Orange County,B.1.369,2020-08-31,3
+703,Orange County,B.1.369,2020-09-21,3
+704,Orange County,B.1.369,2020-09-28,1
+705,Orange County,B.1.369,2020-10-05,1
+706,Orange County,B.1.369,2020-10-19,1
+707,Orange County,B.1.369,2020-12-07,1
+708,Orange County,B.1.397,2020-07-20,1
+709,Orange County,B.1.397,2020-07-27,1
+710,Orange County,B.1.399,2020-08-31,1
+711,Orange County,B.1.400,2020-08-24,6
+712,Orange County,B.1.400,2020-08-31,4
+713,Orange County,B.1.400,2020-10-12,1
+714,Orange County,B.1.400,2020-11-16,1
+715,Orange County,B.1.400,2020-11-30,3
+716,Orange County,B.1.400,2021-01-04,1
+717,Orange County,B.1.404,2020-11-09,2
+718,Orange County,B.1.404,2020-11-16,2
+719,Orange County,B.1.404,2020-11-30,2
+720,Orange County,B.1.404,2020-12-07,2
+721,Orange County,B.1.425,2020-08-10,1
+722,Orange County,B.1.427,2020-11-16,1
+723,Orange County,B.1.427,2020-12-21,19
+724,Orange County,B.1.427,2021-01-04,1
+725,Orange County,B.1.427,2021-01-11,3
+726,Orange County,B.1.429,2020-10-05,1
+727,Orange County,B.1.429,2020-10-19,2
+728,Orange County,B.1.429,2020-10-26,1
+729,Orange County,B.1.429,2020-11-02,6
+730,Orange County,B.1.429,2020-11-09,27
+731,Orange County,B.1.429,2020-11-16,19
+732,Orange County,B.1.429,2020-11-23,4
+733,Orange County,B.1.429,2020-11-30,14
+734,Orange County,B.1.429,2020-12-07,7
+735,Orange County,B.1.429,2020-12-14,12
+736,Orange County,B.1.429,2020-12-21,7
+737,Orange County,B.1.429,2020-12-28,44
+738,Orange County,B.1.429,2021-01-04,29
+739,Orange County,B.1.429,2021-01-11,23
+740,Orange County,B.1.433,2020-12-21,2
+741,Orange County,B.1.438,2020-11-09,2
+742,Orange County,B.1.438,2020-11-16,4
+743,Orange County,B.1.442,2020-12-28,3
+744,Orange County,B.1.452,2020-04-27,1
+745,Orange County,B.1.452,2020-05-18,3
+746,Orange County,B.1.452,2020-05-25,3
+747,Orange County,B.1.452,2020-06-01,16
+748,Orange County,B.1.452,2020-07-20,1
+749,Orange County,B.1.452,2020-07-27,5
+750,Orange County,B.1.452,2020-08-10,1
+751,Orange County,B.1.452,2020-08-17,1
+752,Orange County,B.1.452,2020-08-24,2
+753,Orange County,B.1.509,2020-10-19,2
+754,Orange County,B.1.513,2020-05-04,2
+755,Orange County,N.1,2020-07-27,1
+756,Sacramento,B.1,2020-07-13,1
+757,Sacramento,B.1,2020-07-20,2
+758,Sacramento,B.1,2020-07-27,1
+759,Sacramento,B.1.1.135,2020-08-03,1
+760,Sacramento,B.1.1.139,2020-07-06,1
+761,Sacramento,B.1.189,2020-07-13,1
+762,Sacramento,B.1.189,2020-07-20,3
+763,Sacramento,B.1.189,2020-07-27,14
+764,Sacramento,B.1.189,2020-08-10,1
+765,Sacramento,B.1.2,2020-08-24,1
+766,Sacramento,B.1.2,2020-08-31,1
+767,Sacramento,B.1.2,2020-11-09,2
+768,Sacramento,B.1.2,2020-11-23,4
+769,Sacramento,B.1.2,2020-11-30,8
+770,Sacramento,B.1.234,2020-11-30,4
+771,Sacramento,B.1.243,2020-07-06,2
+772,Sacramento,B.1.243,2020-07-13,1
+773,Sacramento,B.1.313,2020-07-06,1
+774,Sacramento,B.1.369,2020-07-13,1
+775,Sacramento,B.1.369,2020-07-20,1
+776,Sacramento,B.1.369,2020-08-03,3
+777,Sacramento,B.1.369,2020-08-17,1
+778,Sacramento,B.1.369,2020-11-16,2
+779,Sacramento,B.1.369,2020-11-30,2
+780,San Bernardino County,B.1,2020-05-11,28
+781,San Bernardino County,B.1.1.70,2020-05-04,6
+782,San Francisco County,A.1,2020-03-23,5
+783,San Francisco County,A.1,2020-03-30,38
+784,San Francisco County,A.1,2020-04-06,8
+785,San Francisco County,A.1,2020-04-20,3
+786,San Francisco County,A.1,2020-04-27,6
+787,San Francisco County,A.1,2020-05-04,21
+788,San Francisco County,A.1,2020-05-25,2
+789,San Francisco County,A.3,2020-03-23,1
+790,San Francisco County,B,2020-03-23,1
+791,San Francisco County,B,2020-03-30,6
+792,San Francisco County,B,2020-04-27,4
+793,San Francisco County,B,2020-05-04,7
+794,San Francisco County,B.1,2020-03-23,1
+795,San Francisco County,B.1,2020-03-30,28
+796,San Francisco County,B.1,2020-04-06,14
+797,San Francisco County,B.1,2020-04-13,2
+798,San Francisco County,B.1,2020-04-20,2
+799,San Francisco County,B.1,2020-04-27,3
+800,San Francisco County,B.1,2020-05-04,20
+801,San Francisco County,B.1,2020-05-25,10
+802,San Francisco County,B.1,2020-11-30,9
+803,San Francisco County,B.1,2020-12-07,1
+804,San Francisco County,B.1.1.109,2020-05-25,3
+805,San Francisco County,B.1.1.167,2020-11-30,1
+806,San Francisco County,B.1.1.172,2020-04-20,1
+807,San Francisco County,B.1.1.205,2020-05-25,1
+808,San Francisco County,B.1.1.205,2020-11-23,2
+809,San Francisco County,B.1.1.205,2020-11-30,1
+810,San Francisco County,B.1.1.212,2020-11-30,7
+811,San Francisco County,B.1.1.212,2020-12-07,4
+812,San Francisco County,B.1.1.222,2020-11-23,1
+813,San Francisco County,B.1.1.222,2020-11-30,4
+814,San Francisco County,B.1.1.222,2020-12-07,2
+815,San Francisco County,B.1.1.304,2020-11-30,1
+816,San Francisco County,B.1.1.54,2020-11-23,1
+817,San Francisco County,B.1.1.70,2020-04-13,2
+818,San Francisco County,B.1.1.70,2020-05-04,18
+819,San Francisco County,B.1.1.70,2020-05-25,2
+820,San Francisco County,B.1.1.70,2020-06-15,1
+821,San Francisco County,B.1.1.70,2020-07-06,1
+822,San Francisco County,B.1.1.70,2020-07-20,1
+823,San Francisco County,B.1.1.70,2020-07-27,7
+824,San Francisco County,B.1.1.70,2020-08-03,1
+825,San Francisco County,B.1.1.70,2020-11-16,1
+826,San Francisco County,B.1.1.70,2020-11-30,4
+827,San Francisco County,B.1.1.70,2020-12-07,3
+828,San Francisco County,B.1.110,2020-05-04,19
+829,San Francisco County,B.1.2,2020-08-10,1
+830,San Francisco County,B.1.2,2020-09-07,6
+831,San Francisco County,B.1.2,2020-11-23,3
+832,San Francisco County,B.1.2,2020-11-30,39
+833,San Francisco County,B.1.2,2020-12-07,5
+834,San Francisco County,B.1.216,2020-11-30,5
+835,San Francisco County,B.1.216,2020-12-07,2
+836,San Francisco County,B.1.232,2020-11-30,8
+837,San Francisco County,B.1.232,2020-12-07,1
+838,San Francisco County,B.1.234,2020-11-23,6
+839,San Francisco County,B.1.234,2020-11-30,7
+840,San Francisco County,B.1.234,2020-12-07,2
+841,San Francisco County,B.1.240,2020-11-23,2
+842,San Francisco County,B.1.243,2020-09-07,1
+843,San Francisco County,B.1.243,2020-11-23,2
+844,San Francisco County,B.1.243,2020-11-30,14
+845,San Francisco County,B.1.243,2020-12-07,7
+846,San Francisco County,B.1.311,2020-12-07,1
+847,San Francisco County,B.1.314,2020-04-06,2
+848,San Francisco County,B.1.325,2020-11-30,3
+849,San Francisco County,B.1.348,2020-11-23,1
+850,San Francisco County,B.1.348,2020-11-30,10
+851,San Francisco County,B.1.348,2020-12-07,6
+852,San Francisco County,B.1.400,2020-11-23,1
+853,San Francisco County,B.1.413,2020-03-30,2
+854,San Francisco County,B.1.427,2020-11-23,1
+855,San Francisco County,B.1.427,2020-11-30,6
+856,San Francisco County,B.1.427,2020-12-07,2
+857,San Francisco County,B.1.429,2020-11-23,2
+858,San Francisco County,B.1.429,2020-11-30,16
+859,San Francisco County,B.1.429,2020-12-07,3
+860,San Francisco County,B.1.452,2020-07-27,1
+861,San Francisco County,B.1.503,2020-05-04,4
+862,San Francisco County,B.1.503,2020-05-25,5
+863,San Francisco County,B.1.94,2020-11-30,1
+864,San Francisco County,B.3,2020-03-30,1
+865,San Francisco County,B.6,2020-04-06,2
+866,San Joaquin County,A.1,2020-03-16,3
+867,San Joaquin County,A.1,2020-03-23,6
+868,San Joaquin County,A.1,2020-03-30,2
+869,San Joaquin County,A.1,2020-04-06,8
+870,San Joaquin County,A.1,2020-04-13,3
+871,San Joaquin County,A.1,2020-04-20,5
+872,San Joaquin County,A.1,2020-04-27,4
+873,San Joaquin County,A.2.2,2020-03-30,2
+874,San Joaquin County,B,2020-03-23,2
+875,San Joaquin County,B,2020-03-30,2
+876,San Joaquin County,B.1,2020-03-30,3
+877,San Joaquin County,B.1,2020-04-06,1
+878,San Joaquin County,B.1,2020-04-13,2
+879,San Joaquin County,B.1,2020-04-20,1
+880,San Joaquin County,B.1,2020-05-11,1
+881,San Joaquin County,B.1.1.207,2020-04-13,1
+882,San Joaquin County,B.1.1.207,2020-09-21,1
+883,San Joaquin County,B.1.110,2020-03-23,1
+884,San Joaquin County,B.1.110,2020-03-30,3
+885,San Joaquin County,B.1.110,2020-04-27,2
+886,San Joaquin County,B.1.110,2020-05-11,2
+887,San Joaquin County,B.1.166,2020-05-11,1
+888,San Joaquin County,B.1.324,2020-04-06,1
+889,San Joaquin County,B.1.334,2020-03-30,1
+890,San Joaquin County,B.1.369,2020-04-06,1
+891,San Joaquin County,B.1.384,2020-04-13,1
+892,San Joaquin County,B.1.415,2020-04-20,1
+893,San Joaquin County,B.1.453,2020-05-11,3
+894,San Joaquin County,B.1.503,2020-05-04,1
+895,San Joaquin County,B.1.503,2020-05-11,1
+896,San Joaquin County,B.1.8,2020-04-27,17
+897,San Joaquin County,B.1.8,2020-05-04,19
+898,San Joaquin County,B.1.8,2020-05-11,5
+899,San Joaquin County,B.1.98,2020-04-13,1
+900,San Luis Obispo County,A.1,2020-03-23,1
+901,San Luis Obispo County,B.1,2020-03-16,1
+902,San Luis Obispo County,B.1,2020-03-23,2
+903,San Luis Obispo County,B.1,2020-03-30,4
+904,San Luis Obispo County,B.1,2020-04-13,1
+905,San Luis Obispo County,B.1,2020-07-20,12
+906,San Luis Obispo County,B.1,2020-07-27,6
+907,San Luis Obispo County,B.1,2020-08-17,1
+908,San Luis Obispo County,B.1,2020-08-24,1
+909,San Luis Obispo County,B.1,2020-09-21,1
+910,San Luis Obispo County,B.1.1.113,2020-03-30,2
+911,San Luis Obispo County,B.1.1.128,2020-07-27,1
+912,San Luis Obispo County,B.1.1.288,2020-11-09,1
+913,San Luis Obispo County,B.1.1.291,2020-07-27,2
+914,San Luis Obispo County,B.1.1.70,2020-03-30,2
+915,San Luis Obispo County,B.1.1.70,2020-07-27,1
+916,San Luis Obispo County,B.1.110,2020-03-23,2
+917,San Luis Obispo County,B.1.110,2020-03-30,1
+918,San Luis Obispo County,B.1.139,2020-07-27,1
+919,San Luis Obispo County,B.1.163,2020-03-16,1
+920,San Luis Obispo County,B.1.163,2020-06-22,1
+921,San Luis Obispo County,B.1.166,2020-04-13,1
+922,San Luis Obispo County,B.1.166,2020-04-20,1
+923,San Luis Obispo County,B.1.189,2020-07-27,1
+924,San Luis Obispo County,B.1.2,2020-06-22,1
+925,San Luis Obispo County,B.1.2,2020-07-27,1
+926,San Luis Obispo County,B.1.2,2020-09-21,1
+927,San Luis Obispo County,B.1.240,2020-07-13,1
+928,San Luis Obispo County,B.1.243,2020-07-20,3
+929,San Luis Obispo County,B.1.243,2020-07-27,2
+930,San Luis Obispo County,B.1.243,2020-09-28,1
+931,San Luis Obispo County,B.1.267,2020-06-15,1
+932,San Luis Obispo County,B.1.267,2020-07-13,1
+933,San Luis Obispo County,B.1.267,2020-07-20,7
+934,San Luis Obispo County,B.1.267,2020-07-27,8
+935,San Luis Obispo County,B.1.309,2020-07-13,1
+936,San Luis Obispo County,B.1.309,2020-07-27,2
+937,San Luis Obispo County,B.1.314,2020-03-23,3
+938,San Luis Obispo County,B.1.320,2020-03-16,1
+939,San Luis Obispo County,B.1.320,2020-03-23,3
+940,San Luis Obispo County,B.1.320,2020-03-30,4
+941,San Luis Obispo County,B.1.320,2020-04-06,1
+942,San Luis Obispo County,B.1.320,2020-04-13,2
+943,San Luis Obispo County,B.1.320,2020-04-27,5
+944,San Luis Obispo County,B.1.320,2020-05-04,6
+945,San Luis Obispo County,B.1.320,2020-05-11,2
+946,San Luis Obispo County,B.1.336,2020-05-04,5
+947,San Luis Obispo County,B.1.336,2020-07-13,1
+948,San Luis Obispo County,B.1.369,2020-04-20,1
+949,San Luis Obispo County,B.1.369,2020-07-13,5
+950,San Luis Obispo County,B.1.369,2020-07-20,3
+951,San Luis Obispo County,B.1.369,2020-07-27,10
+952,San Luis Obispo County,B.1.369,2020-08-03,1
+953,San Luis Obispo County,B.1.399,2020-07-20,2
+954,San Luis Obispo County,B.1.399,2020-07-27,5
+955,San Luis Obispo County,B.1.399,2020-08-03,2
+956,San Luis Obispo County,B.1.399,2020-09-07,3
+957,San Luis Obispo County,B.1.399,2020-09-21,3
+958,San Luis Obispo County,B.1.453,2020-07-20,4
+959,Santa Clara County,A,2020-04-06,1
+960,Santa Clara County,A,2020-04-20,1
+961,Santa Clara County,A.1,2020-03-09,2
+962,Santa Clara County,A.1,2020-04-06,3
+963,Santa Clara County,A.1,2020-04-13,2
+964,Santa Clara County,A.1,2020-04-27,2
+965,Santa Clara County,A.1,2020-05-11,3
+966,Santa Clara County,A.3,2020-04-06,1
+967,Santa Clara County,B,2020-03-09,1
+968,Santa Clara County,B,2020-03-16,2
+969,Santa Clara County,B,2020-03-23,2
+970,Santa Clara County,B,2020-03-30,2
+971,Santa Clara County,B,2020-04-06,13
+972,Santa Clara County,B,2020-04-13,3
+973,Santa Clara County,B,2020-04-20,2
+974,Santa Clara County,B,2020-04-27,2
+975,Santa Clara County,B,2020-05-11,5
+976,Santa Clara County,B.1,2020-03-16,2
+977,Santa Clara County,B.1,2020-03-23,1
+978,Santa Clara County,B.1,2020-03-30,1
+979,Santa Clara County,B.1,2020-04-06,22
+980,Santa Clara County,B.1,2020-04-13,8
+981,Santa Clara County,B.1,2020-04-20,4
+982,Santa Clara County,B.1,2020-04-27,5
+983,Santa Clara County,B.1,2020-05-04,1
+984,Santa Clara County,B.1,2020-05-11,17
+985,Santa Clara County,B.1,2020-05-18,9
+986,Santa Clara County,B.1,2020-05-25,10
+987,Santa Clara County,B.1,2020-06-01,1
+988,Santa Clara County,B.1,2020-06-08,7
+989,Santa Clara County,B.1,2020-06-15,8
+990,Santa Clara County,B.1,2020-06-22,7
+991,Santa Clara County,B.1,2020-06-29,1
+992,Santa Clara County,B.1,2020-07-06,1
+993,Santa Clara County,B.1,2020-07-13,3
+994,Santa Clara County,B.1,2020-07-20,4
+995,Santa Clara County,B.1,2020-07-27,3
+996,Santa Clara County,B.1,2020-08-03,4
+997,Santa Clara County,B.1,2020-08-10,2
+998,Santa Clara County,B.1,2020-08-17,2
+999,Santa Clara County,B.1,2020-09-07,3
+1000,Santa Clara County,B.1,2020-09-14,6
+1001,Santa Clara County,B.1,2020-09-21,28
+1002,Santa Clara County,B.1,2020-09-28,11
+1003,Santa Clara County,B.1,2020-10-05,4
+1004,Santa Clara County,B.1,2020-10-12,5
+1005,Santa Clara County,B.1,2020-10-19,1
+1006,Santa Clara County,B.1,2020-10-26,1
+1007,Santa Clara County,B.1,2020-11-02,1
+1008,Santa Clara County,B.1,2020-11-16,3
+1009,Santa Clara County,B.1,2020-11-23,16
+1010,Santa Clara County,B.1,2020-11-30,2
+1011,Santa Clara County,B.1,2020-12-07,16
+1012,Santa Clara County,B.1,2020-12-14,8
+1013,Santa Clara County,B.1,2020-12-21,2
+1014,Santa Clara County,B.1,2020-12-28,3
+1015,Santa Clara County,B.1,2021-01-04,2
+1016,Santa Clara County,B.1.1,2020-03-16,1
+1017,Santa Clara County,B.1.1.1,2020-06-15,1
+1018,Santa Clara County,B.1.1.1,2020-07-20,2
+1019,Santa Clara County,B.1.1.10,2020-04-06,1
+1020,Santa Clara County,B.1.1.100,2020-12-21,1
+1021,Santa Clara County,B.1.1.100,2021-01-04,3
+1022,Santa Clara County,B.1.1.113,2020-05-11,1
+1023,Santa Clara County,B.1.1.113,2020-05-18,1
+1024,Santa Clara County,B.1.1.113,2020-06-22,2
+1025,Santa Clara County,B.1.1.128,2020-07-20,1
+1026,Santa Clara County,B.1.1.132,2020-04-27,1
+1027,Santa Clara County,B.1.1.132,2020-05-25,1
+1028,Santa Clara County,B.1.1.132,2020-07-27,1
+1029,Santa Clara County,B.1.1.135,2020-09-14,2
+1030,Santa Clara County,B.1.1.135,2020-09-28,4
+1031,Santa Clara County,B.1.1.135,2020-10-05,5
+1032,Santa Clara County,B.1.1.139,2020-06-22,1
+1033,Santa Clara County,B.1.1.139,2020-06-29,1
+1034,Santa Clara County,B.1.1.139,2020-07-20,1
+1035,Santa Clara County,B.1.1.139,2020-08-24,1
+1036,Santa Clara County,B.1.1.139,2020-10-26,1
+1037,Santa Clara County,B.1.1.139,2020-11-09,4
+1038,Santa Clara County,B.1.1.141,2020-12-21,1
+1039,Santa Clara County,B.1.1.152,2020-11-16,1
+1040,Santa Clara County,B.1.1.158,2020-07-20,1
+1041,Santa Clara County,B.1.1.158,2020-07-27,2
+1042,Santa Clara County,B.1.1.162,2020-04-13,2
+1043,Santa Clara County,B.1.1.162,2020-10-19,1
+1044,Santa Clara County,B.1.1.162,2020-10-26,1
+1045,Santa Clara County,B.1.1.174,2020-08-10,11
+1046,Santa Clara County,B.1.1.174,2020-08-17,1
+1047,Santa Clara County,B.1.1.174,2020-08-24,9
+1048,Santa Clara County,B.1.1.174,2020-08-31,1
+1049,Santa Clara County,B.1.1.174,2020-09-07,15
+1050,Santa Clara County,B.1.1.174,2020-09-14,1
+1051,Santa Clara County,B.1.1.192,2020-07-20,1
+1052,Santa Clara County,B.1.1.205,2020-05-18,2
+1053,Santa Clara County,B.1.1.205,2020-05-25,2
+1054,Santa Clara County,B.1.1.205,2020-06-01,1
+1055,Santa Clara County,B.1.1.205,2020-06-22,2
+1056,Santa Clara County,B.1.1.205,2020-07-27,2
+1057,Santa Clara County,B.1.1.205,2020-09-07,2
+1058,Santa Clara County,B.1.1.205,2020-09-14,1
+1059,Santa Clara County,B.1.1.205,2020-09-21,1
+1060,Santa Clara County,B.1.1.205,2020-11-23,1
+1061,Santa Clara County,B.1.1.205,2020-12-07,11
+1062,Santa Clara County,B.1.1.205,2020-12-14,1
+1063,Santa Clara County,B.1.1.205,2020-12-21,1
+1064,Santa Clara County,B.1.1.207,2020-04-06,1
+1065,Santa Clara County,B.1.1.212,2020-11-16,2
+1066,Santa Clara County,B.1.1.212,2020-11-23,4
+1067,Santa Clara County,B.1.1.212,2020-11-30,1
+1068,Santa Clara County,B.1.1.216,2020-10-26,1
+1069,Santa Clara County,B.1.1.216,2020-11-09,2
+1070,Santa Clara County,B.1.1.216,2020-11-16,1
+1071,Santa Clara County,B.1.1.216,2020-11-23,7
+1072,Santa Clara County,B.1.1.222,2020-09-14,1
+1073,Santa Clara County,B.1.1.222,2020-11-02,1
+1074,Santa Clara County,B.1.1.222,2020-11-09,4
+1075,Santa Clara County,B.1.1.222,2020-11-16,1
+1076,Santa Clara County,B.1.1.222,2020-11-23,11
+1077,Santa Clara County,B.1.1.222,2020-11-30,1
+1078,Santa Clara County,B.1.1.222,2020-12-07,9
+1079,Santa Clara County,B.1.1.222,2020-12-14,1
+1080,Santa Clara County,B.1.1.222,2020-12-21,1
+1081,Santa Clara County,B.1.1.222,2021-01-04,2
+1082,Santa Clara County,B.1.1.228,2020-07-13,1
+1083,Santa Clara County,B.1.1.231,2020-12-21,3
+1084,Santa Clara County,B.1.1.244,2020-05-18,1
+1085,Santa Clara County,B.1.1.244,2020-07-27,2
+1086,Santa Clara County,B.1.1.28,2020-06-22,1
+1087,Santa Clara County,B.1.1.285,2020-11-30,1
+1088,Santa Clara County,B.1.1.29,2020-05-18,1
+1089,Santa Clara County,B.1.1.29,2020-06-22,2
+1090,Santa Clara County,B.1.1.291,2020-07-13,1
+1091,Santa Clara County,B.1.1.291,2020-07-27,1
+1092,Santa Clara County,B.1.1.44,2020-11-30,1
+1093,Santa Clara County,B.1.1.44,2020-12-07,4
+1094,Santa Clara County,B.1.1.61,2020-04-20,1
+1095,Santa Clara County,B.1.1.70,2020-04-06,5
+1096,Santa Clara County,B.1.1.70,2020-04-13,1
+1097,Santa Clara County,B.1.1.70,2020-04-27,1
+1098,Santa Clara County,B.1.1.70,2020-05-04,1
+1099,Santa Clara County,B.1.1.70,2020-05-11,4
+1100,Santa Clara County,B.1.1.70,2020-05-18,3
+1101,Santa Clara County,B.1.1.70,2020-06-08,1
+1102,Santa Clara County,B.1.1.70,2020-06-22,4
+1103,Santa Clara County,B.1.1.70,2020-06-29,3
+1104,Santa Clara County,B.1.1.70,2020-07-06,1
+1105,Santa Clara County,B.1.1.70,2020-07-20,9
+1106,Santa Clara County,B.1.1.70,2020-07-27,5
+1107,Santa Clara County,B.1.1.70,2020-08-03,3
+1108,Santa Clara County,B.1.1.70,2020-08-10,1
+1109,Santa Clara County,B.1.1.70,2020-08-31,1
+1110,Santa Clara County,B.1.1.70,2020-09-07,4
+1111,Santa Clara County,B.1.1.70,2020-09-21,3
+1112,Santa Clara County,B.1.1.70,2020-10-05,2
+1113,Santa Clara County,B.1.1.70,2020-11-16,3
+1114,Santa Clara County,B.1.1.70,2020-11-23,19
+1115,Santa Clara County,B.1.1.70,2020-11-30,13
+1116,Santa Clara County,B.1.1.70,2020-12-07,7
+1117,Santa Clara County,B.1.1.70,2020-12-14,1
+1118,Santa Clara County,B.1.110,2020-03-23,1
+1119,Santa Clara County,B.1.110,2020-05-25,3
+1120,Santa Clara County,B.1.110,2020-06-08,1
+1121,Santa Clara County,B.1.110,2020-06-29,1
+1122,Santa Clara County,B.1.110,2020-07-20,1
+1123,Santa Clara County,B.1.110,2020-07-27,1
+1124,Santa Clara County,B.1.139,2020-12-21,1
+1125,Santa Clara County,B.1.14,2020-04-06,12
+1126,Santa Clara County,B.1.14,2020-04-13,16
+1127,Santa Clara County,B.1.14,2020-04-20,5
+1128,Santa Clara County,B.1.14,2020-04-27,12
+1129,Santa Clara County,B.1.14,2020-05-04,3
+1130,Santa Clara County,B.1.14,2020-05-11,1
+1131,Santa Clara County,B.1.157,2020-03-23,1
+1132,Santa Clara County,B.1.166,2020-04-06,1
+1133,Santa Clara County,B.1.166,2020-06-15,1
+1134,Santa Clara County,B.1.189,2020-12-07,2
+1135,Santa Clara County,B.1.199,2020-12-07,1
+1136,Santa Clara County,B.1.2,2020-05-04,1
+1137,Santa Clara County,B.1.2,2020-05-18,1
+1138,Santa Clara County,B.1.2,2020-06-08,1
+1139,Santa Clara County,B.1.2,2020-07-20,1
+1140,Santa Clara County,B.1.2,2020-07-27,1
+1141,Santa Clara County,B.1.2,2020-08-31,1
+1142,Santa Clara County,B.1.2,2020-09-28,1
+1143,Santa Clara County,B.1.2,2020-10-12,4
+1144,Santa Clara County,B.1.2,2020-10-19,3
+1145,Santa Clara County,B.1.2,2020-10-26,5
+1146,Santa Clara County,B.1.2,2020-11-02,1
+1147,Santa Clara County,B.1.2,2020-11-09,3
+1148,Santa Clara County,B.1.2,2020-11-16,16
+1149,Santa Clara County,B.1.2,2020-11-23,21
+1150,Santa Clara County,B.1.2,2020-11-30,28
+1151,Santa Clara County,B.1.2,2020-12-07,57
+1152,Santa Clara County,B.1.2,2020-12-14,72
+1153,Santa Clara County,B.1.2,2020-12-21,69
+1154,Santa Clara County,B.1.2,2020-12-28,15
+1155,Santa Clara County,B.1.2,2021-01-04,49
+1156,Santa Clara County,B.1.216,2020-07-20,1
+1157,Santa Clara County,B.1.216,2020-07-27,1
+1158,Santa Clara County,B.1.216,2020-10-05,1
+1159,Santa Clara County,B.1.216,2020-10-12,1
+1160,Santa Clara County,B.1.216,2020-11-23,4
+1161,Santa Clara County,B.1.216,2020-12-21,2
+1162,Santa Clara County,B.1.232,2020-08-31,1
+1163,Santa Clara County,B.1.232,2020-09-28,1
+1164,Santa Clara County,B.1.232,2020-10-12,1
+1165,Santa Clara County,B.1.232,2020-10-19,2
+1166,Santa Clara County,B.1.232,2020-10-26,8
+1167,Santa Clara County,B.1.232,2020-11-09,2
+1168,Santa Clara County,B.1.232,2020-11-16,7
+1169,Santa Clara County,B.1.232,2020-11-23,38
+1170,Santa Clara County,B.1.232,2020-11-30,36
+1171,Santa Clara County,B.1.232,2020-12-07,50
+1172,Santa Clara County,B.1.232,2020-12-14,8
+1173,Santa Clara County,B.1.232,2020-12-21,6
+1174,Santa Clara County,B.1.232,2020-12-28,4
+1175,Santa Clara County,B.1.232,2021-01-04,2
+1176,Santa Clara County,B.1.234,2020-12-07,5
+1177,Santa Clara County,B.1.234,2020-12-21,4
+1178,Santa Clara County,B.1.239,2020-08-31,4
+1179,Santa Clara County,B.1.239,2020-09-07,2
+1180,Santa Clara County,B.1.239,2020-09-14,1
+1181,Santa Clara County,B.1.239,2020-09-28,2
+1182,Santa Clara County,B.1.239,2020-11-16,2
+1183,Santa Clara County,B.1.239,2020-12-07,4
+1184,Santa Clara County,B.1.240,2020-06-29,1
+1185,Santa Clara County,B.1.240,2020-08-31,2
+1186,Santa Clara County,B.1.240,2020-09-07,4
+1187,Santa Clara County,B.1.240,2020-11-09,1
+1188,Santa Clara County,B.1.240,2020-11-23,6
+1189,Santa Clara County,B.1.240,2020-12-07,15
+1190,Santa Clara County,B.1.240,2020-12-14,1
+1191,Santa Clara County,B.1.241,2020-07-27,1
+1192,Santa Clara County,B.1.241,2020-09-07,2
+1193,Santa Clara County,B.1.241,2020-10-05,1
+1194,Santa Clara County,B.1.241,2020-11-23,1
+1195,Santa Clara County,B.1.241,2020-12-07,1
+1196,Santa Clara County,B.1.243,2020-05-18,1
+1197,Santa Clara County,B.1.243,2020-05-25,1
+1198,Santa Clara County,B.1.243,2020-06-08,3
+1199,Santa Clara County,B.1.243,2020-06-15,1
+1200,Santa Clara County,B.1.243,2020-06-22,13
+1201,Santa Clara County,B.1.243,2020-06-29,41
+1202,Santa Clara County,B.1.243,2020-07-06,19
+1203,Santa Clara County,B.1.243,2020-07-13,2
+1204,Santa Clara County,B.1.243,2020-07-20,28
+1205,Santa Clara County,B.1.243,2020-07-27,8
+1206,Santa Clara County,B.1.243,2020-08-03,22
+1207,Santa Clara County,B.1.243,2020-08-10,9
+1208,Santa Clara County,B.1.243,2020-08-17,7
+1209,Santa Clara County,B.1.243,2020-08-31,2
+1210,Santa Clara County,B.1.243,2020-09-07,4
+1211,Santa Clara County,B.1.243,2020-09-14,11
+1212,Santa Clara County,B.1.243,2020-09-21,2
+1213,Santa Clara County,B.1.243,2020-09-28,5
+1214,Santa Clara County,B.1.243,2020-10-05,4
+1215,Santa Clara County,B.1.243,2020-10-12,7
+1216,Santa Clara County,B.1.243,2020-10-19,8
+1217,Santa Clara County,B.1.243,2020-10-26,2
+1218,Santa Clara County,B.1.243,2020-11-02,4
+1219,Santa Clara County,B.1.243,2020-11-09,4
+1220,Santa Clara County,B.1.243,2020-11-16,2
+1221,Santa Clara County,B.1.243,2020-11-23,14
+1222,Santa Clara County,B.1.243,2020-11-30,50
+1223,Santa Clara County,B.1.243,2020-12-07,57
+1224,Santa Clara County,B.1.243,2020-12-14,4
+1225,Santa Clara County,B.1.243,2020-12-21,11
+1226,Santa Clara County,B.1.243,2020-12-28,6
+1227,Santa Clara County,B.1.267,2020-07-20,4
+1228,Santa Clara County,B.1.293,2020-06-22,2
+1229,Santa Clara County,B.1.293,2020-06-29,1
+1230,Santa Clara County,B.1.293,2020-07-06,1
+1231,Santa Clara County,B.1.305,2020-09-07,1
+1232,Santa Clara County,B.1.305,2020-09-28,1
+1233,Santa Clara County,B.1.305,2020-10-05,2
+1234,Santa Clara County,B.1.305,2020-10-12,18
+1235,Santa Clara County,B.1.305,2020-10-19,4
+1236,Santa Clara County,B.1.305,2020-10-26,2
+1237,Santa Clara County,B.1.305,2020-11-02,6
+1238,Santa Clara County,B.1.305,2020-11-09,7
+1239,Santa Clara County,B.1.309,2020-06-29,1
+1240,Santa Clara County,B.1.309,2020-07-13,1
+1241,Santa Clara County,B.1.309,2020-07-20,1
+1242,Santa Clara County,B.1.311,2020-12-07,1
+1243,Santa Clara County,B.1.320,2020-05-11,1
+1244,Santa Clara County,B.1.320,2020-06-22,1
+1245,Santa Clara County,B.1.320,2020-07-20,1
+1246,Santa Clara County,B.1.324,2020-04-06,1
+1247,Santa Clara County,B.1.325,2020-12-07,2
+1248,Santa Clara County,B.1.336,2020-04-27,2
+1249,Santa Clara County,B.1.336,2020-05-25,7
+1250,Santa Clara County,B.1.336,2020-06-01,1
+1251,Santa Clara County,B.1.336,2020-06-08,1
+1252,Santa Clara County,B.1.348,2020-11-23,1
+1253,Santa Clara County,B.1.348,2020-12-07,1
+1254,Santa Clara County,B.1.349,2020-12-07,1
+1255,Santa Clara County,B.1.36,2020-09-07,2
+1256,Santa Clara County,B.1.36,2020-12-07,1
+1257,Santa Clara County,B.1.36,2020-12-21,1
+1258,Santa Clara County,B.1.360,2020-12-07,3
+1259,Santa Clara County,B.1.360,2021-01-04,2
+1260,Santa Clara County,B.1.361,2020-10-19,1
+1261,Santa Clara County,B.1.363,2020-06-22,1
+1262,Santa Clara County,B.1.369,2020-05-11,1
+1263,Santa Clara County,B.1.369,2020-06-15,1
+1264,Santa Clara County,B.1.369,2020-06-22,4
+1265,Santa Clara County,B.1.369,2020-07-20,2
+1266,Santa Clara County,B.1.369,2020-07-27,3
+1267,Santa Clara County,B.1.369,2020-08-24,3
+1268,Santa Clara County,B.1.369,2020-09-14,2
+1269,Santa Clara County,B.1.369,2020-09-28,4
+1270,Santa Clara County,B.1.369,2020-10-05,2
+1271,Santa Clara County,B.1.369,2020-10-12,1
+1272,Santa Clara County,B.1.369,2020-10-26,2
+1273,Santa Clara County,B.1.369,2020-12-21,1
+1274,Santa Clara County,B.1.384,2020-04-27,1
+1275,Santa Clara County,B.1.396,2020-10-19,1
+1276,Santa Clara County,B.1.396,2020-10-26,1
+1277,Santa Clara County,B.1.396,2020-11-09,1
+1278,Santa Clara County,B.1.397,2020-11-23,2
+1279,Santa Clara County,B.1.398,2020-09-14,1
+1280,Santa Clara County,B.1.398,2020-09-21,3
+1281,Santa Clara County,B.1.399,2020-07-20,1
+1282,Santa Clara County,B.1.399,2020-07-27,2
+1283,Santa Clara County,B.1.399,2020-08-17,1
+1284,Santa Clara County,B.1.399,2020-09-07,8
+1285,Santa Clara County,B.1.399,2020-09-28,5
+1286,Santa Clara County,B.1.399,2020-10-05,12
+1287,Santa Clara County,B.1.399,2020-10-12,27
+1288,Santa Clara County,B.1.399,2020-10-19,17
+1289,Santa Clara County,B.1.399,2020-10-26,4
+1290,Santa Clara County,B.1.399,2020-11-02,24
+1291,Santa Clara County,B.1.399,2020-11-09,5
+1292,Santa Clara County,B.1.399,2020-11-16,1
+1293,Santa Clara County,B.1.399,2020-11-23,6
+1294,Santa Clara County,B.1.399,2020-11-30,2
+1295,Santa Clara County,B.1.400,2020-06-22,1
+1296,Santa Clara County,B.1.400,2020-07-27,3
+1297,Santa Clara County,B.1.400,2020-08-31,6
+1298,Santa Clara County,B.1.400,2020-09-07,2
+1299,Santa Clara County,B.1.400,2020-12-07,1
+1300,Santa Clara County,B.1.400,2020-12-21,2
+1301,Santa Clara County,B.1.402,2020-09-07,2
+1302,Santa Clara County,B.1.402,2020-09-28,1
+1303,Santa Clara County,B.1.402,2020-11-16,1
+1304,Santa Clara County,B.1.402,2020-11-23,6
+1305,Santa Clara County,B.1.402,2020-11-30,4
+1306,Santa Clara County,B.1.402,2020-12-07,1
+1307,Santa Clara County,B.1.403,2020-04-13,1
+1308,Santa Clara County,B.1.403,2020-07-27,1
+1309,Santa Clara County,B.1.403,2020-08-03,1
+1310,Santa Clara County,B.1.404,2020-10-19,2
+1311,Santa Clara County,B.1.404,2020-11-02,1
+1312,Santa Clara County,B.1.404,2020-11-09,1
+1313,Santa Clara County,B.1.404,2020-12-07,2
+1314,Santa Clara County,B.1.404,2020-12-14,1
+1315,Santa Clara County,B.1.409,2020-12-21,1
+1316,Santa Clara County,B.1.420,2020-12-07,1
+1317,Santa Clara County,B.1.423,2020-11-16,1
+1318,Santa Clara County,B.1.427,2020-11-23,6
+1319,Santa Clara County,B.1.427,2020-11-30,17
+1320,Santa Clara County,B.1.427,2020-12-07,15
+1321,Santa Clara County,B.1.427,2020-12-14,21
+1322,Santa Clara County,B.1.427,2020-12-21,26
+1323,Santa Clara County,B.1.427,2020-12-28,11
+1324,Santa Clara County,B.1.427,2021-01-04,3
+1325,Santa Clara County,B.1.429,2020-11-16,2
+1326,Santa Clara County,B.1.429,2020-11-23,5
+1327,Santa Clara County,B.1.429,2020-11-30,6
+1328,Santa Clara County,B.1.429,2020-12-07,19
+1329,Santa Clara County,B.1.429,2020-12-14,5
+1330,Santa Clara County,B.1.429,2020-12-21,12
+1331,Santa Clara County,B.1.429,2020-12-28,13
+1332,Santa Clara County,B.1.429,2021-01-04,8
+1333,Santa Clara County,B.1.443,2020-05-18,1
+1334,Santa Clara County,B.1.443,2020-06-22,1
+1335,Santa Clara County,B.1.452,2020-04-06,1
+1336,Santa Clara County,B.1.452,2020-05-18,7
+1337,Santa Clara County,B.1.452,2020-05-25,2
+1338,Santa Clara County,B.1.452,2020-06-01,1
+1339,Santa Clara County,B.1.452,2020-06-08,1
+1340,Santa Clara County,B.1.452,2020-06-15,1
+1341,Santa Clara County,B.1.452,2020-06-22,1
+1342,Santa Clara County,B.1.452,2020-06-29,2
+1343,Santa Clara County,B.1.452,2020-07-06,2
+1344,Santa Clara County,B.1.452,2020-07-13,1
+1345,Santa Clara County,B.1.452,2020-07-27,1
+1346,Santa Clara County,B.1.453,2020-05-18,1
+1347,Santa Clara County,B.1.453,2020-05-25,2
+1348,Santa Clara County,B.1.453,2020-06-08,3
+1349,Santa Clara County,B.1.453,2020-06-29,1
+1350,Santa Clara County,B.1.453,2020-07-06,1
+1351,Santa Clara County,B.1.453,2020-10-05,1
+1352,Santa Clara County,B.1.453,2020-10-12,1
+1353,Santa Clara County,B.1.453,2020-10-26,3
+1354,Santa Clara County,B.1.453,2020-11-23,1
+1355,Santa Clara County,B.1.503,2020-04-13,1
+1356,Santa Clara County,B.1.503,2020-04-20,3
+1357,Santa Clara County,B.1.503,2020-04-27,2
+1358,Santa Clara County,B.1.503,2020-05-04,1
+1359,Santa Clara County,B.1.503,2020-05-11,2
+1360,Santa Clara County,B.1.503,2020-05-18,9
+1361,Santa Clara County,B.1.503,2020-05-25,8
+1362,Santa Clara County,B.1.503,2020-06-01,1
+1363,Santa Clara County,B.1.503,2020-06-08,10
+1364,Santa Clara County,B.1.503,2020-06-15,4
+1365,Santa Clara County,B.1.503,2020-06-22,9
+1366,Santa Clara County,B.1.503,2020-06-29,1
+1367,Santa Clara County,B.1.503,2020-07-06,1
+1368,Santa Clara County,B.1.503,2020-07-13,1
+1369,Santa Clara County,B.1.503,2020-07-20,1
+1370,Santa Clara County,B.1.503,2020-07-27,1
+1371,Santa Clara County,B.1.503,2020-09-07,2
+1372,Santa Clara County,B.1.509,2020-05-25,1
+1373,Santa Clara County,B.1.521,2020-04-06,1
+1374,Santa Clara County,B.1.523,2020-11-09,1
+1375,Santa Clara County,B.1.523,2020-12-07,1
+1376,Santa Clara County,B.1.523,2020-12-21,1
+1377,Santa Clara County,B.1.9,2020-04-06,1
+1378,Santa Clara County,B.19,2020-03-30,1
+1379,Santa Clara County,B.19,2020-04-06,19
+1380,Santa Clara County,B.19,2020-04-13,3
+1381,Santa Clara County,B.19,2020-04-20,1
+1382,Santa Clara County,B.19,2020-04-27,1
+1383,Santa Clara County,B.19,2020-05-18,1
+1384,Santa Clara County,B.20,2020-04-06,8
+1385,Santa Clara County,B.20,2020-04-13,27
+1386,Santa Clara County,B.20,2020-04-20,1
+1387,Santa Clara County,B.20,2020-05-04,3
+1388,Santa Clara County,B.20,2020-05-18,2
+1389,Santa Clara County,B.3,2020-04-06,1
+1390,Santa Clara County,B.46,2020-04-13,28
+1391,Santa Clara County,B.46,2020-04-20,14
+1392,Santa Clara County,B.46,2020-04-27,1
+1393,Santa Clara County,B.46,2020-05-11,2
+1394,Santa Clara County,B.6,2020-04-06,1
+1395,Sonoma county,A.1,2020-05-11,1
+1396,Sonoma county,B.1,2020-05-04,4
+1397,Sonoma county,B.1.1.167,2020-06-01,1
+1398,Sonoma county,B.1.106,2020-05-04,1
+1399,Sonoma county,B.1.239,2020-05-25,1
+1400,Sonoma county,B.1.243,2020-05-25,3
+1401,Sonoma county,B.1.243,2020-06-01,1
+1402,Sonoma county,B.1.400,2020-05-04,1
+1403,Sonoma county,B.1.400,2020-05-18,3
+1404,Sonoma county,B.1.400,2020-05-25,3
+1405,Tulare County,B.1,2020-05-18,8
+1406,Tulare County,B.1,2020-06-01,2
+1407,Tulare County,B.1.2,2020-10-05,3
+1408,Tulare County,B.1.2,2020-10-26,3
+1409,Tulare County,B.1.240,2020-10-12,1
+1410,Tulare County,B.1.243,2020-09-21,1
+1411,Tulare County,B.1.243,2020-09-28,1
+1412,Tulare County,B.1.243,2020-10-05,1
+1413,Tulare County,B.1.369,2020-10-05,4
+1414,Tuolumne County,B.1,2020-08-24,1
+1415,Tuolumne County,B.1.243,2020-07-13,1
+1416,Tuolumne County,B.1.243,2020-08-24,1
+1417,Ventura County,A.1,2020-03-23,2
+1418,Ventura County,B,2020-03-23,1
+1419,Ventura County,B.1,2020-03-09,1
+1420,Ventura County,B.1,2020-03-16,1
+1421,Ventura County,B.1,2020-03-23,3
+1422,Ventura County,B.1,2020-03-30,6
+1423,Ventura County,B.1,2020-04-06,3
+1424,Ventura County,B.1,2020-04-13,1
+1425,Ventura County,B.1,2020-04-20,1
+1426,Ventura County,B.1,2020-05-04,6
+1427,Ventura County,B.1,2020-05-11,1
+1428,Ventura County,B.1,2020-05-18,2
+1429,Ventura County,B.1,2020-06-22,1
+1430,Ventura County,B.1.1.1,2020-06-15,1
+1431,Ventura County,B.1.1.174,2020-04-06,1
+1432,Ventura County,B.1.1.287,2020-05-25,1
+1433,Ventura County,B.1.1.61,2020-05-04,1
+1434,Ventura County,B.1.1.70,2020-04-13,2
+1435,Ventura County,B.1.1.70,2020-04-27,2
+1436,Ventura County,B.1.163,2020-04-13,1
+1437,Ventura County,B.1.163,2020-04-20,2
+1438,Ventura County,B.1.163,2020-04-27,3
+1439,Ventura County,B.1.166,2020-03-30,1
+1440,Ventura County,B.1.166,2020-04-06,2
+1441,Ventura County,B.1.241,2020-05-11,1
+1442,Ventura County,B.1.243,2020-05-18,1
+1443,Ventura County,B.1.243,2020-06-08,2
+1444,Ventura County,B.1.243,2020-06-15,1
+1445,Ventura County,B.1.243,2020-06-29,1
+1446,Ventura County,B.1.320,2020-03-16,2
+1447,Ventura County,B.1.320,2020-04-20,1
+1448,Ventura County,B.1.320,2020-04-27,1
+1449,Ventura County,B.1.320,2020-05-04,4
+1450,Ventura County,B.1.320,2020-05-11,10
+1451,Ventura County,B.1.320,2020-05-18,1
+1452,Ventura County,B.1.320,2020-06-08,11
+1453,Ventura County,B.1.369,2020-05-18,1
+1454,Ventura County,B.1.369,2020-06-01,1
+1455,Ventura County,B.1.521,2020-06-01,1
