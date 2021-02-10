@@ -1,0 +1,2657 @@
+county	collection_date	MMWRweek	lineage	count
+Alameda County	2020-03-19	12	B.1	1
+Alameda County	2020-03-19	12	B.40	1
+Alameda County	2020-03-22	13	B	1
+Alameda County	2020-03-24	13	B	1
+Alameda County	2020-04-01	14	A.1	1
+Alameda County	2020-04-02	14	A.1	1
+Alameda County	2020-04-08	15	B	1
+Alameda County	2020-04-08	15	B.1.166	1
+Alameda County	2020-04-09	15	B	1
+Alameda County	2020-04-09	15	B.1.110	1
+Alameda County	2020-04-10	15	B	1
+Alameda County	2020-04-11	15	A.1	3
+Alameda County	2020-04-11	15	B	1
+Alameda County	2020-04-12	16	A.1	2
+Alameda County	2020-04-12	16	B	1
+Alameda County	2020-04-12	16	B.1.110	2
+Alameda County	2020-04-13	16	B	1
+Alameda County	2020-04-13	16	B.1	1
+Alameda County	2020-04-14	16	B.1.453	1
+Alameda County	2020-04-16	16	B	1
+Alameda County	2020-04-16	16	B.1.110	1
+Alameda County	2020-04-16	16	B.1.503	1
+Alameda County	2020-04-17	16	B	1
+Alameda County	2020-04-18	16	A.1	1
+Alameda County	2020-04-18	16	B	2
+Alameda County	2020-04-19	17	B	1
+Alameda County	2020-04-19	17	B.1.1.70	1
+Alameda County	2020-04-19	17	B.1.453	2
+Alameda County	2020-04-20	17	B	5
+Alameda County	2020-04-30	18	A.1	1
+Alameda County	2020-04-30	18	B.1.110	1
+Alameda County	2020-04-30	18	B.1.166	2
+Alameda County	2020-04-30	18	B.1.453	2
+Alameda County	2020-05-01	18	B.1.453	1
+Alameda County	2020-05-02	18	B.1.453	4
+Alameda County	2020-05-02	18	B.1.503	1
+Alameda County	2020-05-03	19	B.1	1
+Alameda County	2020-05-03	19	B.1.166	4
+Alameda County	2020-05-03	19	B.1.453	1
+Alameda County	2020-05-04	19	B.1.320	1
+Alameda County	2020-05-06	19	B.1.166	2
+Alameda County	2020-05-07	19	B.1.110	1
+Alameda County	2020-05-07	19	B.1.453	2
+Alameda County	2020-05-08	19	B	1
+Alameda County	2020-05-08	19	B.1.166	1
+Alameda County	2020-05-08	19	B.1.453	3
+Alameda County	2020-05-08	19	B.1.503	1
+Alameda County	2020-05-09	19	B.1.166	1
+Alameda County	2020-05-10	20	B.1.503	1
+Alameda County	2020-05-11	20	B.1.1.70	1
+Alameda County	2020-05-11	20	B.1.110	1
+Alameda County	2020-05-11	20	B.1.320	2
+Alameda County	2020-05-11	20	B.1.453	1
+Alameda County	2020-05-11	20	B.1.503	3
+Alameda County	2020-05-12	20	A.1	1
+Alameda County	2020-05-12	20	B.1.453	5
+Alameda County	2020-05-13	20	B.1	4
+Alameda County	2020-05-13	20	B.1.453	3
+Alameda County	2020-05-13	20	B.1.503	1
+Alameda County	2020-05-14	20	B	1
+Alameda County	2020-05-14	20	B.1.1.274	1
+Alameda County	2020-05-14	20	B.1.1.70	1
+Alameda County	2020-05-14	20	B.1.166	1
+Alameda County	2020-05-14	20	B.1.320	1
+Alameda County	2020-05-14	20	B.1.453	1
+Alameda County	2020-05-15	20	B.1	1
+Alameda County	2020-05-15	20	B.1.110	1
+Alameda County	2020-05-15	20	B.1.453	2
+Alameda County	2020-05-15	20	B.1.503	2
+Alameda County	2020-05-16	20	B.1	1
+Alameda County	2020-05-16	20	B.1.166	1
+Alameda County	2020-05-16	20	B.1.453	3
+Alameda County	2020-05-16	20	B.1.503	1
+Alameda County	2020-05-17	21	B.1.1.70	1
+Alameda County	2020-05-17	21	B.1.453	3
+Alameda County	2020-05-18	21	B.1.166	2
+Alameda County	2020-05-19	21	B.1.503	1
+Alameda County	2020-05-20	21	B.1	1
+Alameda County	2020-05-21	21	B.1	1
+Alameda County	2020-05-21	21	B.1.1.109	1
+Alameda County	2020-05-21	21	B.1.1.70	1
+Alameda County	2020-05-22	21	B.1.1.29	1
+Alameda County	2020-05-22	21	B.1.453	2
+Alameda County	2020-05-22	21	B.1.503	1
+Alameda County	2020-05-23	21	B.1.1.29	1
+Alameda County	2020-05-23	21	B.1.1.70	3
+Alameda County	2020-05-23	21	B.1.453	4
+Alameda County	2020-05-24	22	B.1.1.70	1
+Alameda County	2020-05-24	22	B.1.453	1
+Alameda County	2020-05-24	22	B.1.503	1
+Alameda County	2020-05-25	22	B.1	4
+Alameda County	2020-05-25	22	B.1.1.70	1
+Alameda County	2020-05-25	22	B.1.320	1
+Alameda County	2020-05-25	22	B.1.453	1
+Alameda County	2020-05-25	22	B.1.503	1
+Alameda County	2020-05-26	22	B.1.1.29	1
+Alameda County	2020-05-26	22	B.1.1.70	3
+Alameda County	2020-05-26	22	B.1.453	3
+Alameda County	2020-05-27	22	B.1.1.205	1
+Alameda County	2020-05-27	22	B.1.1.70	2
+Alameda County	2020-05-27	22	B.1.453	5
+Alameda County	2020-05-28	22	A.1	1
+Alameda County	2020-05-28	22	B.1.1.70	1
+Alameda County	2020-05-28	22	B.1.110	1
+Alameda County	2020-05-28	22	B.1.453	1
+Alameda County	2020-05-28	22	B.1.503	1
+Alameda County	2020-05-29	22	B.1	2
+Alameda County	2020-05-29	22	B.1.1.70	2
+Alameda County	2020-05-29	22	B.1.453	2
+Alameda County	2020-05-29	22	B.1.503	1
+Alameda County	2020-05-30	22	B.1.1.205	1
+Alameda County	2020-05-30	22	B.1.1.29	1
+Alameda County	2020-05-30	22	B.1.1.70	1
+Alameda County	2020-05-30	22	B.1.453	2
+Alameda County	2020-05-31	23	B.1	1
+Alameda County	2020-05-31	23	B.1.503	1
+Alameda County	2020-06-01	23	B.1.320	2
+Alameda County	2020-06-03	23	B.1	1
+Alameda County	2020-06-03	23	B.1.453	1
+Alameda County	2020-06-06	23	B.1.453	1
+Alameda County	2020-06-07	24	B.1	1
+Alameda County	2020-06-08	24	B	1
+Alameda County	2020-06-08	24	B.1.1.70	1
+Alameda County	2020-06-08	24	B.1.110	1
+Alameda County	2020-06-08	24	B.1.453	1
+Alameda County	2020-06-10	24	B.1.1.205	1
+Alameda County	2020-06-10	24	B.1.320	1
+Alameda County	2020-06-10	24	B.1.453	1
+Alameda County	2020-06-12	24	B.1.320	1
+Alameda County	2020-06-14	25	B.1	1
+Alameda County	2020-06-14	25	B.1.1.162	1
+Alameda County	2020-06-14	25	B.1.1.70	1
+Alameda County	2020-06-15	25	B.1.453	1
+Alameda County	2020-06-16	25	B.1.243	1
+Alameda County	2020-06-16	25	B.1.453	2
+Alameda County	2020-06-16	25	B.1.503	2
+Alameda County	2020-06-18	25	B.1	1
+Alameda County	2020-06-18	25	B.1.1.205	1
+Alameda County	2020-06-18	25	B.1.1.70	3
+Alameda County	2020-06-18	25	B.1.243	2
+Alameda County	2020-06-18	25	B.1.503	1
+Alameda County	2020-06-19	25	B.1.1.70	2
+Alameda County	2020-06-19	25	B.1.369	1
+Alameda County	2020-06-19	25	B.1.453	2
+Alameda County	2020-06-21	26	B.1.1.174	1
+Alameda County	2020-06-21	26	B.1.1.70	1
+Alameda County	2020-06-21	26	B.1.453	1
+Alameda County	2020-06-21	26	B.1.503	1
+Alameda County	2020-06-22	26	B.1	1
+Alameda County	2020-06-22	26	B.1.1.101	2
+Alameda County	2020-06-22	26	B.1.1.127	1
+Alameda County	2020-06-22	26	B.1.1.174	1
+Alameda County	2020-06-22	26	B.1.1.70	4
+Alameda County	2020-06-22	26	B.1.320	7
+Alameda County	2020-06-22	26	B.1.369	1
+Alameda County	2020-06-22	26	B.1.453	2
+Alameda County	2020-06-23	26	B.1	1
+Alameda County	2020-06-23	26	B.1.1.174	2
+Alameda County	2020-06-23	26	B.1.1.70	1
+Alameda County	2020-06-23	26	B.1.390	1
+Alameda County	2020-06-23	26	B.1.453	1
+Alameda County	2020-06-24	26	B.1.320	1
+Alameda County	2020-06-24	26	B.1.453	2
+Alameda County	2020-06-24	26	B.1.503	1
+Alameda County	2020-06-25	26	B.1	1
+Alameda County	2020-06-25	26	B.1.1.127	2
+Alameda County	2020-06-25	26	B.1.453	2
+Alameda County	2020-06-26	26	B.1	1
+Alameda County	2020-06-26	26	B.1.320	1
+Alameda County	2020-06-26	26	B.1.453	4
+Alameda County	2020-06-27	26	B.1.369	1
+Alameda County	2020-06-27	26	B.1.453	2
+Alameda County	2020-06-28	27	B.1	1
+Alameda County	2020-06-28	27	B.1.1.128	1
+Alameda County	2020-06-28	27	B.1.1.287	1
+Alameda County	2020-06-28	27	B.1.320	3
+Alameda County	2020-06-28	27	B.1.343	2
+Alameda County	2020-06-29	27	B.1.1.277	3
+Alameda County	2020-06-29	27	B.1.1.70	1
+Alameda County	2020-06-29	27	B.1.243	1
+Alameda County	2020-06-29	27	B.1.453	1
+Alameda County	2020-06-30	27	B.1	1
+Alameda County	2020-07-01	27	B.1.1.205	1
+Alameda County	2020-07-02	27	B.1.1.70	1
+Alameda County	2020-07-02	27	B.1.243	1
+Alameda County	2020-07-02	27	B.1.320	1
+Alameda County	2020-07-03	27	B.1.453	1
+Alameda County	2020-07-06	28	B.1.1.101	1
+Alameda County	2020-07-06	28	B.1.1.70	1
+Alameda County	2020-07-07	28	B.1.2	1
+Alameda County	2020-07-07	28	B.1.240	1
+Alameda County	2020-07-07	28	B.1.369	1
+Alameda County	2020-07-07	28	B.1.452	2
+Alameda County	2020-07-08	28	B.1.1.70	2
+Alameda County	2020-07-08	28	B.1.243	2
+Alameda County	2020-07-08	28	B.1.320	5
+Alameda County	2020-07-08	28	B.1.363	1
+Alameda County	2020-07-08	28	B.1.369	1
+Alameda County	2020-07-09	28	B.1	1
+Alameda County	2020-07-09	28	B.1.1.101	1
+Alameda County	2020-07-09	28	B.1.1.70	3
+Alameda County	2020-07-09	28	B.1.2	1
+Alameda County	2020-07-09	28	B.1.369	1
+Alameda County	2020-07-10	28	B.1.1.70	1
+Alameda County	2020-07-10	28	B.1.453	1
+Alameda County	2020-07-11	28	B.1	1
+Alameda County	2020-07-11	28	B.1.1.70	1
+Alameda County	2020-07-12	29	B.1.369	1
+Alameda County	2020-07-14	29	B.1.1.70	2
+Alameda County	2020-07-15	29	B.1.1.70	1
+Alameda County	2020-07-15	29	B.1.243	1
+Alameda County	2020-07-15	29	B.1.348	1
+Alameda County	2020-07-15	29	B.1.361	1
+Alameda County	2020-07-16	29	B.1.1.70	1
+Alameda County	2020-07-17	29	B.1.1.70	1
+Alameda County	2020-07-17	29	B.1.243	1
+Alameda County	2020-07-17	29	B.1.369	1
+Alameda County	2020-07-17	29	B.1.453	1
+Alameda County	2020-07-23	30	B.1.1.70	1
+Alameda County	2020-07-23	30	B.1.243	1
+Alameda County	2020-07-23	30	B.1.369	1
+Alameda County	2020-07-24	30	B.1.1.228	1
+Alameda County	2020-07-24	30	B.1.243	1
+Alameda County	2020-07-27	31	B.1	1
+Alameda County	2020-07-29	31	B.1.1.54	1
+Alameda County	2020-07-29	31	B.1.1.82	1
+Alameda County	2020-07-31	31	B.1	1
+Alameda County	2020-08-02	32	B.1.243	1
+Alameda County	2020-08-03	32	B.1.1.239	1
+Alameda County	2020-08-05	32	B.1	1
+Alameda County	2020-08-05	32	B.1.243	1
+Alameda County	2020-08-05	32	B.1.402	1
+Alameda County	2020-08-05	32	B.1.508	1
+Alameda County	2020-08-06	32	B.1	3
+Alameda County	2020-08-06	32	B.1.243	1
+Alameda County	2020-08-06	32	B.1.402	1
+Alameda County	2020-08-07	32	B.1.1.174	1
+Alameda County	2020-08-08	32	B.1.239	1
+Alameda County	2020-08-08	32	B.1.243	2
+Alameda County	2020-08-09	33	B.1.239	1
+Alameda County	2020-08-09	33	B.1.243	1
+Alameda County	2020-08-10	33	B.1.1.128	1
+Alameda County	2020-08-10	33	B.1.1.174	1
+Alameda County	2020-08-10	33	B.1.1.70	2
+Alameda County	2020-08-10	33	B.1.241	1
+Alameda County	2020-08-10	33	B.1.243	2
+Alameda County	2020-08-11	33	B.1	2
+Alameda County	2020-08-11	33	B.1.243	6
+Alameda County	2020-08-12	33	B.1	1
+Alameda County	2020-08-12	33	B.1.1.216	1
+Alameda County	2020-08-12	33	B.1.1.70	3
+Alameda County	2020-08-12	33	B.1.243	2
+Alameda County	2020-08-13	33	B.1.403	1
+Alameda County	2020-08-14	33	B.1	3
+Alameda County	2020-08-14	33	B.1.1.130	1
+Alameda County	2020-08-14	33	B.1.1.64	1
+Alameda County	2020-08-14	33	B.1.239	1
+Alameda County	2020-08-14	33	B.1.243	1
+Alameda County	2020-08-14	33	B.1.453	1
+Alameda County	2020-08-15	33	B.1.1.70	1
+Alameda County	2020-08-16	34	B.1	1
+Alameda County	2020-08-16	34	B.1.397	1
+Alameda County	2020-08-17	34	B.1	2
+Alameda County	2020-08-17	34	B.1.1.216	11
+Alameda County	2020-08-17	34	B.1.1.29	1
+Alameda County	2020-08-17	34	B.1.2	1
+Alameda County	2020-08-17	34	B.1.243	2
+Alameda County	2020-08-17	34	B.1.336	1
+Alameda County	2020-08-17	34	B.1.361	1
+Alameda County	2020-08-17	34	B.1.369	1
+Alameda County	2020-08-18	34	B.1.1.216	1
+Alameda County	2020-08-19	34	B.1	1
+Alameda County	2020-08-19	34	B.1.243	2
+Alameda County	2020-08-19	34	B.1.361	1
+Alameda County	2020-08-20	34	B.1	1
+Alameda County	2020-08-20	34	B.1.1.70	2
+Alameda County	2020-08-20	34	B.1.243	1
+Alameda County	2020-08-20	34	B.1.397	1
+Alameda County	2020-08-22	34	B.1	1
+Alameda County	2020-08-22	34	B.1.1.216	2
+Alameda County	2020-08-22	34	B.1.1.70	1
+Alameda County	2020-08-23	35	B.1.2	1
+Alameda County	2020-08-24	35	B.1	1
+Alameda County	2020-08-24	35	B.1.1.277	1
+Alameda County	2020-08-24	35	B.1.1.294	1
+Alameda County	2020-08-24	35	B.1.1.70	1
+Alameda County	2020-08-24	35	B.1.241	2
+Alameda County	2020-08-24	35	B.1.243	3
+Alameda County	2020-08-25	35	B.1	2
+Alameda County	2020-08-25	35	B.1.1.70	1
+Alameda County	2020-08-25	35	B.1.2	1
+Alameda County	2020-08-25	35	B.1.243	1
+Alameda County	2020-08-26	35	B.1.1.70	1
+Alameda County	2020-08-26	35	B.1.403	1
+Alameda County	2020-08-27	35	B.1	1
+Alameda County	2020-08-27	35	B.1.2	1
+Alameda County	2020-08-27	35	B.1.241	1
+Alameda County	2020-08-27	35	B.1.398	1
+Alameda County	2020-08-27	35	B.1.403	2
+Alameda County	2020-08-28	35	B.1	1
+Alameda County	2020-08-28	35	B.1.1.128	1
+Alameda County	2020-08-28	35	B.1.1.70	1
+Alameda County	2020-08-28	35	B.1.2	1
+Alameda County	2020-08-28	35	B.1.320	1
+Alameda County	2020-08-31	36	B.1.243	2
+Alameda County	2020-08-31	36	B.1.402	2
+Alameda County	2020-09-01	36	B.1	1
+Alameda County	2020-09-01	36	B.1.1.216	1
+Alameda County	2020-09-01	36	B.1.1.70	1
+Alameda County	2020-09-02	36	B.1	1
+Alameda County	2020-09-02	36	B.1.1.216	1
+Alameda County	2020-09-02	36	B.1.1.70	2
+Alameda County	2020-09-02	36	B.1.206	1
+Alameda County	2020-09-02	36	B.1.243	2
+Alameda County	2020-09-02	36	B.1.369	1
+Alameda County	2020-09-03	36	B.1	4
+Alameda County	2020-09-03	36	B.1.1.216	1
+Alameda County	2020-09-03	36	B.1.243	3
+Alameda County	2020-09-04	36	B.1.2	1
+Alameda County	2020-09-08	37	B.1.1.216	1
+Alameda County	2020-09-08	37	B.1.243	1
+Alameda County	2020-09-09	37	B.1	2
+Alameda County	2020-09-09	37	B.1.1.216	2
+Alameda County	2020-09-09	37	B.1.1.82	1
+Alameda County	2020-09-09	37	B.1.2	1
+Alameda County	2020-09-09	37	B.1.239	1
+Alameda County	2020-09-09	37	B.1.243	3
+Alameda County	2020-09-09	37	B.1.369	2
+Alameda County	2020-09-10	37	B.1.243	3
+Alameda County	2020-09-11	37	B.1.1.216	1
+Alameda County	2020-09-12	37	B.1.243	1
+Alameda County	2020-09-14	38	B.1	1
+Alameda County	2020-09-14	38	B.1.1.222	1
+Alameda County	2020-09-15	38	B.1	1
+Alameda County	2020-09-15	38	B.1.243	21
+Alameda County	2020-09-16	38	B.1	1
+Alameda County	2020-09-16	38	B.1.243	3
+Alameda County	2020-09-17	38	B.1	1
+Alameda County	2020-09-17	38	B.1.2	1
+Alameda County	2020-09-17	38	B.1.369	1
+Alameda County	2020-09-18	38	B.1	1
+Alameda County	2020-09-18	38	B.1.1.186	1
+Alameda County	2020-09-18	38	B.1.243	1
+Alameda County	2020-09-19	38	B.1.369	1
+Alameda County	2020-09-20	39	B.1.243	1
+Alameda County	2020-09-21	39	B.1	1
+Alameda County	2020-09-21	39	B.1.243	1
+Alameda County	2020-09-22	39	B.1	1
+Alameda County	2020-09-22	39	B.1.243	1
+Alameda County	2020-09-22	39	B.1.403	1
+Alameda County	2020-09-22	39	B.1.453	1
+Alameda County	2020-09-23	39	B.1	1
+Alameda County	2020-09-23	39	B.1.1.186	1
+Alameda County	2020-09-24	39	B.1.1.205	1
+Alameda County	2020-09-24	39	B.1.243	1
+Alameda County	2020-09-24	39	B.1.404	1
+Alameda County	2020-09-28	40	B.1.369	1
+Alameda County	2020-09-30	40	B.1.369	1
+Alameda County	2020-10-01	40	B.1.234	1
+Alameda County	2020-10-01	40	B.1.243	2
+Alameda County	2020-10-02	40	B.1.1.70	1
+Alameda County	2020-10-02	40	B.1.243	1
+Alameda County	2020-10-03	40	B.1.1.205	1
+Alameda County	2020-10-04	41	B.1	1
+Alameda County	2020-10-04	41	B.1.239	1
+Alameda County	2020-10-04	41	B.1.243	2
+Alameda County	2020-10-04	41	B.1.36	1
+Alameda County	2020-11-04	45	B.1	1
+Alameda County	2020-11-04	45	B.1.1.222	1
+Alameda County	2020-11-04	45	B.1.2	1
+Alameda County	2020-11-05	45	B.1.2	5
+Alameda County	2020-11-05	45	B.1.243	1
+Alameda County	2020-12-20	52	B.1.429	1
+Alameda County	2020-12-27	53	B.1.1.274	1
+Alameda County	2020-12-29	53	B.1.2	1
+Alameda County	2020-12-29	53	B.1.232	1
+Alameda County	2020-12-29	53	B.1.429	1
+Alameda County	2021-01-03	1	B.1.1.222	1
+Alameda County	2021-01-04	1	B.1	2
+Alameda County	2021-01-04	1	B.1.1.222	1
+Alameda County	2021-01-04	1	B.1.1.274	1
+Alameda County	2021-01-04	1	B.1.1.4	1
+Alameda County	2021-01-04	1	B.1.139	1
+Alameda County	2021-01-04	1	B.1.2	3
+Alameda County	2021-01-04	1	B.1.232	1
+Alameda County	2021-01-04	1	B.1.243	4
+Alameda County	2021-01-04	1	B.1.311	1
+Alameda County	2021-01-04	1	B.1.324	1
+Alameda County	2021-01-04	1	B.1.405	1
+Alameda County	2021-01-04	1	B.1.427	4
+Alameda County	2021-01-04	1	B.1.429	2
+Alameda County	2021-01-05	1	B.1.1.222	1
+Alameda County	2021-01-05	1	B.1.2	3
+Alameda County	2021-01-05	1	B.1.243	2
+Alameda County	2021-01-05	1	B.1.427	4
+Alameda County	2021-01-12	2	B.1.429	1
+Alameda County	2021-01-16	2	B.1.404	1
+Contra Costa County	2020-03-30	14	A.1	1
+Contra Costa County	2020-03-30	14	B	1
+Contra Costa County	2020-03-30	14	B.1	1
+Contra Costa County	2020-03-30	14	B.1.1.70	1
+Contra Costa County	2020-03-30	14	B.1.320	1
+Contra Costa County	2020-03-31	14	B.1	2
+Contra Costa County	2020-04-01	14	B.1.320	1
+Contra Costa County	2020-04-02	14	B	1
+Contra Costa County	2020-04-02	14	B.1	1
+Contra Costa County	2020-04-02	14	B.1.320	18
+Contra Costa County	2020-04-03	14	A.1	1
+Contra Costa County	2020-04-03	14	B.1	1
+Contra Costa County	2020-04-03	14	B.1.320	6
+Contra Costa County	2020-04-07	15	B.1	2
+Contra Costa County	2020-04-07	15	B.1.320	2
+Contra Costa County	2020-05-13	20	B.1	2
+Contra Costa County	2020-07-22	30	B.1	1
+Contra Costa County	2020-07-22	30	B.1.243	1
+Contra Costa County	2020-07-23	30	B.1	1
+Contra Costa County	2020-07-23	30	B.1.1.70	2
+Contra Costa County	2020-07-23	30	B.1.243	1
+Contra Costa County	2020-07-24	30	B.1	1
+Contra Costa County	2020-07-24	30	B.1.1.158	1
+Contra Costa County	2020-07-24	30	B.1.1.70	3
+Contra Costa County	2020-07-24	30	B.1.243	1
+Contra Costa County	2020-07-25	30	B.1.1.70	2
+Contra Costa County	2020-07-25	30	B.1.243	1
+Contra Costa County	2020-07-25	30	B.1.36	1
+Contra Costa County	2020-07-25	30	B.1.399	1
+Contra Costa County	2020-07-26	31	B.1.1.70	1
+Contra Costa County	2020-07-26	31	B.1.243	1
+Contra Costa County	2020-07-26	31	B.1.336	3
+Contra Costa County	2020-07-27	31	B.1.336	1
+Contra Costa County	2020-07-28	31	B.1.369	1
+Contra Costa County	2020-07-29	31	B.1.1.244	3
+Contra Costa County	2020-07-29	31	B.1.240	1
+Contra Costa County	2020-07-29	31	B.1.336	1
+Contra Costa County	2020-07-30	31	B.1.1.158	1
+Contra Costa County	2020-07-30	31	B.1.1.70	3
+Contra Costa County	2020-07-30	31	B.1.243	1
+Contra Costa County	2020-07-31	31	B.1.240	2
+Contra Costa County	2020-07-31	31	B.1.243	1
+Contra Costa County	2020-07-31	31	B.1.369	2
+Contra Costa County	2020-08-03	32	B.1	1
+Contra Costa County	2020-08-05	32	B.1.243	1
+Contra Costa County	2020-08-05	32	B.1.400	1
+Contra Costa County	2020-08-20	34	B.1.243	1
+Contra Costa County	2020-09-10	37	B.1.243	1
+Fresno County	2020-09-03	36	B.1.402	1
+Fresno County	2020-09-09	37	B.1.402	1
+Fresno County	2020-09-23	39	B.1	1
+Humboldt County	2020-03-19	12	B.1.1.34	1
+Humboldt County	2020-03-23	13	B.1.1.10	1
+Humboldt County	2020-03-24	13	B.1	1
+Humboldt County	2020-03-24	13	B.1.1.10	5
+Humboldt County	2020-03-27	13	A.1	2
+Humboldt County	2020-03-27	13	B.1	1
+Humboldt County	2020-03-28	13	B.1	1
+Humboldt County	2020-03-30	14	B.1	2
+Humboldt County	2020-03-31	14	A.3	1
+Humboldt County	2020-03-31	14	B.1	1
+Humboldt County	2020-04-01	14	A.3	2
+Humboldt County	2020-04-01	14	B.1	1
+Humboldt County	2020-04-01	14	B.1.314	1
+Humboldt County	2020-04-01	14	B.1.98	3
+Humboldt County	2020-04-02	14	B.1.98	1
+Humboldt County	2020-04-06	15	B	1
+Humboldt County	2020-04-13	16	A.3	1
+Humboldt County	2020-04-14	16	B.1	1
+Humboldt County	2020-05-08	19	B.1.320	1
+Humboldt County	2020-05-09	19	B.1.320	3
+Humboldt County	2020-05-11	20	B.1.503	1
+Humboldt County	2020-05-12	20	B.1.320	3
+Humboldt County	2020-05-13	20	B.1.320	1
+Humboldt County	2020-05-14	20	B.1.320	1
+Humboldt County	2020-05-15	20	B.1	3
+Humboldt County	2020-05-15	20	B.1.320	3
+Humboldt County	2020-05-16	20	B.1.320	1
+Humboldt County	2020-05-17	21	B.1.320	3
+Humboldt County	2020-05-18	21	B.1	2
+Humboldt County	2020-05-21	21	B.1.513	3
+Humboldt County	2020-05-22	21	B.1.320	1
+Humboldt County	2020-05-26	22	B.1	1
+Humboldt County	2020-05-27	22	A.1	1
+Humboldt County	2020-05-28	22	B.1.1.172	1
+Humboldt County	2020-06-02	23	B.1.513	1
+Humboldt County	2020-06-22	26	B.1.1.207	10
+Humboldt County	2020-06-24	26	B.1.1.207	1
+Humboldt County	2020-06-25	26	B.1.1.207	1
+Humboldt County	2020-06-26	26	B.1.1.207	1
+Humboldt County	2020-06-30	27	B.1.110.3	2
+Humboldt County	2020-06-30	27	B.1.369	1
+Humboldt County	2020-07-01	27	B.1.369	1
+Humboldt County	2020-07-02	27	B.1.110.3	2
+Humboldt County	2020-07-02	27	B.1.2	1
+Humboldt County	2020-07-06	28	B.1.1.207	1
+Humboldt County	2020-07-06	28	B.1.110.3	2
+Humboldt County	2020-07-06	28	B.1.2	5
+Humboldt County	2020-07-07	28	B.1.110.3	1
+Humboldt County	2020-07-08	28	B.1.1.207	2
+Humboldt County	2020-07-13	29	B.1.2	1
+Humboldt County	2020-07-13	29	B.1.240	6
+Humboldt County	2020-07-15	29	B.1	1
+Humboldt County	2020-07-15	29	B.1.1.304	1
+Humboldt County	2020-07-15	29	B.1.336	1
+Humboldt County	2020-07-16	29	B.1	1
+Humboldt County	2020-07-17	29	B.1.110.3	1
+Humboldt County	2020-07-17	29	B.1.2	1
+Humboldt County	2020-07-19	30	B.1.369	2
+Humboldt County	2020-07-20	30	B.1	1
+Humboldt County	2020-07-20	30	B.1.2	2
+Humboldt County	2020-07-21	30	B.1.243	1
+Humboldt County	2020-07-22	30	B.1.340	2
+Humboldt County	2020-07-23	30	B.1.1.70	1
+Humboldt County	2020-07-23	30	B.1.369	1
+Humboldt County	2020-07-24	30	B.1	1
+Humboldt County	2020-07-24	30	B.1.243	1
+Humboldt County	2020-07-24	30	B.1.369	1
+Humboldt County	2020-07-27	31	B.1.1.70	1
+Humboldt County	2020-07-27	31	B.1.243	2
+Humboldt County	2020-07-27	31	B.1.369	1
+Humboldt County	2020-07-28	31	B.1.305	1
+Humboldt County	2020-07-28	31	B.1.340	2
+Humboldt County	2020-07-29	31	B.1.1.70	1
+Humboldt County	2020-07-30	31	B.1.452	1
+Humboldt County	2020-08-01	31	B.1.243	1
+Humboldt County	2020-08-02	32	B.1.243	3
+Humboldt County	2020-08-03	32	B.1.1.222	3
+Humboldt County	2020-08-04	32	B.1.1.222	1
+Humboldt County	2020-08-04	32	B.1.243	6
+Humboldt County	2020-08-04	32	B.1.319	1
+Humboldt County	2020-08-06	32	B.1.243	2
+Humboldt County	2020-08-06	32	B.1.319	1
+Humboldt County	2020-08-07	32	B.1.243	1
+Humboldt County	2020-08-11	33	B.1.1.222	4
+Humboldt County	2020-08-11	33	B.1.243	1
+Humboldt County	2020-08-12	33	B.1.1.222	1
+Humboldt County	2020-08-13	33	B.1.1.222	2
+Humboldt County	2020-08-17	34	B.1.243	2
+Humboldt County	2020-08-18	34	B.1.243	2
+Humboldt County	2020-08-19	34	B.1.189	1
+Humboldt County	2020-08-20	34	B.1.243	1
+Humboldt County	2020-08-21	34	B.1.1.128	1
+Humboldt County	2020-08-24	35	B.1.243	1
+Humboldt County	2020-08-25	35	B.1.243	2
+Humboldt County	2020-08-26	35	B.1.243	2
+Humboldt County	2020-08-27	35	B.1	1
+Humboldt County	2020-08-27	35	B.1.240	1
+Humboldt County	2020-08-27	35	B.1.243	5
+Humboldt County	2020-08-28	35	B.1.243	5
+Humboldt County	2020-08-31	36	B.1.139	1
+Humboldt County	2020-08-31	36	B.1.243	9
+Humboldt County	2020-09-03	36	B.1.243	2
+Humboldt County	2020-09-04	36	B.1.139	1
+Humboldt County	2020-09-04	36	B.1.243	5
+Humboldt County	2020-09-08	37	B.1.243	2
+Humboldt County	2020-09-22	39	B.1.1.222	2
+Humboldt County	2020-09-22	39	B.1.243	1
+Humboldt County	2020-09-23	39	B.1.243	1
+Humboldt County	2020-09-25	39	B.1.243	2
+Humboldt County	2020-09-28	40	B.1.2	1
+Humboldt County	2020-09-30	40	B.1.280	1
+Humboldt County	2020-10-01	40	B.1	1
+Humboldt County	2020-10-05	41	B.1	1
+Humboldt County	2020-10-05	41	B.1.240	2
+Humboldt County	2020-10-06	41	B.1	1
+Humboldt County	2020-10-09	41	B.1	1
+Humboldt County	2020-10-09	41	B.1.240	1
+Humboldt County	2020-10-12	42	B.1	3
+Humboldt County	2020-10-12	42	B.1.240	2
+Humboldt County	2020-10-16	42	B.1	1
+Humboldt County	2020-10-16	42	B.1.2	1
+Humboldt County	2020-10-16	42	B.1.240	3
+Humboldt County	2020-10-19	43	B.1	1
+Humboldt County	2020-10-20	43	B.1	1
+Humboldt County	2020-10-21	43	B.1.265	1
+Humboldt County	2020-10-23	43	B.1.240	2
+Humboldt County	2020-10-27	44	B.1.311	1
+Humboldt County	2020-10-29	44	B.1.2	1
+Humboldt County	2020-10-30	44	B.1.1.44	1
+Humboldt County	2020-11-02	45	B.1.2	2
+Humboldt County	2020-11-02	45	B.1.369	1
+Humboldt County	2020-11-03	45	B.1.234	1
+Humboldt County	2020-11-03	45	B.1.239	1
+Humboldt County	2020-11-04	45	B.1.2	1
+Humboldt County	2020-11-05	45	B.1.1.44	6
+Humboldt County	2020-11-05	45	B.1.311	1
+Humboldt County	2020-11-06	45	B.1.2	1
+Humboldt County	2020-11-06	45	B.1.240	2
+Humboldt County	2020-11-07	45	B.1.232	1
+Humboldt County	2020-11-09	46	B.1.2	4
+Humboldt County	2020-11-09	46	B.1.311	1
+Humboldt County	2020-11-10	46	B.1.2	4
+Humboldt County	2020-11-10	46	B.1.311	1
+Humboldt County	2020-11-10	46	B.1.429	1
+Humboldt County	2020-11-11	46	B.1.2	1
+Humboldt County	2020-11-11	46	B.1.232	1
+Humboldt County	2020-11-11	46	B.1.311	1
+Humboldt County	2020-11-12	46	B.1.2	1
+Humboldt County	2020-11-12	46	B.1.311	1
+Humboldt County	2020-11-12	46	B.1.349	2
+Humboldt County	2020-11-13	46	B.1.2	1
+Humboldt County	2020-11-13	46	B.1.311	3
+Humboldt County	2020-11-16	47	B.1	1
+Humboldt County	2020-11-16	47	B.1.2	2
+Humboldt County	2020-11-16	47	B.1.234	1
+Humboldt County	2020-11-16	47	B.1.311	2
+Humboldt County	2020-11-16	47	B.1.349	1
+Humboldt County	2020-11-17	47	B.1.2	2
+Humboldt County	2020-11-17	47	B.1.311	4
+Humboldt County	2020-11-18	47	B.1.2	2
+Humboldt County	2020-11-18	47	B.1.240	1
+Humboldt County	2020-11-18	47	B.1.243	1
+Humboldt County	2020-11-18	47	B.1.311	14
+Humboldt County	2020-11-19	47	B.1.139	1
+Humboldt County	2020-11-19	47	B.1.2	1
+Humboldt County	2020-11-19	47	B.1.311	9
+Humboldt County	2020-11-20	47	B.1.2	2
+Humboldt County	2020-11-20	47	B.1.311	7
+Humboldt County	2020-11-20	47	B.1.404	1
+Humboldt County	2020-11-21	47	B.1.2	1
+Humboldt County	2020-11-21	47	B.1.311	1
+Humboldt County	2020-11-22	48	B.1.2	1
+Humboldt County	2020-11-22	48	B.1.311	3
+Humboldt County	2020-11-23	48	B.1.2	3
+Humboldt County	2020-11-23	48	B.1.311	5
+Humboldt County	2020-11-23	48	B.1.369	1
+Humboldt County	2020-11-24	48	B.1.2	1
+Humboldt County	2020-11-25	48	B.1.2	2
+Humboldt County	2020-11-25	48	B.1.311	5
+Humboldt County	2020-11-26	48	B.1.429	1
+Humboldt County	2020-11-27	48	B.1.311	4
+Humboldt County	2020-11-28	48	B.1.2	1
+Humboldt County	2020-11-29	49	B.1.311	13
+Humboldt County	2020-11-30	49	B.1.1.222	1
+Humboldt County	2020-11-30	49	B.1.2	1
+Humboldt County	2020-11-30	49	B.1.239	1
+Humboldt County	2020-11-30	49	B.1.311	10
+Humboldt County	2020-12-01	49	B.1.110.3	2
+Humboldt County	2020-12-01	49	B.1.311	19
+Humboldt County	2020-12-02	49	B.1.2	1
+Humboldt County	2020-12-02	49	B.1.240	1
+Humboldt County	2020-12-02	49	B.1.311	5
+Humboldt County	2020-12-02	49	B.1.399	1
+Humboldt County	2020-12-03	49	B.1.311	9
+Humboldt County	2020-12-04	49	B.1.1.222	1
+Humboldt County	2020-12-04	49	B.1.1.285	1
+Humboldt County	2020-12-04	49	B.1.1.70	1
+Humboldt County	2020-12-04	49	B.1.110.3	1
+Humboldt County	2020-12-04	49	B.1.2	1
+Humboldt County	2020-12-04	49	B.1.234	1
+Humboldt County	2020-12-04	49	B.1.311	12
+Humboldt County	2020-12-06	50	B.1.311	19
+Humboldt County	2020-12-07	50	B.1.1.244	1
+Humboldt County	2020-12-07	50	B.1.2	1
+Humboldt County	2020-12-07	50	B.1.243	3
+Humboldt County	2020-12-07	50	B.1.311	7
+Humboldt County	2020-12-08	50	B.1.1.1	1
+Humboldt County	2020-12-08	50	B.1.2	1
+Humboldt County	2020-12-08	50	B.1.243	1
+Humboldt County	2020-12-08	50	B.1.311	19
+Humboldt County	2020-12-08	50	B.1.400	1
+Humboldt County	2020-12-09	50	B.1.243	1
+Humboldt County	2020-12-09	50	B.1.311	6
+Humboldt County	2020-12-10	50	B.1.2	1
+Humboldt County	2020-12-10	50	B.1.243	2
+Humboldt County	2020-12-10	50	B.1.311	2
+Humboldt County	2020-12-10	50	B.1.404	1
+Humboldt County	2020-12-11	50	B.1.2	1
+Humboldt County	2020-12-11	50	B.1.311	2
+Humboldt County	2020-12-13	51	B.1.119	1
+Humboldt County	2020-12-13	51	B.1.2	1
+Humboldt County	2020-12-13	51	B.1.311	1
+Humboldt County	2020-12-14	51	B.1.2	4
+Humboldt County	2020-12-14	51	B.1.243	1
+Humboldt County	2020-12-14	51	B.1.311	1
+Humboldt County	2020-12-14	51	B.1.429	2
+Humboldt County	2020-12-15	51	B.1	1
+Humboldt County	2020-12-15	51	B.1.2	3
+Humboldt County	2020-12-15	51	B.1.240	1
+Humboldt County	2020-12-15	51	B.1.311	1
+Humboldt County	2020-12-15	51	B.1.404	1
+Humboldt County	2020-12-16	51	B.1	1
+Humboldt County	2020-12-16	51	B.1.404	1
+Humboldt County	2020-12-17	51	B.1.2	2
+Humboldt County	2020-12-17	51	B.1.243	1
+Humboldt County	2020-12-17	51	B.1.311	5
+Humboldt County	2020-12-18	51	B.1	9
+Humboldt County	2020-12-18	51	B.1.2	4
+Humboldt County	2020-12-18	51	B.1.232	1
+Humboldt County	2020-12-18	51	B.1.311	2
+Humboldt County	2020-12-18	51	B.1.400	1
+Humboldt County	2020-12-18	51	B.1.404	2
+Humboldt County	2020-12-19	51	B.1.1.244	2
+Humboldt County	2020-12-20	52	B.1.2	1
+Humboldt County	2020-12-20	52	B.1.311	2
+Humboldt County	2020-12-21	52	B.1	1
+Humboldt County	2020-12-21	52	B.1.2	4
+Humboldt County	2020-12-21	52	B.1.404	2
+Humboldt County	2020-12-21	52	B.1.429	1
+Humboldt County	2020-12-22	52	B.1	3
+Humboldt County	2020-12-22	52	B.1.1.244	2
+Humboldt County	2020-12-22	52	B.1.2	4
+Humboldt County	2020-12-22	52	B.1.243	3
+Humboldt County	2020-12-23	52	B.1.2	4
+Humboldt County	2020-12-23	52	B.1.243	2
+Humboldt County	2020-12-23	52	B.1.404	1
+Humboldt County	2020-12-24	52	B.1	1
+Humboldt County	2020-12-24	52	B.1.2	1
+Humboldt County	2020-12-24	52	B.1.243	1
+Humboldt County	2020-12-26	52	B.1.2	3
+Humboldt County	2020-12-26	52	B.1.234	1
+Humboldt County	2020-12-26	52	B.1.429	1
+Humboldt County	2020-12-27	53	B.1.2	2
+Humboldt County	2020-12-27	53	B.1.311	1
+Humboldt County	2020-12-28	53	B.1.2	16
+Humboldt County	2020-12-28	53	B.1.234	3
+Humboldt County	2020-12-28	53	B.1.240	1
+Humboldt County	2020-12-28	53	B.1.243	2
+Humboldt County	2020-12-28	53	B.1.404	1
+Humboldt County	2020-12-28	53	B.1.427	1
+Humboldt County	2020-12-28	53	B.1.429	2
+Humboldt County	2020-12-29	53	B.1.1.244	1
+Humboldt County	2020-12-29	53	B.1.2	10
+Humboldt County	2020-12-29	53	B.1.311	1
+Humboldt County	2020-12-29	53	B.1.427	1
+Humboldt County	2020-12-30	53	B.1	1
+Humboldt County	2020-12-30	53	B.1.1.274	1
+Humboldt County	2020-12-30	53	B.1.110.3	1
+Humboldt County	2020-12-30	53	B.1.2	7
+Humboldt County	2020-12-30	53	B.1.243	1
+Humboldt County	2020-12-30	53	B.1.311	3
+Humboldt County	2020-12-30	53	B.1.404	1
+Humboldt County	2020-12-30	53	B.1.427	1
+Humboldt County	2020-12-30	53	B.1.429	1
+Humboldt County	2020-12-31	53	B.1.2	7
+Humboldt County	2020-12-31	53	B.1.243	1
+Humboldt County	2021-01-03	1	B.1.2	1
+Humboldt County	2021-01-04	1	B.1.2	3
+Humboldt County	2021-01-04	1	B.1.243	2
+Humboldt County	2021-01-04	1	B.1.311	1
+Humboldt County	2021-01-04	1	B.1.427	1
+Humboldt County	2021-01-04	1	B.1.429	3
+Humboldt County	2021-01-05	1	B.1.404	1
+Madera County	2020-07-03	27	B.1	2
+Madera County	2020-07-03	27	B.1.243	1
+Madera County	2020-07-07	28	B.1.243	7
+Madera County	2020-07-08	28	B.1.243	1
+Madera County	2020-07-15	29	B.1.243	3
+Madera County	2020-07-17	29	B.1.243	2
+Madera County	2020-07-18	29	B.1	1
+Madera County	2020-07-18	29	B.1.1.139	6
+Madera County	2020-07-18	29	B.1.243	6
+Madera County	2020-07-18	29	B.1.402	1
+Madera County	2020-07-24	30	B.1	2
+Madera County	2020-07-24	30	B.1.1.162	1
+Madera County	2020-07-24	30	B.1.1.70	1
+Madera County	2020-07-24	30	B.1.240	3
+Madera County	2020-07-24	30	B.1.243	5
+Madera County	2020-07-24	30	B.1.369	1
+Madera County	2020-07-24	30	B.1.402	1
+Madera County	2020-08-02	32	B.1	1
+Madera County	2020-08-02	32	B.1.1.162	1
+Madera County	2020-08-02	32	B.1.1.70	1
+Madera County	2020-08-02	32	B.1.240	5
+Madera County	2020-08-02	32	B.1.243	3
+Madera County	2020-08-02	32	B.1.402	4
+Madera County	2020-08-11	33	B.1.243	3
+Madera County	2020-09-03	36	B.1	3
+Madera County	2020-09-03	36	B.1.402	2
+Madera County	2020-09-10	37	B.1	1
+Madera County	2020-09-10	37	B.1.402	1
+Madera County	2020-09-12	37	B.1.243	1
+Madera County	2020-09-12	37	B.1.400	3
+Madera County	2020-10-15	42	B.1.1.193	1
+Madera County	2020-10-15	42	B.1.1.70	1
+Madera County	2020-10-15	42	B.1.243	2
+Madera County	2020-10-17	42	B.1.239	2
+Madera County	2020-10-17	42	B.1.399	2
+Madera County	2020-10-17	42	B.1.400	1
+Madera County	2020-10-21	43	B.1.243	1
+Madera County	2020-10-22	43	B.1.1.128	2
+Madera County	2020-10-22	43	B.1.1.70	1
+Madera County	2020-10-22	43	B.1.2	2
+Madera County	2020-10-22	43	B.1.239	2
+Madera County	2020-10-23	43	B.1.1.222	1
+Madera County	2020-10-23	43	B.1.232	1
+Madera County	2020-10-23	43	B.1.239	1
+Madera County	2020-10-24	43	B.1.1.222	1
+Madera County	2020-10-24	43	B.1.239	1
+Madera County	2020-10-24	43	B.1.243	1
+Madera County	2020-10-26	44	B.1	2
+Madera County	2020-10-26	44	B.1.1.113	1
+Madera County	2020-10-26	44	B.1.243	11
+Madera County	2020-10-26	44	B.1.309	1
+Madera County	2020-10-26	44	B.1.320	2
+Madera County	2020-10-26	44	B.1.369	1
+Madera County	2020-10-26	44	B.1.402	4
+Madera County	2020-10-27	44	B.1	1
+Madera County	2020-10-27	44	B.1.1.139	5
+Madera County	2020-10-27	44	B.1.243	4
+Madera County	2020-10-27	44	B.1.402	1
+Madera County	2020-10-28	44	B.1	2
+Madera County	2020-10-28	44	B.1.1.139	2
+Madera County	2020-10-28	44	B.1.1.70	1
+Madera County	2020-10-28	44	B.1.239	2
+Madera County	2020-10-28	44	B.1.240	1
+Madera County	2020-10-28	44	B.1.243	11
+Madera County	2020-10-28	44	B.1.402	1
+Madera County	2020-10-29	44	B.1.243	1
+Madera County	2020-10-31	44	B.1.243	1
+Madera County	2020-11-02	45	B.1.2	2
+Madera County	2020-11-03	45	B.1.243	1
+Madera County	2020-11-03	45	B.1.509	1
+Madera County	2020-11-04	45	B.1.1.222	2
+Madera County	2020-11-04	45	B.1.1.70	1
+Madera County	2020-11-04	45	B.1.243	1
+Madera County	2020-11-04	45	B.1.306	1
+Madera County	2020-11-04	45	B.1.503	1
+Marin County	2020-05-07	19	B.1	1
+Marin County	2020-05-07	19	B.1.508	2
+Marin County	2020-05-08	19	B.1.1.70	1
+Marin County	2020-05-13	20	B.1	1
+Marin County	2020-05-13	20	B.1.508	5
+Marin County	2020-05-15	20	B.1	1
+Marin County	2020-05-15	20	B.1.508	4
+Marin County	2020-05-19	21	B.1.508	2
+Marin County	2020-05-20	21	B.1.508	4
+Marin County	2020-05-21	21	B.1.106	1
+Marin County	2020-05-21	21	B.1.508	4
+Marin County	2020-05-22	21	B.1.106	7
+Marin County	2020-05-22	21	B.1.508	3
+Marin County	2020-05-23	21	B.1.508	1
+Marin County	2020-05-28	22	B.1.508	1
+Marin County	2020-06-11	24	B.1.1.70	1
+Marin County	2020-06-11	24	B.1.320	9
+Marin County	2020-06-11	24	B.1.508	4
+Marin County	2020-07-16	29	B.1.1.70	8
+Marin County	2020-07-16	29	B.1.320	1
+Marin County	2020-07-17	29	B.1	1
+Marin County	2020-07-17	29	B.1.1.162	1
+Marin County	2020-07-17	29	B.1.1.244	1
+Marin County	2020-07-17	29	B.1.1.70	2
+Marin County	2020-07-17	29	B.1.240	1
+Marin County	2020-07-17	29	B.1.243	1
+Marin County	2020-07-17	29	B.1.313	1
+Marin County	2020-07-17	29	B.1.320	1
+Marin County	2020-07-22	30	B.1.320	5
+Marin County	2020-07-23	30	B.1.243	1
+Marin County	2020-07-27	31	B.1	1
+Marin County	2020-07-28	31	B.1	1
+Marin County	2020-07-28	31	B.1.189	1
+Marin County	2020-07-28	31	B.1.243	1
+Marin County	2020-07-28	31	B.1.320	3
+Marin County	2020-08-08	32	B.1	1
+Marin County	2020-08-08	32	B.1.508	1
+Marin County	2020-08-12	33	B.1	3
+Marin County	2020-08-12	33	B.1.1.306	1
+Marin County	2020-08-12	33	B.1.1.70	2
+Marin County	2020-08-12	33	B.1.243	2
+Marin County	2020-08-15	33	B.1.1.70	2
+Marin County	2020-08-20	34	B.1.320	1
+Marin County	2020-08-26	35	B.1.243	1
+Marin County	2020-08-26	35	B.1.320	5
+Marin County	2020-08-31	36	B.1.243	2
+Marin County	2020-09-01	36	B.1.320	4
+Marin County	2020-09-02	36	B.1.400	1
+Marin County	2020-09-09	37	B.1.216	3
+Marin County	2020-09-11	37	B.1.2	1
+Marin County	2020-09-22	39	B.1.320	1
+Marin County	2020-09-25	39	B.1	1
+Marin County	2020-10-02	40	B.1.243	1
+Marin County	2020-10-03	40	B.1	1
+Marin County	2020-10-07	41	B.1.1.70	3
+Marin County	2020-10-07	41	B.1.2	1
+Marin County	2020-10-08	41	B.1.1.70	1
+Marin County	2020-10-08	41	B.1.243	1
+Marin County	2020-10-14	42	B.1.243	1
+Marin County	2020-10-14	42	B.1.400	1
+Marin County	2020-10-15	42	B.1.1.222	1
+Marin County	2020-10-15	42	B.1.1.70	1
+Marin County	2020-10-15	42	B.1.243	1
+Marin County	2020-10-17	42	B.1.2	1
+Marin County	2020-10-22	43	B.1	1
+Marin County	2020-10-22	43	B.1.1.70	2
+Monterey County	2020-06-06	23	B.1	4
+Monterey County	2020-09-04	36	B.1.240	1
+Monterey County	2020-09-10	37	B.1.240	1
+Monterey County	2020-09-18	38	B.1.239	1
+Monterey County	2020-12-08	50	B.1.429	1
+Napa, Solano, Yolo, Marin Counties	2020-04-24	17	B.1	1
+Napa, Solano, Yolo, Marin Counties	2020-04-27	18	B.1	1
+Napa, Solano, Yolo, Marin Counties	2020-04-30	18	B.1	3
+Napa, Solano, Yolo, Marin Counties	2020-05-02	18	B.1	1
+Napa, Solano, Yolo, Marin Counties	2020-05-09	19	B.1	1
+Napa, Solano, Yolo, Marin Counties	2020-09-01	36	B.1	1
+Napa, Solano, Yolo, Marin Counties	2020-09-01	36	B.1.2	1
+Napa, Solano, Yolo, Marin Counties	2020-09-11	37	B.1.1.205	7
+Napa, Solano, Yolo, Marin Counties	2020-09-11	37	B.1.369	1
+Napa, Solano, Yolo, Marin Counties	2020-09-15	38	B.1.2	1
+Napa, Solano, Yolo, Marin Counties	2020-09-18	38	B.1.1.205	3
+Napa, Solano, Yolo, Marin Counties	2020-10-23	43	B.1.243	1
+Napa, Solano, Yolo, Marin Counties	2020-10-29	44	B.1.1.70	6
+Orange County	2020-04-15	16	B.1.1.172	6
+Orange County	2020-04-16	16	B.1.1.172	6
+Orange County	2020-04-16	16	B.1.1.54	1
+Orange County	2020-04-16	16	B.1.1.61	2
+Orange County	2020-04-16	16	B.1.320	2
+Orange County	2020-04-17	16	B.1.1.172	2
+Orange County	2020-04-17	16	B.1.110	1
+Orange County	2020-04-17	16	B.1.320	3
+Orange County	2020-04-18	16	B.1.320	7
+Orange County	2020-04-19	17	B.1.320	2
+Orange County	2020-04-20	17	B.1.1.172	2
+Orange County	2020-04-20	17	B.1.320	1
+Orange County	2020-04-21	17	B.1.1.61	1
+Orange County	2020-04-21	17	B.1.320	4
+Orange County	2020-04-22	17	A.1	1
+Orange County	2020-04-22	17	B.1	2
+Orange County	2020-04-22	17	B.1.1.172	8
+Orange County	2020-04-22	17	B.1.1.61	6
+Orange County	2020-04-22	17	B.1.320	6
+Orange County	2020-04-22	17	B.1.452	1
+Orange County	2020-04-23	17	B.1.1.15	1
+Orange County	2020-04-23	17	B.1.1.61	9
+Orange County	2020-04-23	17	B.1.320	1
+Orange County	2020-04-24	17	B.1	12
+Orange County	2020-04-24	17	B.1.320	1
+Orange County	2020-04-24	17	B.1.336	1
+Orange County	2020-04-25	17	B.1.1.61	1
+Orange County	2020-04-26	18	B.1.1.61	2
+Orange County	2020-04-26	18	B.1.320	1
+Orange County	2020-04-27	18	B.1	3
+Orange County	2020-04-27	18	B.1.1.61	6
+Orange County	2020-04-28	18	B.1	3
+Orange County	2020-04-28	18	B.1.1.132	2
+Orange County	2020-04-28	18	B.1.1.54	1
+Orange County	2020-04-28	18	B.1.1.61	11
+Orange County	2020-04-28	18	B.1.320	2
+Orange County	2020-04-29	18	B.1	2
+Orange County	2020-04-29	18	B.1.1.132	2
+Orange County	2020-04-29	18	B.1.1.172	1
+Orange County	2020-04-29	18	B.1.320	1
+Orange County	2020-04-30	18	B.1.1.61	11
+Orange County	2020-04-30	18	B.1.320	3
+Orange County	2020-05-01	18	B.1	1
+Orange County	2020-05-01	18	B.1.1.132	2
+Orange County	2020-05-01	18	B.1.1.61	2
+Orange County	2020-05-03	19	B.1	1
+Orange County	2020-05-03	19	B.1.1.61	1
+Orange County	2020-05-03	19	B.1.513	1
+Orange County	2020-05-04	19	B.1	4
+Orange County	2020-05-04	19	B.1.1.61	2
+Orange County	2020-05-04	19	B.1.320	1
+Orange County	2020-05-04	19	B.1.513	1
+Orange County	2020-05-05	19	B.1	1
+Orange County	2020-05-05	19	B.1.1.61	1
+Orange County	2020-05-05	19	B.1.320	1
+Orange County	2020-05-06	19	B.1	15
+Orange County	2020-05-06	19	B.1.1.132	1
+Orange County	2020-05-06	19	B.1.320	3
+Orange County	2020-05-07	19	B.1.1.132	1
+Orange County	2020-05-07	19	B.1.1.61	5
+Orange County	2020-05-07	19	B.1.1.70	1
+Orange County	2020-05-08	19	B.1	1
+Orange County	2020-05-08	19	B.1.1.61	1
+Orange County	2020-05-08	19	B.1.320	1
+Orange County	2020-05-11	20	B.1	1
+Orange County	2020-05-12	20	B.1	1
+Orange County	2020-05-12	20	B.1.1.132	1
+Orange County	2020-05-12	20	B.1.452	2
+Orange County	2020-05-13	20	B.1	2
+Orange County	2020-05-13	20	B.1.1.132	9
+Orange County	2020-05-13	20	B.1.1.61	3
+Orange County	2020-05-13	20	B.1.320	1
+Orange County	2020-05-14	20	B.1	7
+Orange County	2020-05-14	20	B.1.320	1
+Orange County	2020-05-15	20	B.1	6
+Orange County	2020-05-15	20	B.1.1.172	6
+Orange County	2020-05-18	21	B.1	3
+Orange County	2020-05-18	21	B.1.1.132	1
+Orange County	2020-05-18	21	B.1.452	1
+Orange County	2020-05-19	21	B.1.1.132	2
+Orange County	2020-05-19	21	B.1.1.172	2
+Orange County	2020-05-19	21	B.1.452	1
+Orange County	2020-05-20	21	B.1	1
+Orange County	2020-05-20	21	B.1.1.132	1
+Orange County	2020-05-20	21	B.1.452	1
+Orange County	2020-05-21	21	B.1.1.132	1
+Orange County	2020-05-21	21	B.1.1.172	1
+Orange County	2020-05-21	21	B.1.1.70	1
+Orange County	2020-05-21	21	B.1.320	1
+Orange County	2020-05-21	21	B.1.452	1
+Orange County	2020-05-22	21	B.1	5
+Orange County	2020-05-22	21	B.1.1.132	5
+Orange County	2020-05-22	21	B.1.320	4
+Orange County	2020-05-23	21	B.1	1
+Orange County	2020-05-24	22	B.1	10
+Orange County	2020-05-25	22	B.1	1
+Orange County	2020-05-26	22	B.1	1
+Orange County	2020-05-26	22	B.1.1.132	1
+Orange County	2020-05-26	22	B.1.1.172	4
+Orange County	2020-05-26	22	B.1.1.61	1
+Orange County	2020-05-26	22	B.1.452	6
+Orange County	2020-05-27	22	B.1	7
+Orange County	2020-05-27	22	B.1.1.132	9
+Orange County	2020-05-27	22	B.1.320	2
+Orange County	2020-05-27	22	B.1.452	1
+Orange County	2020-05-28	22	B.1.1.132	3
+Orange County	2020-05-28	22	B.1.1.172	4
+Orange County	2020-05-28	22	B.1.452	1
+Orange County	2020-05-29	22	B.1	1
+Orange County	2020-05-31	23	B.1	5
+Orange County	2020-06-03	23	B.1	1
+Orange County	2020-06-23	26	B.1.1.70	1
+Orange County	2020-06-24	26	B.1	1
+Orange County	2020-07-09	28	B.1.1.70	1
+Orange County	2020-07-10	28	B.1	2
+Orange County	2020-07-10	28	B.1.1.132	1
+Orange County	2020-07-10	28	B.1.1.304	1
+Orange County	2020-07-12	29	B.1.189	1
+Orange County	2020-07-12	29	B.1.240	3
+Orange County	2020-07-13	29	B.1	3
+Orange County	2020-07-13	29	B.1.1.132	6
+Orange County	2020-07-13	29	B.1.1.228	1
+Orange County	2020-07-14	29	B.1.1.128	1
+Orange County	2020-07-14	29	B.1.1.172	1
+Orange County	2020-07-14	29	B.1.1.304	1
+Orange County	2020-07-14	29	B.1.1.70	2
+Orange County	2020-07-14	29	B.1.369	1
+Orange County	2020-07-15	29	B.1	2
+Orange County	2020-07-15	29	B.1.1.132	1
+Orange County	2020-07-15	29	B.1.1.70	1
+Orange County	2020-07-15	29	B.1.369	1
+Orange County	2020-07-15	29	B.1.397	1
+Orange County	2020-07-15	29	B.1.452	1
+Orange County	2020-07-17	29	B.1.1.70	1
+Orange County	2020-07-20	30	B.1	1
+Orange County	2020-07-21	30	B.1	3
+Orange County	2020-07-21	30	B.1.1.239	1
+Orange County	2020-07-21	30	B.1.1.287	2
+Orange County	2020-07-21	30	B.1.336	2
+Orange County	2020-07-22	30	B.1	2
+Orange County	2020-07-22	30	B.1.1.70	1
+Orange County	2020-07-22	30	B.1.397	1
+Orange County	2020-07-23	30	B.1	1
+Orange County	2020-07-23	30	B.1.1.239	1
+Orange County	2020-07-24	30	B.1	2
+Orange County	2020-07-24	30	B.1.313	2
+Orange County	2020-07-24	30	B.1.452	4
+Orange County	2020-07-24	30	N.1	1
+Orange County	2020-07-26	31	B.1.1.70	1
+Orange County	2020-07-27	31	B.1	7
+Orange County	2020-07-27	31	B.1.369	1
+Orange County	2020-07-27	31	B.1.452	1
+Orange County	2020-07-28	31	B.1	2
+Orange County	2020-07-28	31	B.1.313	1
+Orange County	2020-07-29	31	B.1.1.128	1
+Orange County	2020-07-30	31	B.1	1
+Orange County	2020-07-31	31	B.1	1
+Orange County	2020-08-04	32	B.1	2
+Orange County	2020-08-04	32	B.1.1.287	2
+Orange County	2020-08-04	32	B.1.313	1
+Orange County	2020-08-04	32	B.1.320	1
+Orange County	2020-08-04	32	B.1.369	1
+Orange County	2020-08-04	32	B.1.452	1
+Orange County	2020-08-05	32	B.1.1.239	1
+Orange County	2020-08-05	32	B.1.313	1
+Orange County	2020-08-05	32	B.1.320	7
+Orange County	2020-08-05	32	B.1.425	1
+Orange County	2020-08-06	32	B.1.320	2
+Orange County	2020-08-07	32	B.1.369	1
+Orange County	2020-08-09	33	B.1	1
+Orange County	2020-08-10	33	B.1.1.239	3
+Orange County	2020-08-10	33	B.1.313	1
+Orange County	2020-08-11	33	B.1	3
+Orange County	2020-08-11	33	B.1.452	1
+Orange County	2020-08-12	33	B.1.369	1
+Orange County	2020-08-13	33	B.1	2
+Orange County	2020-08-14	33	B.1	7
+Orange County	2020-08-15	33	B.1.1.228	1
+Orange County	2020-08-16	34	B.1.1.239	1
+Orange County	2020-08-17	34	B.1	2
+Orange County	2020-08-17	34	B.1.320	1
+Orange County	2020-08-18	34	B.1	2
+Orange County	2020-08-18	34	B.1.1.239	1
+Orange County	2020-08-18	34	B.1.189	1
+Orange County	2020-08-18	34	B.1.320	1
+Orange County	2020-08-18	34	B.1.369	1
+Orange County	2020-08-18	34	B.1.452	1
+Orange County	2020-08-19	34	B.1	7
+Orange County	2020-08-19	34	B.1.1.239	1
+Orange County	2020-08-19	34	B.1.369	3
+Orange County	2020-08-19	34	B.1.400	3
+Orange County	2020-08-20	34	B.1	2
+Orange County	2020-08-21	34	B.1	2
+Orange County	2020-08-25	35	B.1.369	1
+Orange County	2020-08-26	35	B.1	2
+Orange County	2020-08-26	35	B.1.400	2
+Orange County	2020-08-29	35	B.1.399	1
+Orange County	2020-08-31	36	B.1	3
+Orange County	2020-08-31	36	B.1.1.239	1
+Orange County	2020-08-31	36	B.1.2	1
+Orange County	2020-08-31	36	B.1.243	1
+Orange County	2020-08-31	36	B.1.369	1
+Orange County	2020-09-01	36	B.1	5
+Orange County	2020-09-02	36	B.1	2
+Orange County	2020-09-03	36	B.1.1.128	1
+Orange County	2020-09-04	36	B.1.1.10	2
+Orange County	2020-09-08	37	B.1	7
+Orange County	2020-09-08	37	B.1.1.239	1
+Orange County	2020-09-09	37	B.1	3
+Orange County	2020-09-10	37	B.1	2
+Orange County	2020-09-11	37	B.1	2
+Orange County	2020-09-11	37	B.1.1.10	1
+Orange County	2020-09-11	37	B.1.232	1
+Orange County	2020-09-14	38	B.1	2
+Orange County	2020-09-15	38	B.1	2
+Orange County	2020-09-15	38	B.1.1.239	1
+Orange County	2020-09-15	38	B.1.239	1
+Orange County	2020-09-15	38	B.1.369	1
+Orange County	2020-09-16	38	B.1	6
+Orange County	2020-09-17	38	B.1.239	1
+Orange County	2020-09-17	38	B.1.336	1
+Orange County	2020-09-19	38	B.1	1
+Orange County	2020-09-19	38	B.1.369	1
+Orange County	2020-09-20	39	B.1.369	1
+Orange County	2020-09-21	39	B.1.2	2
+Orange County	2020-09-22	39	B.1	6
+Orange County	2020-09-22	39	B.1.239	2
+Orange County	2020-09-23	39	B.1	4
+Orange County	2020-09-23	39	B.1.1.167	1
+Orange County	2020-09-23	39	B.1.1.244	1
+Orange County	2020-09-23	39	B.1.2	1
+Orange County	2020-09-24	39	B.1	3
+Orange County	2020-09-26	39	B.1.2	1
+Orange County	2020-09-28	40	B.1.1.167	4
+Orange County	2020-09-28	40	B.1.369	1
+Orange County	2020-09-29	40	B.1	2
+Orange County	2020-09-29	40	B.1.1.167	2
+Orange County	2020-10-01	40	B.1.1.167	4
+Orange County	2020-10-02	40	B.1	1
+Orange County	2020-10-02	40	B.1.369	1
+Orange County	2020-10-04	41	B.1	1
+Orange County	2020-10-05	41	B.1	1
+Orange County	2020-10-05	41	B.1.1.239	1
+Orange County	2020-10-05	41	B.1.2	1
+Orange County	2020-10-05	41	B.1.429	1
+Orange County	2020-10-06	41	B.1.1.70	2
+Orange County	2020-10-06	41	B.1.400	1
+Orange County	2020-10-07	41	B.1.2	1
+Orange County	2020-10-08	41	B.1.1.167	3
+Orange County	2020-10-08	41	B.1.2	2
+Orange County	2020-10-12	42	B.1.2	1
+Orange County	2020-10-13	42	B.1	1
+Orange County	2020-10-13	42	B.1.1.70	2
+Orange County	2020-10-13	42	B.1.2	1
+Orange County	2020-10-13	42	B.1.509	1
+Orange County	2020-10-14	42	B.1.509	1
+Orange County	2020-10-15	42	B.1	2
+Orange County	2020-10-15	42	B.1.1.222	1
+Orange County	2020-10-15	42	B.1.1.70	1
+Orange County	2020-10-15	42	B.1.2	1
+Orange County	2020-10-15	42	B.1.265	1
+Orange County	2020-10-16	42	B.1	1
+Orange County	2020-10-16	42	B.1.2	1
+Orange County	2020-10-16	42	B.1.429	1
+Orange County	2020-10-17	42	B.1	2
+Orange County	2020-10-18	43	B.1.2	7
+Orange County	2020-10-18	43	B.1.369	1
+Orange County	2020-10-18	43	B.1.429	1
+Orange County	2020-10-19	43	B.1.2	1
+Orange County	2020-10-20	43	B.1.2	3
+Orange County	2020-10-20	43	B.1.243	1
+Orange County	2020-10-22	43	B.1.2	2
+Orange County	2020-10-24	43	B.1.429	1
+Orange County	2020-10-26	44	B.1	2
+Orange County	2020-10-27	44	B.1	1
+Orange County	2020-10-28	44	B.1.1.70	1
+Orange County	2020-11-02	45	B.1	1
+Orange County	2020-11-02	45	B.1.110.3	4
+Orange County	2020-11-02	45	B.1.429	6
+Orange County	2020-11-03	45	B.1.429	1
+Orange County	2020-11-04	45	B.1.2	1
+Orange County	2020-11-04	45	B.1.429	1
+Orange County	2020-11-05	45	B.1.2	1
+Orange County	2020-11-05	45	B.1.429	3
+Orange County	2020-11-06	45	B.1.1.44	1
+Orange County	2020-11-06	45	B.1.404	1
+Orange County	2020-11-06	45	B.1.429	5
+Orange County	2020-11-07	45	B.1.110.3	2
+Orange County	2020-11-07	45	B.1.319	1
+Orange County	2020-11-07	45	B.1.429	1
+Orange County	2020-11-08	46	B.1.429	1
+Orange County	2020-11-09	46	B.1.404	1
+Orange County	2020-11-09	46	B.1.429	15
+Orange County	2020-11-09	46	B.1.438	2
+Orange County	2020-11-10	46	B.1.2	1
+Orange County	2020-11-10	46	B.1.361	6
+Orange County	2020-11-10	46	B.1.429	7
+Orange County	2020-11-11	46	B.1.438	1
+Orange County	2020-11-12	46	B.1.2	1
+Orange County	2020-11-12	46	B.1.400	1
+Orange County	2020-11-12	46	B.1.438	1
+Orange County	2020-11-13	46	B.1.1.244	2
+Orange County	2020-11-13	46	B.1.1.70	1
+Orange County	2020-11-13	46	B.1.2	2
+Orange County	2020-11-13	46	B.1.311	1
+Orange County	2020-11-13	46	B.1.404	1
+Orange County	2020-11-13	46	B.1.429	1
+Orange County	2020-11-14	46	B.1.2	1
+Orange County	2020-11-14	46	B.1.265	1
+Orange County	2020-11-15	47	B.1.1.70	2
+Orange County	2020-11-15	47	B.1.2	1
+Orange County	2020-11-15	47	B.1.404	1
+Orange County	2020-11-15	47	B.1.438	1
+Orange County	2020-11-16	47	B.1	1
+Orange County	2020-11-16	47	B.1.1.147	1
+Orange County	2020-11-16	47	B.1.1.70	1
+Orange County	2020-11-16	47	B.1.2	37
+Orange County	2020-11-16	47	B.1.427	1
+Orange County	2020-11-16	47	B.1.429	11
+Orange County	2020-11-16	47	B.1.438	1
+Orange County	2020-11-17	47	B.1.1.147	1
+Orange County	2020-11-17	47	B.1.2	25
+Orange County	2020-11-17	47	B.1.429	1
+Orange County	2020-11-19	47	B.1.2	1
+Orange County	2020-11-20	47	B.1.2	4
+Orange County	2020-11-20	47	B.1.429	1
+Orange County	2020-11-21	47	B.1	1
+Orange County	2020-11-22	48	B.1.429	2
+Orange County	2020-11-24	48	B.1.1.222	1
+Orange County	2020-11-24	48	B.1.1.70	1
+Orange County	2020-11-24	48	B.1.2	3
+Orange County	2020-11-24	48	B.1.400	1
+Orange County	2020-11-24	48	B.1.429	1
+Orange County	2020-11-25	48	B.1.1.10	1
+Orange County	2020-11-25	48	B.1.1.147	6
+Orange County	2020-11-25	48	B.1.1.70	1
+Orange County	2020-11-25	48	B.1.110.3	1
+Orange County	2020-11-25	48	B.1.2	6
+Orange County	2020-11-25	48	B.1.400	1
+Orange County	2020-11-25	48	B.1.404	2
+Orange County	2020-11-25	48	B.1.429	4
+Orange County	2020-11-26	48	B.1.1.147	1
+Orange County	2020-11-27	48	B.1	1
+Orange County	2020-11-27	48	B.1.1.147	3
+Orange County	2020-11-27	48	B.1.2	1
+Orange County	2020-11-27	48	B.1.241	5
+Orange County	2020-11-27	48	B.1.243	3
+Orange County	2020-11-27	48	B.1.265	1
+Orange County	2020-11-27	48	B.1.429	2
+Orange County	2020-11-28	48	B.1.2	4
+Orange County	2020-11-28	48	B.1.232	1
+Orange County	2020-11-28	48	B.1.400	1
+Orange County	2020-11-28	48	B.1.429	1
+Orange County	2020-11-29	49	B.1	1
+Orange County	2020-11-29	49	B.1.1.147	1
+Orange County	2020-11-29	49	B.1.1.70	1
+Orange County	2020-11-29	49	B.1.2	2
+Orange County	2020-11-29	49	B.1.241	3
+Orange County	2020-11-29	49	B.1.429	4
+Orange County	2020-11-30	49	B.1.2	2
+Orange County	2020-11-30	49	B.1.429	2
+Orange County	2020-12-01	49	B.1.243	1
+Orange County	2020-12-02	49	B.1	1
+Orange County	2020-12-02	49	B.1.1.10	1
+Orange County	2020-12-02	49	B.1.2	4
+Orange County	2020-12-02	49	B.1.232	1
+Orange County	2020-12-02	49	B.1.243	16
+Orange County	2020-12-02	49	B.1.369	1
+Orange County	2020-12-02	49	B.1.404	2
+Orange County	2020-12-02	49	B.1.429	2
+Orange County	2020-12-03	49	B.1	1
+Orange County	2020-12-03	49	B.1.1.147	1
+Orange County	2020-12-03	49	B.1.2	9
+Orange County	2020-12-03	49	B.1.241	2
+Orange County	2020-12-03	49	B.1.429	3
+Orange County	2020-12-04	49	B.1.2	5
+Orange County	2020-12-04	49	B.1.429	1
+Orange County	2020-12-05	49	B.1.1.228	13
+Orange County	2020-12-05	49	B.1.429	1
+Orange County	2020-12-06	50	B.1.1.228	1
+Orange County	2020-12-06	50	B.1.2	1
+Orange County	2020-12-07	50	B.1.1.147	1
+Orange County	2020-12-07	50	B.1.1.212	1
+Orange County	2020-12-07	50	B.1.2	3
+Orange County	2020-12-08	50	B.1.2	10
+Orange County	2020-12-08	50	B.1.429	2
+Orange County	2020-12-09	50	B.1.1.246	1
+Orange County	2020-12-09	50	B.1.1.85	1
+Orange County	2020-12-09	50	B.1.2	10
+Orange County	2020-12-09	50	B.1.232	1
+Orange County	2020-12-09	50	B.1.429	5
+Orange County	2020-12-10	50	B.1.2	1
+Orange County	2020-12-10	50	B.1.243	1
+Orange County	2020-12-10	50	B.1.429	5
+Orange County	2020-12-19	51	B.1.429	1
+Orange County	2020-12-21	52	B.1.1.222	1
+Orange County	2020-12-21	52	B.1.1.228	1
+Orange County	2020-12-21	52	B.1.2	5
+Orange County	2020-12-21	52	B.1.427	10
+Orange County	2020-12-21	52	B.1.429	3
+Orange County	2020-12-21	52	B.1.433	1
+Orange County	2020-12-22	52	B.1	2
+Orange County	2020-12-22	52	B.1.2	15
+Orange County	2020-12-22	52	B.1.429	13
+Orange County	2020-12-23	52	B.1.1.147	1
+Orange County	2020-12-23	52	B.1.189	1
+Orange County	2020-12-23	52	B.1.2	1
+Orange County	2020-12-23	52	B.1.429	2
+Orange County	2020-12-27	53	B.1.2	1
+Orange County	2020-12-27	53	B.1.234	1
+Orange County	2020-12-27	53	B.1.429	3
+Orange County	2020-12-27	53	B.1.442	1
+Orange County	2020-12-28	53	B.1.234	3
+Orange County	2020-12-28	53	B.1.243	1
+Orange County	2020-12-28	53	B.1.429	12
+Orange County	2020-12-28	53	B.1.442	1
+Orange County	2020-12-29	53	B.1.2	10
+Orange County	2020-12-29	53	B.1.234	2
+Orange County	2020-12-29	53	B.1.369	1
+Orange County	2020-12-29	53	B.1.400	1
+Orange County	2020-12-29	53	B.1.427	6
+Orange County	2020-12-29	53	B.1.429	27
+Orange County	2020-12-30	53	B.1.2	2
+Orange County	2021-01-01	53	B.1.429	2
+Orange County	2021-01-03	1	B.1.427	2
+Orange County	2021-01-03	1	B.1.429	12
+Orange County	2021-01-04	1	B.1	1
+Orange County	2021-01-04	1	B.1.2	7
+Orange County	2021-01-04	1	B.1.232	1
+Orange County	2021-01-04	1	B.1.243	2
+Orange County	2021-01-04	1	B.1.258	1
+Orange County	2021-01-04	1	B.1.400	1
+Orange County	2021-01-04	1	B.1.427	1
+Orange County	2021-01-04	1	B.1.429	27
+Orange County	2021-01-05	1	B.1	1
+Orange County	2021-01-05	1	B.1.1.216	1
+Orange County	2021-01-05	1	B.1.1.70	1
+Orange County	2021-01-05	1	B.1.2	2
+Orange County	2021-01-05	1	B.1.429	16
+Orange County	2021-01-06	1	B.1	1
+Orange County	2021-01-06	1	B.1.2	1
+Orange County	2021-01-06	1	B.1.427	3
+Orange County	2021-01-06	1	B.1.429	7
+Sacramento	2020-07-01	27	B.1.243	1
+Sacramento	2020-07-01	27	B.1.313	1
+Sacramento	2020-07-04	27	B.1.1.139	1
+Sacramento	2020-07-05	28	B.1.243	1
+Sacramento	2020-07-09	28	B.1	1
+Sacramento	2020-07-09	28	B.1.243	1
+Sacramento	2020-07-10	28	B.1.369	1
+Sacramento	2020-07-13	29	B.1.189	1
+Sacramento	2020-07-15	29	B.1.189	1
+Sacramento	2020-07-15	29	B.1.369	1
+Sacramento	2020-07-17	29	B.1	1
+Sacramento	2020-07-18	29	B.1	1
+Sacramento	2020-07-20	30	B.1.189	2
+Sacramento	2020-07-21	30	B.1.189	1
+Sacramento	2020-07-22	30	B.1.189	4
+Sacramento	2020-07-23	30	B.1.189	6
+Sacramento	2020-07-24	30	B.1.189	2
+Sacramento	2020-07-25	30	B.1.189	1
+Sacramento	2020-07-27	31	B.1	1
+Sacramento	2020-08-01	31	B.1.369	1
+Sacramento	2020-08-02	32	B.1.1.135	1
+Sacramento	2020-08-02	32	B.1.369	2
+Sacramento	2020-08-04	32	B.1.189	1
+Sacramento	2020-08-17	34	B.1.369	1
+Sacramento	2020-08-21	34	B.1.2	1
+Sacramento	2020-08-27	35	B.1.2	1
+Sacramento	2020-11-03	45	B.1.2	1
+Sacramento	2020-11-06	45	B.1.2	1
+Sacramento	2020-11-16	47	B.1.369	2
+Sacramento	2020-11-20	47	B.1.2	2
+Sacramento	2020-11-22	48	B.1.2	2
+Sacramento	2020-11-24	48	B.1.369	2
+Sacramento	2020-11-25	48	B.1.2	3
+Sacramento	2020-11-26	48	B.1.2	1
+Sacramento	2020-11-27	48	B.1.2	1
+Sacramento	2020-11-27	48	B.1.234	1
+Sacramento	2020-11-28	48	B.1.2	3
+Sacramento	2020-11-28	48	B.1.234	1
+Sacramento	2020-11-29	49	B.1.234	2
+San Bernardino County	2020-05-01	18	B.1.1.70	3
+San Bernardino County	2020-05-08	19	B.1	14
+San Francisco County	2020-03-20	12	A.1	1
+San Francisco County	2020-03-21	12	B	1
+San Francisco County	2020-03-23	13	A.1	8
+San Francisco County	2020-03-23	13	A.3	1
+San Francisco County	2020-03-23	13	B	1
+San Francisco County	2020-03-23	13	B.1	6
+San Francisco County	2020-03-24	13	A.1	2
+San Francisco County	2020-03-24	13	B.1	1
+San Francisco County	2020-03-24	13	B.3	1
+San Francisco County	2020-03-25	13	A.1	5
+San Francisco County	2020-03-25	13	B	1
+San Francisco County	2020-03-27	13	A.1	4
+San Francisco County	2020-03-27	13	B.1	2
+San Francisco County	2020-03-28	13	A.1	3
+San Francisco County	2020-03-28	13	B	1
+San Francisco County	2020-03-28	13	B.1	6
+San Francisco County	2020-03-28	13	B.1.413	1
+San Francisco County	2020-03-29	14	A.1	1
+San Francisco County	2020-03-29	14	B.1	1
+San Francisco County	2020-03-30	14	A.1	1
+San Francisco County	2020-03-31	14	B.1.314	1
+San Francisco County	2020-04-01	14	B.1	4
+San Francisco County	2020-04-02	14	A.1	2
+San Francisco County	2020-04-02	14	B.1	2
+San Francisco County	2020-04-03	14	A.1	1
+San Francisco County	2020-04-07	15	B.1.1.70	1
+San Francisco County	2020-04-08	15	A.1	1
+San Francisco County	2020-04-08	15	B.1	2
+San Francisco County	2020-04-08	15	B.6	1
+San Francisco County	2020-04-12	16	B.1	1
+San Francisco County	2020-04-14	16	A.1	1
+San Francisco County	2020-04-14	16	B.1	2
+San Francisco County	2020-04-14	16	B.1.1.172	1
+San Francisco County	2020-04-15	16	A.1	2
+San Francisco County	2020-04-22	17	A.1	1
+San Francisco County	2020-04-26	18	A.1	3
+San Francisco County	2020-04-26	18	B	2
+San Francisco County	2020-04-26	18	B.1	3
+San Francisco County	2020-04-27	18	A.1	3
+San Francisco County	2020-04-27	18	B.1	1
+San Francisco County	2020-04-27	18	B.1.110	4
+San Francisco County	2020-04-28	18	A.1	2
+San Francisco County	2020-04-28	18	B.1	1
+San Francisco County	2020-04-29	18	A.1	1
+San Francisco County	2020-04-29	18	B.1.1.70	2
+San Francisco County	2020-04-29	18	B.1.110	1
+San Francisco County	2020-04-29	18	B.1.503	1
+San Francisco County	2020-04-30	18	A.1	3
+San Francisco County	2020-04-30	18	B	3
+San Francisco County	2020-04-30	18	B.1	9
+San Francisco County	2020-04-30	18	B.1.1.70	7
+San Francisco County	2020-04-30	18	B.1.110	2
+San Francisco County	2020-04-30	18	B.1.503	1
+San Francisco County	2020-05-19	21	B.1	3
+San Francisco County	2020-05-19	21	B.1.1.109	1
+San Francisco County	2020-05-19	21	B.1.1.205	1
+San Francisco County	2020-05-19	21	B.1.1.70	2
+San Francisco County	2020-05-20	21	B.1.503	1
+San Francisco County	2020-05-21	21	B.1	6
+San Francisco County	2020-05-22	21	A.1	2
+San Francisco County	2020-05-22	21	B.1.1.109	2
+San Francisco County	2020-05-22	21	B.1.503	3
+San Francisco County	2020-06-13	24	B.1.1.70	1
+San Francisco County	2020-07-01	27	B.1.1.70	1
+San Francisco County	2020-07-19	30	B.1.1.70	1
+San Francisco County	2020-07-21	30	B.1.1.70	4
+San Francisco County	2020-07-21	30	B.1.452	1
+San Francisco County	2020-07-26	31	B.1.1.70	1
+San Francisco County	2020-07-27	31	B.1.1.70	2
+San Francisco County	2020-07-28	31	B.1.1.70	2
+San Francisco County	2020-08-03	32	B.1.1.70	1
+San Francisco County	2020-08-05	32	B.1.2	1
+San Francisco County	2020-09-07	37	B.1.2	6
+San Francisco County	2020-09-07	37	B.1.243	1
+San Francisco County	2020-09-21	39	B.1.361	1
+San Francisco County	2020-10-22	43	B.1.400	1
+San Francisco County	2020-10-23	43	B.1.400	1
+San Francisco County	2020-10-24	43	B.1.400	1
+San Francisco County	2020-10-25	44	B.1.400	1
+San Francisco County	2020-10-26	44	B.1.400	1
+San Francisco County	2020-10-27	44	B.1.400	1
+San Francisco County	2020-10-30	44	B.1.400	1
+San Francisco County	2020-11-10	46	B.1.1.70	1
+San Francisco County	2020-11-23	48	B.1.1.205	2
+San Francisco County	2020-11-23	48	B.1.1.222	1
+San Francisco County	2020-11-23	48	B.1.1.54	1
+San Francisco County	2020-11-23	48	B.1.2	3
+San Francisco County	2020-11-23	48	B.1.234	6
+San Francisco County	2020-11-23	48	B.1.240	2
+San Francisco County	2020-11-23	48	B.1.243	2
+San Francisco County	2020-11-23	48	B.1.348	1
+San Francisco County	2020-11-23	48	B.1.400	1
+San Francisco County	2020-11-23	48	B.1.427	1
+San Francisco County	2020-11-23	48	B.1.429	2
+San Francisco County	2020-11-24	48	B.1	4
+San Francisco County	2020-11-24	48	B.1.1.205	1
+San Francisco County	2020-11-24	48	B.1.1.222	1
+San Francisco County	2020-11-24	48	B.1.1.70	1
+San Francisco County	2020-11-24	48	B.1.2	11
+San Francisco County	2020-11-24	48	B.1.232	3
+San Francisco County	2020-11-24	48	B.1.234	4
+San Francisco County	2020-11-24	48	B.1.243	6
+San Francisco County	2020-11-24	48	B.1.348	3
+San Francisco County	2020-11-24	48	B.1.429	2
+San Francisco County	2020-11-24	48	B.1.94	1
+San Francisco County	2020-11-25	48	B.1.1.222	2
+San Francisco County	2020-11-25	48	B.1.1.70	1
+San Francisco County	2020-11-25	48	B.1.348	1
+San Francisco County	2020-11-29	49	B.1	2
+San Francisco County	2020-11-29	49	B.1.1.212	2
+San Francisco County	2020-11-29	49	B.1.1.222	1
+San Francisco County	2020-11-29	49	B.1.1.70	2
+San Francisco County	2020-11-29	49	B.1.2	14
+San Francisco County	2020-11-29	49	B.1.216	4
+San Francisco County	2020-11-29	49	B.1.232	4
+San Francisco County	2020-11-29	49	B.1.234	1
+San Francisco County	2020-11-29	49	B.1.243	5
+San Francisco County	2020-11-29	49	B.1.325	3
+San Francisco County	2020-11-29	49	B.1.348	2
+San Francisco County	2020-11-29	49	B.1.427	4
+San Francisco County	2020-11-29	49	B.1.429	7
+San Francisco County	2020-11-30	49	B.1	3
+San Francisco County	2020-11-30	49	B.1.1.167	1
+San Francisco County	2020-11-30	49	B.1.1.212	5
+San Francisco County	2020-11-30	49	B.1.1.304	1
+San Francisco County	2020-11-30	49	B.1.2	14
+San Francisco County	2020-11-30	49	B.1.216	1
+San Francisco County	2020-11-30	49	B.1.232	1
+San Francisco County	2020-11-30	49	B.1.234	2
+San Francisco County	2020-11-30	49	B.1.243	3
+San Francisco County	2020-11-30	49	B.1.348	4
+San Francisco County	2020-11-30	49	B.1.427	2
+San Francisco County	2020-11-30	49	B.1.429	7
+San Francisco County	2020-12-01	49	B.1	1
+San Francisco County	2020-12-01	49	B.1.1.212	4
+San Francisco County	2020-12-01	49	B.1.1.222	1
+San Francisco County	2020-12-01	49	B.1.1.70	3
+San Francisco County	2020-12-01	49	B.1.2	5
+San Francisco County	2020-12-01	49	B.1.216	2
+San Francisco County	2020-12-01	49	B.1.232	1
+San Francisco County	2020-12-01	49	B.1.234	2
+San Francisco County	2020-12-01	49	B.1.243	4
+San Francisco County	2020-12-01	49	B.1.311	1
+San Francisco County	2020-12-01	49	B.1.348	6
+San Francisco County	2020-12-01	49	B.1.427	2
+San Francisco County	2020-12-01	49	B.1.429	3
+San Francisco County	2020-12-02	49	B.1.1.222	1
+San Francisco County	2020-12-02	49	B.1.243	3
+San Francisco County	2020-12-27	53	B.1.427	1
+San Francisco County	2020-12-30	53	B.1.427	1
+San Francisco County	2020-12-31	53	B.1.427	1
+San Francisco County	2021-01-02	53	B.1.429	1
+San Francisco County	2021-01-05	1	B.1.36	1
+San Joaquin County	2020-03-11	11	A.1	1
+San Joaquin County	2020-03-13	11	A.1	1
+San Joaquin County	2020-03-14	11	A.1	1
+San Joaquin County	2020-03-18	12	A.1	1
+San Joaquin County	2020-03-18	12	B	1
+San Joaquin County	2020-03-18	12	B.1.110	1
+San Joaquin County	2020-03-21	12	A.1	2
+San Joaquin County	2020-03-21	12	B	1
+San Joaquin County	2020-03-22	13	A.1	2
+San Joaquin County	2020-03-23	13	A.1	1
+San Joaquin County	2020-03-24	13	A.2.2	2
+San Joaquin County	2020-03-24	13	B.1.334	1
+San Joaquin County	2020-03-25	13	B.1	1
+San Joaquin County	2020-03-26	13	B	2
+San Joaquin County	2020-03-26	13	B.1.110	1
+San Joaquin County	2020-03-27	13	B.1.110	2
+San Joaquin County	2020-03-28	13	A.1	2
+San Joaquin County	2020-03-28	13	B.1	1
+San Joaquin County	2020-03-29	14	B.1	1
+San Joaquin County	2020-03-31	14	A.1	1
+San Joaquin County	2020-04-01	14	A.1	1
+San Joaquin County	2020-04-01	14	B.1.369	1
+San Joaquin County	2020-04-02	14	A.1	1
+San Joaquin County	2020-04-03	14	A.1	2
+San Joaquin County	2020-04-03	14	B.1.324	1
+San Joaquin County	2020-04-04	14	A.1	1
+San Joaquin County	2020-04-05	15	B.1	1
+San Joaquin County	2020-04-06	15	A.1	2
+San Joaquin County	2020-04-07	15	B.1	1
+San Joaquin County	2020-04-08	15	B.1	1
+San Joaquin County	2020-04-09	15	A.1	1
+San Joaquin County	2020-04-09	15	B.1.98	1
+San Joaquin County	2020-04-11	15	A.1	1
+San Joaquin County	2020-04-11	15	B.1.1.207	1
+San Joaquin County	2020-04-11	15	B.1.384	1
+San Joaquin County	2020-04-12	16	A.1	1
+San Joaquin County	2020-04-14	16	A.1	2
+San Joaquin County	2020-04-16	16	A.1	1
+San Joaquin County	2020-04-17	16	A.1	1
+San Joaquin County	2020-04-18	16	B.1	1
+San Joaquin County	2020-04-19	17	B.1.415	1
+San Joaquin County	2020-04-20	17	A.1	1
+San Joaquin County	2020-04-21	17	A.1	1
+San Joaquin County	2020-04-21	17	B.1.110	2
+San Joaquin County	2020-04-22	17	B.1.8	12
+San Joaquin County	2020-04-24	17	B.1.8	1
+San Joaquin County	2020-04-25	17	B.1.8	2
+San Joaquin County	2020-04-26	18	A.1	3
+San Joaquin County	2020-04-27	18	B.1.8	2
+San Joaquin County	2020-04-30	18	B.1.8	1
+San Joaquin County	2020-05-01	18	B.1.503	1
+San Joaquin County	2020-05-04	19	B.1.8	18
+San Joaquin County	2020-05-06	19	B.1.166	1
+San Joaquin County	2020-05-06	19	B.1.8	1
+San Joaquin County	2020-05-07	19	B.1.453	2
+San Joaquin County	2020-05-07	19	B.1.503	1
+San Joaquin County	2020-05-07	19	B.1.8	3
+San Joaquin County	2020-05-08	19	B.1	1
+San Joaquin County	2020-05-08	19	B.1.110	2
+San Joaquin County	2020-05-09	19	B.1.453	1
+San Joaquin County	2020-05-09	19	B.1.8	1
+San Joaquin County	2020-09-15	38	B.1.1.207	1
+San Luis Obispo County	2020-03-13	11	B.1.320	1
+San Luis Obispo County	2020-03-15	12	B.1	2
+San Luis Obispo County	2020-03-16	12	B.1.163	1
+San Luis Obispo County	2020-03-17	12	B.1.320	2
+San Luis Obispo County	2020-03-19	12	B.1	1
+San Luis Obispo County	2020-03-20	12	B.1.110	2
+San Luis Obispo County	2020-03-20	12	B.1.314	2
+San Luis Obispo County	2020-03-21	12	B.1.314	1
+San Luis Obispo County	2020-03-23	13	A.1	1
+San Luis Obispo County	2020-03-23	13	B.1	1
+San Luis Obispo County	2020-03-23	13	B.1.320	1
+San Luis Obispo County	2020-03-24	13	B.1.1.70	1
+San Luis Obispo County	2020-03-24	13	B.1.110	1
+San Luis Obispo County	2020-03-25	13	B.1	2
+San Luis Obispo County	2020-03-25	13	B.1.320	1
+San Luis Obispo County	2020-03-26	13	B.1	1
+San Luis Obispo County	2020-03-27	13	B.1.1.70	1
+San Luis Obispo County	2020-03-27	13	B.1.320	1
+San Luis Obispo County	2020-03-28	13	B.1.1.113	1
+San Luis Obispo County	2020-03-28	13	B.1.320	1
+San Luis Obispo County	2020-03-30	14	B.1	1
+San Luis Obispo County	2020-03-30	14	B.1.1.113	1
+San Luis Obispo County	2020-03-30	14	B.1.320	1
+San Luis Obispo County	2020-04-03	14	B.1.320	1
+San Luis Obispo County	2020-04-07	15	B.1.320	1
+San Luis Obispo County	2020-04-10	15	B.1.320	1
+San Luis Obispo County	2020-04-11	15	B.1	1
+San Luis Obispo County	2020-04-11	15	B.1.166	1
+San Luis Obispo County	2020-04-19	17	B.1.166	1
+San Luis Obispo County	2020-04-19	17	B.1.369	1
+San Luis Obispo County	2020-04-23	17	B.1.320	3
+San Luis Obispo County	2020-04-25	17	B.1.320	1
+San Luis Obispo County	2020-04-27	18	B.1.320	1
+San Luis Obispo County	2020-04-28	18	B.1.336	2
+San Luis Obispo County	2020-04-29	18	B.1.336	2
+San Luis Obispo County	2020-05-01	18	B.1.320	6
+San Luis Obispo County	2020-05-01	18	B.1.336	1
+San Luis Obispo County	2020-05-06	19	B.1.320	1
+San Luis Obispo County	2020-05-07	19	B.1.320	1
+San Luis Obispo County	2020-06-15	25	B.1.267	1
+San Luis Obispo County	2020-06-17	25	B.1.163	1
+San Luis Obispo County	2020-06-17	25	B.1.2	1
+San Luis Obispo County	2020-07-11	28	B.1.336	1
+San Luis Obispo County	2020-07-12	29	B.1.240	1
+San Luis Obispo County	2020-07-12	29	B.1.267	1
+San Luis Obispo County	2020-07-12	29	B.1.309	1
+San Luis Obispo County	2020-07-12	29	B.1.369	5
+San Luis Obispo County	2020-07-14	29	B.1	2
+San Luis Obispo County	2020-07-14	29	B.1.453	4
+San Luis Obispo County	2020-07-16	29	B.1	5
+San Luis Obispo County	2020-07-16	29	B.1.267	2
+San Luis Obispo County	2020-07-17	29	B.1	5
+San Luis Obispo County	2020-07-17	29	B.1.243	3
+San Luis Obispo County	2020-07-17	29	B.1.267	5
+San Luis Obispo County	2020-07-17	29	B.1.369	3
+San Luis Obispo County	2020-07-17	29	B.1.399	2
+San Luis Obispo County	2020-07-21	30	B.1.1.128	1
+San Luis Obispo County	2020-07-21	30	B.1.243	1
+San Luis Obispo County	2020-07-21	30	B.1.267	4
+San Luis Obispo County	2020-07-21	30	B.1.369	1
+San Luis Obispo County	2020-07-21	30	B.1.399	1
+San Luis Obispo County	2020-07-23	30	B.1.1.291	2
+San Luis Obispo County	2020-07-23	30	B.1.2	1
+San Luis Obispo County	2020-07-23	30	B.1.267	1
+San Luis Obispo County	2020-07-23	30	B.1.309	2
+San Luis Obispo County	2020-07-23	30	B.1.369	5
+San Luis Obispo County	2020-07-23	30	B.1.399	1
+San Luis Obispo County	2020-07-24	30	B.1	3
+San Luis Obispo County	2020-07-24	30	B.1.1.70	1
+San Luis Obispo County	2020-07-24	30	B.1.139	1
+San Luis Obispo County	2020-07-24	30	B.1.189	1
+San Luis Obispo County	2020-07-24	30	B.1.243	1
+San Luis Obispo County	2020-07-24	30	B.1.267	1
+San Luis Obispo County	2020-07-24	30	B.1.369	2
+San Luis Obispo County	2020-07-24	30	B.1.399	2
+San Luis Obispo County	2020-07-27	31	B.1	3
+San Luis Obispo County	2020-07-27	31	B.1.267	2
+San Luis Obispo County	2020-07-27	31	B.1.369	2
+San Luis Obispo County	2020-07-27	31	B.1.399	1
+San Luis Obispo County	2020-07-30	31	B.1.399	1
+San Luis Obispo County	2020-08-01	31	B.1.369	1
+San Luis Obispo County	2020-08-17	34	B.1	1
+San Luis Obispo County	2020-08-22	34	B.1	1
+San Luis Obispo County	2020-09-02	36	B.1.399	1
+San Luis Obispo County	2020-09-04	36	B.1.399	2
+San Luis Obispo County	2020-09-15	38	B.1.399	1
+San Luis Obispo County	2020-09-16	38	B.1.399	1
+San Luis Obispo County	2020-09-17	38	B.1	1
+San Luis Obispo County	2020-09-17	38	B.1.2	1
+San Luis Obispo County	2020-09-18	38	B.1.399	1
+San Luis Obispo County	2020-09-22	39	B.1.243	1
+San Luis Obispo County	2020-11-04	45	B.1.1.288	1
+San Luis Obispo County	2021-01-06	1	B.1.427	1
+San Luis Obispo County	2021-01-14	2	B.1.427	2
+Santa Clara County	2020-03-05	10	A.1	1
+Santa Clara County	2020-03-06	10	B	1
+Santa Clara County	2020-03-09	11	A.1	1
+Santa Clara County	2020-03-11	11	B	1
+Santa Clara County	2020-03-11	11	B.1.1	1
+Santa Clara County	2020-03-12	11	B	1
+Santa Clara County	2020-03-12	11	B.1	1
+Santa Clara County	2020-03-13	11	B.1	1
+Santa Clara County	2020-03-17	12	B.1.110	1
+Santa Clara County	2020-03-18	12	B	1
+Santa Clara County	2020-03-18	12	B.1	1
+Santa Clara County	2020-03-18	12	B.1.157	1
+Santa Clara County	2020-03-20	12	B	1
+Santa Clara County	2020-03-24	13	B	1
+Santa Clara County	2020-03-25	13	B.1	1
+Santa Clara County	2020-03-27	13	B	1
+Santa Clara County	2020-03-29	14	B.19	1
+Santa Clara County	2020-03-31	14	B.1.1.70	2
+Santa Clara County	2020-03-31	14	B.1.452	1
+Santa Clara County	2020-03-31	14	B.19	1
+Santa Clara County	2020-04-01	14	B	1
+Santa Clara County	2020-04-01	14	B.1	1
+Santa Clara County	2020-04-01	14	B.1.14	2
+Santa Clara County	2020-04-01	14	B.19	3
+Santa Clara County	2020-04-01	14	B.20	1
+Santa Clara County	2020-04-02	14	B.1.14	3
+Santa Clara County	2020-04-02	14	B.19	1
+Santa Clara County	2020-04-03	14	A.1	1
+Santa Clara County	2020-04-03	14	B	1
+Santa Clara County	2020-04-03	14	B.1	3
+Santa Clara County	2020-04-03	14	B.1.1.10	1
+Santa Clara County	2020-04-03	14	B.1.1.207	1
+Santa Clara County	2020-04-03	14	B.1.14	3
+Santa Clara County	2020-04-03	14	B.1.324	1
+Santa Clara County	2020-04-03	14	B.19	4
+Santa Clara County	2020-04-03	14	B.20	1
+Santa Clara County	2020-04-04	14	A	1
+Santa Clara County	2020-04-04	14	A.1	2
+Santa Clara County	2020-04-04	14	B	11
+Santa Clara County	2020-04-04	14	B.1	14
+Santa Clara County	2020-04-04	14	B.1.1.70	3
+Santa Clara County	2020-04-04	14	B.1.14	4
+Santa Clara County	2020-04-04	14	B.1.166	1
+Santa Clara County	2020-04-04	14	B.1.9	1
+Santa Clara County	2020-04-04	14	B.19	1
+Santa Clara County	2020-04-04	14	B.20	1
+Santa Clara County	2020-04-04	14	B.3	1
+Santa Clara County	2020-04-04	14	B.6	1
+Santa Clara County	2020-04-05	15	B.19	6
+Santa Clara County	2020-04-05	15	B.20	3
+Santa Clara County	2020-04-06	15	A.3	1
+Santa Clara County	2020-04-06	15	B.1	4
+Santa Clara County	2020-04-06	15	B.1.521	1
+Santa Clara County	2020-04-06	15	B.19	3
+Santa Clara County	2020-04-06	15	B.20	2
+Santa Clara County	2020-04-07	15	B.1	4
+Santa Clara County	2020-04-07	15	B.1.1.162	2
+Santa Clara County	2020-04-07	15	B.1.1.70	1
+Santa Clara County	2020-04-07	15	B.1.403	1
+Santa Clara County	2020-04-07	15	B.19	2
+Santa Clara County	2020-04-08	15	B.1	1
+Santa Clara County	2020-04-08	15	B.1.14	2
+Santa Clara County	2020-04-08	15	B.20	12
+Santa Clara County	2020-04-09	15	B	1
+Santa Clara County	2020-04-09	15	B.1	1
+Santa Clara County	2020-04-09	15	B.19	1
+Santa Clara County	2020-04-09	15	B.20	5
+Santa Clara County	2020-04-10	15	B	1
+Santa Clara County	2020-04-10	15	B.1	1
+Santa Clara County	2020-04-10	15	B.1.14	18
+Santa Clara County	2020-04-10	15	B.20	1
+Santa Clara County	2020-04-11	15	B.1	1
+Santa Clara County	2020-04-11	15	B.1.503	1
+Santa Clara County	2020-04-11	15	B.20	8
+Santa Clara County	2020-04-11	15	B.46	1
+Santa Clara County	2020-04-12	16	B	1
+Santa Clara County	2020-04-12	16	B.1.14	2
+Santa Clara County	2020-04-12	16	B.46	27
+Santa Clara County	2020-04-13	16	A	1
+Santa Clara County	2020-04-13	16	A.1	2
+Santa Clara County	2020-04-13	16	B	1
+Santa Clara County	2020-04-13	16	B.20	1
+Santa Clara County	2020-04-13	16	B.46	12
+Santa Clara County	2020-04-14	16	B	1
+Santa Clara County	2020-04-14	16	B.1	2
+Santa Clara County	2020-04-14	16	B.1.1.61	1
+Santa Clara County	2020-04-14	16	B.1.14	1
+Santa Clara County	2020-04-14	16	B.20	1
+Santa Clara County	2020-04-15	16	B	1
+Santa Clara County	2020-04-15	16	B.1	1
+Santa Clara County	2020-04-15	16	B.1.14	2
+Santa Clara County	2020-04-16	16	B.1	1
+Santa Clara County	2020-04-16	16	B.1.503	1
+Santa Clara County	2020-04-16	16	B.46	1
+Santa Clara County	2020-04-17	16	B.1.14	2
+Santa Clara County	2020-04-17	16	B.1.503	2
+Santa Clara County	2020-04-17	16	B.46	1
+Santa Clara County	2020-04-19	17	B.19	1
+Santa Clara County	2020-04-21	17	B.1.14	2
+Santa Clara County	2020-04-22	17	B	1
+Santa Clara County	2020-04-22	17	B.1.14	5
+Santa Clara County	2020-04-22	17	B.1.384	1
+Santa Clara County	2020-04-22	17	B.1.503	2
+Santa Clara County	2020-04-23	17	A.1	2
+Santa Clara County	2020-04-23	17	B.1	2
+Santa Clara County	2020-04-23	17	B.1.336	2
+Santa Clara County	2020-04-24	17	B.1	2
+Santa Clara County	2020-04-24	17	B.46	1
+Santa Clara County	2020-04-25	17	B	1
+Santa Clara County	2020-04-25	17	B.1.1.132	1
+Santa Clara County	2020-04-25	17	B.1.14	1
+Santa Clara County	2020-04-26	18	B.1.14	4
+Santa Clara County	2020-04-26	18	B.19	1
+Santa Clara County	2020-04-27	18	B.1	1
+Santa Clara County	2020-04-27	18	B.1.1.70	1
+Santa Clara County	2020-04-27	18	B.1.14	2
+Santa Clara County	2020-04-28	18	B.1	1
+Santa Clara County	2020-04-28	18	B.1.1.70	1
+Santa Clara County	2020-04-30	18	B.1.2	1
+Santa Clara County	2020-04-30	18	B.1.503	1
+Santa Clara County	2020-05-01	18	B.1.14	1
+Santa Clara County	2020-05-01	18	B.20	3
+Santa Clara County	2020-05-05	19	A.1	2
+Santa Clara County	2020-05-05	19	B	1
+Santa Clara County	2020-05-05	19	B.1	1
+Santa Clara County	2020-05-05	19	B.1.1.70	1
+Santa Clara County	2020-05-05	19	B.1.503	1
+Santa Clara County	2020-05-05	19	B.46	1
+Santa Clara County	2020-05-06	19	A.1	1
+Santa Clara County	2020-05-06	19	B	4
+Santa Clara County	2020-05-06	19	B.1	9
+Santa Clara County	2020-05-06	19	B.1.1.70	1
+Santa Clara County	2020-05-06	19	B.1.320	1
+Santa Clara County	2020-05-06	19	B.1.369	1
+Santa Clara County	2020-05-06	19	B.46	1
+Santa Clara County	2020-05-07	19	B.1.14	1
+Santa Clara County	2020-05-08	19	B.1	3
+Santa Clara County	2020-05-09	19	B.1	1
+Santa Clara County	2020-05-10	20	B.1	1
+Santa Clara County	2020-05-10	20	B.1.503	1
+Santa Clara County	2020-05-11	20	B.1	2
+Santa Clara County	2020-05-11	20	B.1.1.113	1
+Santa Clara County	2020-05-11	20	B.1.1.70	2
+Santa Clara County	2020-05-12	20	B.1	1
+Santa Clara County	2020-05-12	20	B.1.1.113	1
+Santa Clara County	2020-05-12	20	B.1.503	2
+Santa Clara County	2020-05-13	20	B.1	1
+Santa Clara County	2020-05-13	20	B.1.1.70	1
+Santa Clara County	2020-05-13	20	B.1.452	2
+Santa Clara County	2020-05-13	20	B.1.503	1
+Santa Clara County	2020-05-13	20	B.19	1
+Santa Clara County	2020-05-13	20	B.20	3
+Santa Clara County	2020-05-13	20	B.46	1
+Santa Clara County	2020-05-14	20	B.1	2
+Santa Clara County	2020-05-14	20	B.1.1.244	1
+Santa Clara County	2020-05-14	20	B.1.2	1
+Santa Clara County	2020-05-14	20	B.1.243	1
+Santa Clara County	2020-05-14	20	B.1.443	1
+Santa Clara County	2020-05-14	20	B.1.503	1
+Santa Clara County	2020-05-15	20	B.1	1
+Santa Clara County	2020-05-15	20	B.1.1.29	1
+Santa Clara County	2020-05-15	20	B.1.452	1
+Santa Clara County	2020-05-15	20	B.1.453	1
+Santa Clara County	2020-05-16	20	B.1	2
+Santa Clara County	2020-05-16	20	B.1.1.205	1
+Santa Clara County	2020-05-16	20	B.1.1.70	1
+Santa Clara County	2020-05-16	20	B.1.452	1
+Santa Clara County	2020-05-16	20	B.1.503	1
+Santa Clara County	2020-05-17	21	B.1.1.205	1
+Santa Clara County	2020-05-17	21	B.1.1.70	1
+Santa Clara County	2020-05-17	21	B.1.452	2
+Santa Clara County	2020-05-17	21	B.1.503	1
+Santa Clara County	2020-05-18	21	B.1	2
+Santa Clara County	2020-05-18	21	B.1.452	1
+Santa Clara County	2020-05-18	21	B.1.503	3
+Santa Clara County	2020-05-19	21	B.1	1
+Santa Clara County	2020-05-19	21	B.1.452	2
+Santa Clara County	2020-05-19	21	B.1.453	1
+Santa Clara County	2020-05-19	21	B.1.503	1
+Santa Clara County	2020-05-20	21	B.1.1.205	1
+Santa Clara County	2020-05-20	21	B.1.243	1
+Santa Clara County	2020-05-20	21	B.1.336	6
+Santa Clara County	2020-05-20	21	B.1.453	1
+Santa Clara County	2020-05-20	21	B.1.503	3
+Santa Clara County	2020-05-21	21	B.1	4
+Santa Clara County	2020-05-21	21	B.1.1.132	1
+Santa Clara County	2020-05-21	21	B.1.336	2
+Santa Clara County	2020-05-21	21	B.1.509	1
+Santa Clara County	2020-05-22	21	B.1	5
+Santa Clara County	2020-05-22	21	B.1.1.205	1
+Santa Clara County	2020-05-22	21	B.1.110	3
+Santa Clara County	2020-05-22	21	B.1.336	4
+Santa Clara County	2020-05-22	21	B.1.503	4
+Santa Clara County	2020-05-25	22	B.1	1
+Santa Clara County	2020-05-25	22	B.1.336	2
+Santa Clara County	2020-05-25	22	B.1.503	1
+Santa Clara County	2020-05-27	22	B.1.336	2
+Santa Clara County	2020-05-29	22	B.1.314	1
+Santa Clara County	2020-05-30	22	B.1.452	1
+Santa Clara County	2020-05-31	23	B.1.503	1
+Santa Clara County	2020-06-01	23	B.1	1
+Santa Clara County	2020-06-01	23	B.1.1.205	1
+Santa Clara County	2020-06-02	23	B.1	1
+Santa Clara County	2020-06-02	23	B.1.243	1
+Santa Clara County	2020-06-02	23	B.1.503	2
+Santa Clara County	2020-06-03	23	B.1	1
+Santa Clara County	2020-06-03	23	B.1.110	1
+Santa Clara County	2020-06-03	23	B.1.243	1
+Santa Clara County	2020-06-03	23	B.1.336	1
+Santa Clara County	2020-06-03	23	B.1.453	1
+Santa Clara County	2020-06-03	23	B.1.503	1
+Santa Clara County	2020-06-04	23	B.1	2
+Santa Clara County	2020-06-04	23	B.1.1.70	1
+Santa Clara County	2020-06-04	23	B.1.503	4
+Santa Clara County	2020-06-05	23	B.1	2
+Santa Clara County	2020-06-05	23	B.1.2	1
+Santa Clara County	2020-06-05	23	B.1.243	1
+Santa Clara County	2020-06-05	23	B.1.503	2
+Santa Clara County	2020-06-06	23	B.1	1
+Santa Clara County	2020-06-07	24	B.1.453	2
+Santa Clara County	2020-06-08	24	B.1.452	1
+Santa Clara County	2020-06-08	24	B.1.503	1
+Santa Clara County	2020-06-09	24	B.1	2
+Santa Clara County	2020-06-09	24	B.1.452	1
+Santa Clara County	2020-06-10	24	B.1	3
+Santa Clara County	2020-06-10	24	B.1.1.1	1
+Santa Clara County	2020-06-10	24	B.1.503	2
+Santa Clara County	2020-06-10	24	B.1.518	1
+Santa Clara County	2020-06-11	24	B.1	1
+Santa Clara County	2020-06-11	24	B.1.166	1
+Santa Clara County	2020-06-11	24	B.1.243	1
+Santa Clara County	2020-06-12	24	B.1	1
+Santa Clara County	2020-06-12	24	B.1.397	1
+Santa Clara County	2020-06-13	24	B.1	1
+Santa Clara County	2020-06-14	25	B.1	1
+Santa Clara County	2020-06-14	25	B.1.503	2
+Santa Clara County	2020-06-15	25	B.1.369	1
+Santa Clara County	2020-06-16	25	B.1	1
+Santa Clara County	2020-06-16	25	B.1.363	1
+Santa Clara County	2020-06-16	25	B.1.400	1
+Santa Clara County	2020-06-16	25	B.1.503	1
+Santa Clara County	2020-06-17	25	B.1	2
+Santa Clara County	2020-06-17	25	B.1.1.113	1
+Santa Clara County	2020-06-17	25	B.1.1.139	1
+Santa Clara County	2020-06-17	25	B.1.1.29	1
+Santa Clara County	2020-06-17	25	B.1.1.70	1
+Santa Clara County	2020-06-17	25	B.1.320	1
+Santa Clara County	2020-06-17	25	B.1.336	1
+Santa Clara County	2020-06-17	25	B.1.452	1
+Santa Clara County	2020-06-17	25	B.1.503	4
+Santa Clara County	2020-06-18	25	B.1	1
+Santa Clara County	2020-06-18	25	B.1.1.113	1
+Santa Clara County	2020-06-18	25	B.1.1.205	1
+Santa Clara County	2020-06-18	25	B.1.243	7
+Santa Clara County	2020-06-18	25	B.1.336	1
+Santa Clara County	2020-06-19	25	B.1.1.205	1
+Santa Clara County	2020-06-19	25	B.1.369	3
+Santa Clara County	2020-06-19	25	B.1.503	1
+Santa Clara County	2020-06-20	25	B.1	1
+Santa Clara County	2020-06-20	25	B.1.243	8
+Santa Clara County	2020-06-20	25	B.1.369	1
+Santa Clara County	2020-06-20	25	B.1.503	1
+Santa Clara County	2020-06-21	26	B.1	2
+Santa Clara County	2020-06-21	26	B.1.1.29	1
+Santa Clara County	2020-06-21	26	B.1.1.70	2
+Santa Clara County	2020-06-21	26	B.1.293	2
+Santa Clara County	2020-06-21	26	B.1.443	1
+Santa Clara County	2020-06-21	26	B.1.503	2
+Santa Clara County	2020-06-22	26	B.1.1.28	1
+Santa Clara County	2020-06-22	26	B.1.1.70	2
+Santa Clara County	2020-06-22	26	B.1.243	3
+Santa Clara County	2020-06-23	26	B.1	1
+Santa Clara County	2020-06-23	26	B.1.1.70	3
+Santa Clara County	2020-06-23	26	B.1.110	1
+Santa Clara County	2020-06-23	26	B.1.240	1
+Santa Clara County	2020-06-23	26	B.1.243	2
+Santa Clara County	2020-06-23	26	B.1.293	1
+Santa Clara County	2020-06-23	26	B.1.453	1
+Santa Clara County	2020-06-23	26	B.1.503	1
+Santa Clara County	2020-06-27	26	B.1.243	20
+Santa Clara County	2020-06-29	27	B.1.1.139	1
+Santa Clara County	2020-06-29	27	B.1.243	1
+Santa Clara County	2020-06-29	27	B.1.309	1
+Santa Clara County	2020-06-29	27	B.1.452	2
+Santa Clara County	2020-06-30	27	B.1	1
+Santa Clara County	2020-06-30	27	B.1.1.70	1
+Santa Clara County	2020-06-30	27	B.1.293	1
+Santa Clara County	2020-06-30	27	B.1.452	2
+Santa Clara County	2020-06-30	27	B.1.453	1
+Santa Clara County	2020-06-30	27	B.1.503	1
+Santa Clara County	2020-07-01	27	B.1.243	1
+Santa Clara County	2020-07-06	28	B.1.243	9
+Santa Clara County	2020-07-09	28	B.1.243	1
+Santa Clara County	2020-07-09	28	B.1.452	1
+Santa Clara County	2020-07-10	28	B.1	1
+Santa Clara County	2020-07-10	28	B.1.1.228	1
+Santa Clara County	2020-07-11	28	B.1	2
+Santa Clara County	2020-07-11	28	B.1.1.291	1
+Santa Clara County	2020-07-11	28	B.1.243	1
+Santa Clara County	2020-07-11	28	B.1.309	1
+Santa Clara County	2020-07-11	28	B.1.503	1
+Santa Clara County	2020-07-14	29	B.1.243	8
+Santa Clara County	2020-07-15	29	B.1	1
+Santa Clara County	2020-07-15	29	B.1.1.1	1
+Santa Clara County	2020-07-15	29	B.1.1.70	2
+Santa Clara County	2020-07-16	29	B.1	1
+Santa Clara County	2020-07-16	29	B.1.1.128	1
+Santa Clara County	2020-07-16	29	B.1.1.158	1
+Santa Clara County	2020-07-16	29	B.1.1.70	1
+Santa Clara County	2020-07-16	29	B.1.243	2
+Santa Clara County	2020-07-16	29	B.1.267	2
+Santa Clara County	2020-07-16	29	B.1.369	1
+Santa Clara County	2020-07-16	29	B.1.503	1
+Santa Clara County	2020-07-17	29	B.1	2
+Santa Clara County	2020-07-17	29	B.1.1.192	1
+Santa Clara County	2020-07-17	29	B.1.1.70	6
+Santa Clara County	2020-07-17	29	B.1.110	1
+Santa Clara County	2020-07-17	29	B.1.2	1
+Santa Clara County	2020-07-17	29	B.1.216	1
+Santa Clara County	2020-07-17	29	B.1.243	9
+Santa Clara County	2020-07-17	29	B.1.309	1
+Santa Clara County	2020-07-17	29	B.1.320	1
+Santa Clara County	2020-07-17	29	B.1.369	1
+Santa Clara County	2020-07-17	29	B.1.399	1
+Santa Clara County	2020-07-19	30	B.1.243	1
+Santa Clara County	2020-07-19	30	B.1.267	2
+Santa Clara County	2020-07-20	30	B.1.1.1	1
+Santa Clara County	2020-07-20	30	B.1.1.139	1
+Santa Clara County	2020-07-20	30	B.1.243	2
+Santa Clara County	2020-07-21	30	B.1	1
+Santa Clara County	2020-07-21	30	B.1.1.132	1
+Santa Clara County	2020-07-21	30	B.1.1.158	1
+Santa Clara County	2020-07-21	30	B.1.1.205	2
+Santa Clara County	2020-07-21	30	B.1.1.291	1
+Santa Clara County	2020-07-21	30	B.1.1.70	5
+Santa Clara County	2020-07-21	30	B.1.110	2
+Santa Clara County	2020-07-21	30	B.1.216	1
+Santa Clara County	2020-07-21	30	B.1.241	1
+Santa Clara County	2020-07-21	30	B.1.243	7
+Santa Clara County	2020-07-21	30	B.1.369	3
+Santa Clara County	2020-07-21	30	B.1.399	2
+Santa Clara County	2020-07-21	30	B.1.400	1
+Santa Clara County	2020-07-21	30	B.1.403	1
+Santa Clara County	2020-07-21	30	B.1.452	1
+Santa Clara County	2020-07-22	30	B.1.1.158	1
+Santa Clara County	2020-07-22	30	B.1.2	1
+Santa Clara County	2020-07-22	30	B.1.400	2
+Santa Clara County	2020-07-22	30	B.1.503	1
+Santa Clara County	2020-07-23	30	B.1.1.244	2
+Santa Clara County	2020-07-23	30	B.1.243	1
+Santa Clara County	2020-07-26	31	B.1	2
+Santa Clara County	2020-07-28	31	B.1.243	7
+Santa Clara County	2020-07-29	31	B.1	3
+Santa Clara County	2020-07-29	31	B.1.1.70	2
+Santa Clara County	2020-07-29	31	B.1.243	2
+Santa Clara County	2020-07-29	31	B.1.403	1
+Santa Clara County	2020-07-30	31	B.1	1
+Santa Clara County	2020-08-01	31	B.1.243	19
+Santa Clara County	2020-08-03	32	B.1.1.70	1
+Santa Clara County	2020-08-03	32	B.1.243	2
+Santa Clara County	2020-08-04	32	B.1.1.174	7
+Santa Clara County	2020-08-05	32	B.1	1
+Santa Clara County	2020-08-05	32	B.1.1.70	1
+Santa Clara County	2020-08-05	32	B.1.243	1
+Santa Clara County	2020-08-06	32	B.1.243	1
+Santa Clara County	2020-08-07	32	B.1.243	1
+Santa Clara County	2020-08-08	32	B.1.243	1
+Santa Clara County	2020-08-09	33	B.1.243	1
+Santa Clara County	2020-08-10	33	B.1	1
+Santa Clara County	2020-08-10	33	B.1.243	4
+Santa Clara County	2020-08-12	33	B.1	2
+Santa Clara County	2020-08-12	33	B.1.243	3
+Santa Clara County	2020-08-12	33	B.1.399	1
+Santa Clara County	2020-08-13	33	B.1.243	1
+Santa Clara County	2020-08-14	33	B.1.243	1
+Santa Clara County	2020-08-16	34	B.1.1.174	1
+Santa Clara County	2020-08-16	34	B.1.243	1
+Santa Clara County	2020-08-17	34	B.1.243	1
+Santa Clara County	2020-08-18	34	B.1.1.174	1
+Santa Clara County	2020-08-19	34	B.1.1.174	2
+Santa Clara County	2020-08-19	34	B.1.369	1
+Santa Clara County	2020-08-20	34	B.1.1.174	2
+Santa Clara County	2020-08-20	34	B.1.369	1
+Santa Clara County	2020-08-21	34	B.1.1.139	1
+Santa Clara County	2020-08-22	34	B.1.1.174	1
+Santa Clara County	2020-08-24	35	B.1.1.174	1
+Santa Clara County	2020-08-25	35	B.1.2	1
+Santa Clara County	2020-08-25	35	B.1.400	1
+Santa Clara County	2020-08-26	35	B.1.240	1
+Santa Clara County	2020-08-26	35	B.1.243	1
+Santa Clara County	2020-08-26	35	B.1.400	1
+Santa Clara County	2020-08-27	35	B.1.1.70	1
+Santa Clara County	2020-08-28	35	B.1.232	1
+Santa Clara County	2020-08-28	35	B.1.239	1
+Santa Clara County	2020-08-30	36	B.1.1.174	1
+Santa Clara County	2020-08-31	36	B.1.239	2
+Santa Clara County	2020-08-31	36	B.1.400	1
+Santa Clara County	2020-09-01	36	B.1.1.174	5
+Santa Clara County	2020-09-01	36	B.1.1.70	1
+Santa Clara County	2020-09-01	36	B.1.243	1
+Santa Clara County	2020-09-01	36	B.1.305	1
+Santa Clara County	2020-09-01	36	B.1.503	2
+Santa Clara County	2020-09-02	36	B.1	1
+Santa Clara County	2020-09-02	36	B.1.1.205	1
+Santa Clara County	2020-09-02	36	B.1.1.70	1
+Santa Clara County	2020-09-02	36	B.1.240	2
+Santa Clara County	2020-09-02	36	B.1.241	1
+Santa Clara County	2020-09-02	36	B.1.243	1
+Santa Clara County	2020-09-02	36	B.1.36	1
+Santa Clara County	2020-09-02	36	B.1.399	5
+Santa Clara County	2020-09-02	36	B.1.400	1
+Santa Clara County	2020-09-02	36	B.1.402	1
+Santa Clara County	2020-09-03	36	B.1.1.174	1
+Santa Clara County	2020-09-03	36	B.1.239	1
+Santa Clara County	2020-09-04	36	B.1.1.174	3
+Santa Clara County	2020-09-05	36	B.1.1.174	1
+Santa Clara County	2020-09-05	36	B.1.1.70	1
+Santa Clara County	2020-09-06	37	B.1.1.174	1
+Santa Clara County	2020-09-07	37	B.1	1
+Santa Clara County	2020-09-08	37	B.1.243	1
+Santa Clara County	2020-09-09	37	B.1	1
+Santa Clara County	2020-09-09	37	B.1.1.135	1
+Santa Clara County	2020-09-09	37	B.1.239	1
+Santa Clara County	2020-09-09	37	B.1.243	5
+Santa Clara County	2020-09-10	37	B.1	3
+Santa Clara County	2020-09-10	37	B.1.1.174	1
+Santa Clara County	2020-09-10	37	B.1.1.222	1
+Santa Clara County	2020-09-10	37	B.1.398	1
+Santa Clara County	2020-09-11	37	B.1.369	2
+Santa Clara County	2020-09-12	37	B.1	1
+Santa Clara County	2020-09-14	38	B.1.1.205	1
+Santa Clara County	2020-09-14	38	B.1.243	1
+Santa Clara County	2020-09-15	38	B.1	24
+Santa Clara County	2020-09-15	38	B.1.398	2
+Santa Clara County	2020-09-16	38	B.1.1.205	1
+Santa Clara County	2020-09-16	38	B.1.1.70	3
+Santa Clara County	2020-09-16	38	B.1.243	2
+Santa Clara County	2020-09-17	38	B.1	1
+Santa Clara County	2020-09-18	38	B.1	1
+Santa Clara County	2020-09-21	39	B.1	2
+Santa Clara County	2020-09-21	39	B.1.398	1
+Santa Clara County	2020-09-22	39	B.1.2	1
+Santa Clara County	2020-09-23	39	B.1	1
+Santa Clara County	2020-09-23	39	B.1.1.135	3
+Santa Clara County	2020-09-23	39	B.1.232	1
+Santa Clara County	2020-09-23	39	B.1.239	1
+Santa Clara County	2020-09-23	39	B.1.243	4
+Santa Clara County	2020-09-23	39	B.1.369	1
+Santa Clara County	2020-09-24	39	B.1	3
+Santa Clara County	2020-09-24	39	B.1.369	2
+Santa Clara County	2020-09-24	39	B.1.399	3
+Santa Clara County	2020-09-25	39	B.1	4
+Santa Clara County	2020-09-25	39	B.1.399	1
+Santa Clara County	2020-09-25	39	B.1.402	1
+Santa Clara County	2020-09-26	39	B.1.1.135	1
+Santa Clara County	2020-09-27	40	B.1.243	1
+Santa Clara County	2020-09-27	40	B.1.369	1
+Santa Clara County	2020-09-28	40	B.1	3
+Santa Clara County	2020-09-28	40	B.1.239	1
+Santa Clara County	2020-09-28	40	B.1.305	1
+Santa Clara County	2020-09-28	40	B.1.399	1
+Santa Clara County	2020-09-29	40	B.1.399	1
+Santa Clara County	2020-09-30	40	B.1	2
+Santa Clara County	2020-09-30	40	B.1.1.135	5
+Santa Clara County	2020-09-30	40	B.1.1.70	1
+Santa Clara County	2020-09-30	40	B.1.243	2
+Santa Clara County	2020-09-30	40	B.1.399	2
+Santa Clara County	2020-09-30	40	B.1.453	1
+Santa Clara County	2020-10-01	40	B.1	1
+Santa Clara County	2020-10-01	40	B.1.243	1
+Santa Clara County	2020-10-01	40	B.1.369	1
+Santa Clara County	2020-10-02	40	B.1	1
+Santa Clara County	2020-10-02	40	B.1.305	2
+Santa Clara County	2020-10-02	40	B.1.399	1
+Santa Clara County	2020-10-03	40	B.1.399	2
+Santa Clara County	2020-10-04	41	B.1.1.70	1
+Santa Clara County	2020-10-04	41	B.1.216	1
+Santa Clara County	2020-10-04	41	B.1.241	1
+Santa Clara County	2020-10-04	41	B.1.369	1
+Santa Clara County	2020-10-05	41	B.1.243	1
+Santa Clara County	2020-10-05	41	B.1.399	6
+Santa Clara County	2020-10-06	41	B.1.243	1
+Santa Clara County	2020-10-06	41	B.1.305	4
+Santa Clara County	2020-10-06	41	B.1.399	1
+Santa Clara County	2020-10-06	41	B.1.453	1
+Santa Clara County	2020-10-07	41	B.1	5
+Santa Clara County	2020-10-07	41	B.1.2	4
+Santa Clara County	2020-10-07	41	B.1.232	1
+Santa Clara County	2020-10-07	41	B.1.243	6
+Santa Clara County	2020-10-07	41	B.1.399	2
+Santa Clara County	2020-10-08	41	B.1.305	9
+Santa Clara County	2020-10-08	41	B.1.369	1
+Santa Clara County	2020-10-08	41	B.1.399	5
+Santa Clara County	2020-10-09	41	B.1.399	1
+Santa Clara County	2020-10-10	41	B.1.305	2
+Santa Clara County	2020-10-11	42	B.1.305	3
+Santa Clara County	2020-10-12	42	B.1.216	1
+Santa Clara County	2020-10-12	42	B.1.399	18
+Santa Clara County	2020-10-13	42	B.1.243	1
+Santa Clara County	2020-10-13	42	B.1.361	1
+Santa Clara County	2020-10-14	42	B.1	1
+Santa Clara County	2020-10-14	42	B.1.1.162	1
+Santa Clara County	2020-10-14	42	B.1.2	3
+Santa Clara County	2020-10-14	42	B.1.232	1
+Santa Clara County	2020-10-14	42	B.1.243	7
+Santa Clara County	2020-10-14	42	B.1.305	1
+Santa Clara County	2020-10-14	42	B.1.396	1
+Santa Clara County	2020-10-14	42	B.1.404	2
+Santa Clara County	2020-10-15	42	B.1.399	4
+Santa Clara County	2020-10-16	42	B.1.305	2
+Santa Clara County	2020-10-16	42	B.1.399	2
+Santa Clara County	2020-10-18	43	B.1.399	4
+Santa Clara County	2020-10-19	43	B.1.232	1
+Santa Clara County	2020-10-19	43	B.1.305	1
+Santa Clara County	2020-10-19	43	B.1.399	7
+Santa Clara County	2020-10-20	43	B.1.232	7
+Santa Clara County	2020-10-21	43	B.1	1
+Santa Clara County	2020-10-21	43	B.1.1.139	1
+Santa Clara County	2020-10-21	43	B.1.1.162	1
+Santa Clara County	2020-10-21	43	B.1.1.216	1
+Santa Clara County	2020-10-21	43	B.1.2	3
+Santa Clara County	2020-10-21	43	B.1.243	2
+Santa Clara County	2020-10-21	43	B.1.369	1
+Santa Clara County	2020-10-21	43	B.1.396	1
+Santa Clara County	2020-10-21	43	B.1.453	3
+Santa Clara County	2020-10-22	43	B.1.305	1
+Santa Clara County	2020-10-23	43	B.1.2	1
+Santa Clara County	2020-10-25	44	B.1.369	1
+Santa Clara County	2020-10-26	44	B.1.2	1
+Santa Clara County	2020-10-26	44	B.1.232	1
+Santa Clara County	2020-10-26	44	B.1.305	1
+Santa Clara County	2020-10-26	44	B.1.399	4
+Santa Clara County	2020-10-28	44	B.1	1
+Santa Clara County	2020-10-28	44	B.1.243	3
+Santa Clara County	2020-10-28	44	B.1.305	1
+Santa Clara County	2020-10-28	44	B.1.404	1
+Santa Clara County	2020-10-29	44	B.1.399	5
+Santa Clara County	2020-10-31	44	B.1.243	1
+Santa Clara County	2020-10-31	44	B.1.305	5
+Santa Clara County	2020-11-02	45	B.1.1.222	1
+Santa Clara County	2020-11-02	45	B.1.2	1
+Santa Clara County	2020-11-02	45	B.1.399	19
+Santa Clara County	2020-11-03	45	B.1.243	1
+Santa Clara County	2020-11-03	45	B.1.399	1
+Santa Clara County	2020-11-04	45	B.1.1.216	2
+Santa Clara County	2020-11-04	45	B.1.1.222	1
+Santa Clara County	2020-11-04	45	B.1.2	2
+Santa Clara County	2020-11-04	45	B.1.232	2
+Santa Clara County	2020-11-04	45	B.1.240	1
+Santa Clara County	2020-11-04	45	B.1.243	3
+Santa Clara County	2020-11-04	45	B.1.305	7
+Santa Clara County	2020-11-04	45	B.1.404	1
+Santa Clara County	2020-11-04	45	B.1.523	1
+Santa Clara County	2020-11-05	45	B.1.1.139	4
+Santa Clara County	2020-11-05	45	B.1.399	2
+Santa Clara County	2020-11-06	45	B.1.1.222	3
+Santa Clara County	2020-11-06	45	B.1.399	1
+Santa Clara County	2020-11-09	46	B.1.2	1
+Santa Clara County	2020-11-09	46	B.1.396	1
+Santa Clara County	2020-11-09	46	B.1.399	1
+Santa Clara County	2020-11-11	46	B.1.1.212	2
+Santa Clara County	2020-11-11	46	B.1.1.216	1
+Santa Clara County	2020-11-11	46	B.1.1.222	1
+Santa Clara County	2020-11-11	46	B.1.2	4
+Santa Clara County	2020-11-11	46	B.1.232	6
+Santa Clara County	2020-11-11	46	B.1.399	1
+Santa Clara County	2020-11-11	46	B.1.402	1
+Santa Clara County	2020-11-11	46	B.1.429	2
+Santa Clara County	2020-11-12	46	B.1	3
+Santa Clara County	2020-11-13	46	B.1.232	1
+Santa Clara County	2020-11-13	46	B.1.243	1
+Santa Clara County	2020-11-13	46	B.1.423	1
+Santa Clara County	2020-11-14	46	B.1.1.152	1
+Santa Clara County	2020-11-14	46	B.1.1.70	3
+Santa Clara County	2020-11-14	46	B.1.2	9
+Santa Clara County	2020-11-16	47	B.1.2	3
+Santa Clara County	2020-11-16	47	B.1.239	2
+Santa Clara County	2020-11-16	47	B.1.243	1
+Santa Clara County	2020-11-17	47	B.1	1
+Santa Clara County	2020-11-17	47	B.1.1.212	2
+Santa Clara County	2020-11-17	47	B.1.1.70	2
+Santa Clara County	2020-11-17	47	B.1.2	1
+Santa Clara County	2020-11-18	47	B.1	8
+Santa Clara County	2020-11-18	47	B.1.1.216	5
+Santa Clara County	2020-11-18	47	B.1.1.222	9
+Santa Clara County	2020-11-18	47	B.1.2	10
+Santa Clara County	2020-11-18	47	B.1.232	9
+Santa Clara County	2020-11-18	47	B.1.240	3
+Santa Clara County	2020-11-18	47	B.1.241	1
+Santa Clara County	2020-11-18	47	B.1.243	5
+Santa Clara County	2020-11-18	47	B.1.348	1
+Santa Clara County	2020-11-18	47	B.1.397	2
+Santa Clara County	2020-11-18	47	B.1.399	1
+Santa Clara County	2020-11-18	47	B.1.427	3
+Santa Clara County	2020-11-18	47	B.1.429	1
+Santa Clara County	2020-11-18	47	B.1.453	1
+Santa Clara County	2020-11-19	47	B.1.1.70	1
+Santa Clara County	2020-11-19	47	B.1.2	1
+Santa Clara County	2020-11-19	47	B.1.399	1
+Santa Clara County	2020-11-19	47	B.1.429	2
+Santa Clara County	2020-11-20	47	B.1	2
+Santa Clara County	2020-11-20	47	B.1.1.70	16
+Santa Clara County	2020-11-20	47	B.1.232	17
+Santa Clara County	2020-11-20	47	B.1.243	2
+Santa Clara County	2020-11-22	48	B.1.1.205	1
+Santa Clara County	2020-11-22	48	B.1.2	1
+Santa Clara County	2020-11-22	48	B.1.399	4
+Santa Clara County	2020-11-22	48	B.1.427	2
+Santa Clara County	2020-11-23	48	B.1	5
+Santa Clara County	2020-11-23	48	B.1.1.212	2
+Santa Clara County	2020-11-23	48	B.1.1.216	2
+Santa Clara County	2020-11-23	48	B.1.1.222	2
+Santa Clara County	2020-11-23	48	B.1.2	8
+Santa Clara County	2020-11-23	48	B.1.216	4
+Santa Clara County	2020-11-23	48	B.1.232	12
+Santa Clara County	2020-11-23	48	B.1.240	3
+Santa Clara County	2020-11-23	48	B.1.243	7
+Santa Clara County	2020-11-23	48	B.1.402	6
+Santa Clara County	2020-11-23	48	B.1.427	1
+Santa Clara County	2020-11-23	48	B.1.429	2
+Santa Clara County	2020-11-24	48	B.1.1.212	1
+Santa Clara County	2020-11-24	48	B.1.1.70	7
+Santa Clara County	2020-11-24	48	B.1.243	2
+Santa Clara County	2020-11-24	48	B.1.402	1
+Santa Clara County	2020-11-24	48	B.1.427	9
+Santa Clara County	2020-11-24	48	B.1.429	1
+Santa Clara County	2020-11-25	48	B.1	1
+Santa Clara County	2020-11-25	48	B.1.1.44	1
+Santa Clara County	2020-11-25	48	B.1.2	2
+Santa Clara County	2020-11-25	48	B.1.232	23
+Santa Clara County	2020-11-25	48	B.1.429	1
+Santa Clara County	2020-11-27	48	B.1.2	10
+Santa Clara County	2020-11-28	48	B.1	1
+Santa Clara County	2020-11-28	48	B.1.1.222	1
+Santa Clara County	2020-11-28	48	B.1.1.70	4
+Santa Clara County	2020-11-28	48	B.1.2	2
+Santa Clara County	2020-11-28	48	B.1.427	2
+Santa Clara County	2020-11-28	48	B.1.429	4
+Santa Clara County	2020-11-29	49	B.1.1.70	1
+Santa Clara County	2020-11-29	49	B.1.399	2
+Santa Clara County	2020-11-29	49	B.1.402	3
+Santa Clara County	2020-11-29	49	B.1.427	2
+Santa Clara County	2020-11-30	49	B.1.1.285	1
+Santa Clara County	2020-11-30	49	B.1.1.70	1
+Santa Clara County	2020-11-30	49	B.1.2	12
+Santa Clara County	2020-11-30	49	B.1.232	13
+Santa Clara County	2020-11-30	49	B.1.243	48
+Santa Clara County	2020-11-30	49	B.1.427	2
+Santa Clara County	2020-12-01	49	B.1	1
+Santa Clara County	2020-12-01	49	B.1.1.205	1
+Santa Clara County	2020-12-01	49	B.1.2	2
+Santa Clara County	2020-12-01	49	B.1.232	6
+Santa Clara County	2020-12-01	49	B.1.243	2
+Santa Clara County	2020-12-01	49	B.1.429	1
+Santa Clara County	2020-12-02	49	B.1	5
+Santa Clara County	2020-12-02	49	B.1.1.205	4
+Santa Clara County	2020-12-02	49	B.1.1.222	9
+Santa Clara County	2020-12-02	49	B.1.1.44	4
+Santa Clara County	2020-12-02	49	B.1.1.70	6
+Santa Clara County	2020-12-02	49	B.1.189	2
+Santa Clara County	2020-12-02	49	B.1.199	1
+Santa Clara County	2020-12-02	49	B.1.2	44
+Santa Clara County	2020-12-02	49	B.1.232	17
+Santa Clara County	2020-12-02	49	B.1.234	4
+Santa Clara County	2020-12-02	49	B.1.239	4
+Santa Clara County	2020-12-02	49	B.1.240	5
+Santa Clara County	2020-12-02	49	B.1.241	1
+Santa Clara County	2020-12-02	49	B.1.243	17
+Santa Clara County	2020-12-02	49	B.1.311	1
+Santa Clara County	2020-12-02	49	B.1.325	1
+Santa Clara County	2020-12-02	49	B.1.348	1
+Santa Clara County	2020-12-02	49	B.1.349	1
+Santa Clara County	2020-12-02	49	B.1.360	3
+Santa Clara County	2020-12-02	49	B.1.402	1
+Santa Clara County	2020-12-02	49	B.1.420	1
+Santa Clara County	2020-12-02	49	B.1.427	11
+Santa Clara County	2020-12-02	49	B.1.429	16
+Santa Clara County	2020-12-03	49	B.1	1
+Santa Clara County	2020-12-03	49	B.1.2	3
+Santa Clara County	2020-12-03	49	B.1.232	5
+Santa Clara County	2020-12-03	49	B.1.234	1
+Santa Clara County	2020-12-03	49	B.1.243	1
+Santa Clara County	2020-12-03	49	B.1.429	1
+Santa Clara County	2020-12-04	49	B.1	2
+Santa Clara County	2020-12-04	49	B.1.1.205	5
+Santa Clara County	2020-12-04	49	B.1.2	2
+Santa Clara County	2020-12-04	49	B.1.232	5
+Santa Clara County	2020-12-04	49	B.1.240	1
+Santa Clara County	2020-12-04	49	B.1.243	33
+Santa Clara County	2020-12-05	49	B.1	1
+Santa Clara County	2020-12-05	49	B.1.1.205	1
+Santa Clara County	2020-12-05	49	B.1.2	1
+Santa Clara County	2020-12-05	49	B.1.427	1
+Santa Clara County	2020-12-06	50	B.1	2
+Santa Clara County	2020-12-06	50	B.1.1.70	1
+Santa Clara County	2020-12-06	50	B.1.240	8
+Santa Clara County	2020-12-06	50	B.1.429	1
+Santa Clara County	2020-12-06	50	B.1.523	1
+Santa Clara County	2020-12-07	50	B.1	1
+Santa Clara County	2020-12-07	50	B.1.1.70	1
+Santa Clara County	2020-12-07	50	B.1.2	4
+Santa Clara County	2020-12-07	50	B.1.232	15
+Santa Clara County	2020-12-07	50	B.1.240	1
+Santa Clara County	2020-12-07	50	B.1.243	4
+Santa Clara County	2020-12-07	50	B.1.325	1
+Santa Clara County	2020-12-07	50	B.1.36	1
+Santa Clara County	2020-12-07	50	B.1.400	1
+Santa Clara County	2020-12-07	50	B.1.404	1
+Santa Clara County	2020-12-07	50	B.1.427	2
+Santa Clara County	2020-12-08	50	B.1.1.1	1
+Santa Clara County	2020-12-08	50	B.1.2	13
+Santa Clara County	2020-12-08	50	B.1.239	1
+Santa Clara County	2020-12-08	50	B.1.243	7
+Santa Clara County	2020-12-08	50	B.1.404	1
+Santa Clara County	2020-12-08	50	B.1.429	1
+Santa Clara County	2020-12-09	50	B.1	15
+Santa Clara County	2020-12-09	50	B.1.1.205	2
+Santa Clara County	2020-12-09	50	B.1.1.212	1
+Santa Clara County	2020-12-09	50	B.1.1.222	5
+Santa Clara County	2020-12-09	50	B.1.1.231	1
+Santa Clara County	2020-12-09	50	B.1.1.291	1
+Santa Clara County	2020-12-09	50	B.1.1.70	7
+Santa Clara County	2020-12-09	50	B.1.110.3	1
+Santa Clara County	2020-12-09	50	B.1.139	2
+Santa Clara County	2020-12-09	50	B.1.199	1
+Santa Clara County	2020-12-09	50	B.1.2	39
+Santa Clara County	2020-12-09	50	B.1.232	10
+Santa Clara County	2020-12-09	50	B.1.234	7
+Santa Clara County	2020-12-09	50	B.1.239	2
+Santa Clara County	2020-12-09	50	B.1.240	1
+Santa Clara County	2020-12-09	50	B.1.241	1
+Santa Clara County	2020-12-09	50	B.1.243	7
+Santa Clara County	2020-12-09	50	B.1.247	1
+Santa Clara County	2020-12-09	50	B.1.311	1
+Santa Clara County	2020-12-09	50	B.1.325	2
+Santa Clara County	2020-12-09	50	B.1.361	2
+Santa Clara County	2020-12-09	50	B.1.369	1
+Santa Clara County	2020-12-09	50	B.1.396	1
+Santa Clara County	2020-12-09	50	B.1.404	2
+Santa Clara County	2020-12-09	50	B.1.427	5
+Santa Clara County	2020-12-09	50	B.1.429	8
+Santa Clara County	2020-12-09	50	B.1.523	1
+Santa Clara County	2020-12-10	50	B.1	2
+Santa Clara County	2020-12-10	50	B.1.2	4
+Santa Clara County	2020-12-10	50	B.1.232	1
+Santa Clara County	2020-12-10	50	B.1.427	1
+Santa Clara County	2020-12-10	50	B.1.429	1
+Santa Clara County	2020-12-11	50	B.1	1
+Santa Clara County	2020-12-11	50	B.1.2	18
+Santa Clara County	2020-12-11	50	B.1.232	1
+Santa Clara County	2020-12-11	50	B.1.243	2
+Santa Clara County	2020-12-11	50	B.1.427	4
+Santa Clara County	2020-12-11	50	B.1.429	1
+Santa Clara County	2020-12-12	50	B.1.1.205	1
+Santa Clara County	2020-12-12	50	B.1.2	2
+Santa Clara County	2020-12-12	50	B.1.232	3
+Santa Clara County	2020-12-13	51	B.1.2	2
+Santa Clara County	2020-12-13	51	B.1.232	1
+Santa Clara County	2020-12-13	51	B.1.429	1
+Santa Clara County	2020-12-14	51	B.1	1
+Santa Clara County	2020-12-14	51	B.1.2	10
+Santa Clara County	2020-12-14	51	B.1.240	1
+Santa Clara County	2020-12-14	51	B.1.243	1
+Santa Clara County	2020-12-14	51	B.1.427	7
+Santa Clara County	2020-12-15	51	B.1.2	2
+Santa Clara County	2020-12-15	51	B.1.232	1
+Santa Clara County	2020-12-15	51	B.1.243	2
+Santa Clara County	2020-12-15	51	B.1.427	4
+Santa Clara County	2020-12-15	51	B.1.429	2
+Santa Clara County	2020-12-16	51	B.1.1.100	1
+Santa Clara County	2020-12-16	51	B.1.1.141	1
+Santa Clara County	2020-12-16	51	B.1.1.222	1
+Santa Clara County	2020-12-16	51	B.1.1.231	1
+Santa Clara County	2020-12-16	51	B.1.2	23
+Santa Clara County	2020-12-16	51	B.1.232	1
+Santa Clara County	2020-12-16	51	B.1.243	5
+Santa Clara County	2020-12-16	51	B.1.369	1
+Santa Clara County	2020-12-16	51	B.1.427	5
+Santa Clara County	2020-12-16	51	B.1.429	4
+Santa Clara County	2020-12-17	51	B.1.1.205	1
+Santa Clara County	2020-12-17	51	B.1.1.231	1
+Santa Clara County	2020-12-17	51	B.1.139	1
+Santa Clara County	2020-12-17	51	B.1.2	15
+Santa Clara County	2020-12-17	51	B.1.36	1
+Santa Clara County	2020-12-17	51	B.1.409	1
+Santa Clara County	2020-12-17	51	B.1.427	3
+Santa Clara County	2020-12-17	51	B.1.429	1
+Santa Clara County	2020-12-18	51	B.1.2	2
+Santa Clara County	2020-12-18	51	B.1.232	2
+Santa Clara County	2020-12-18	51	B.1.243	1
+Santa Clara County	2020-12-18	51	B.1.400	1
+Santa Clara County	2020-12-18	51	B.1.427	4
+Santa Clara County	2020-12-18	51	B.1.429	1
+Santa Clara County	2020-12-18	51	B.1.523	1
+Santa Clara County	2020-12-19	51	B.1	1
+Santa Clara County	2020-12-19	51	B.1.2	1
+Santa Clara County	2020-12-20	52	B.1.2	5
+Santa Clara County	2020-12-20	52	B.1.427	1
+Santa Clara County	2020-12-21	52	B.1.2	3
+Santa Clara County	2020-12-21	52	B.1.216	1
+Santa Clara County	2020-12-21	52	B.1.234	2
+Santa Clara County	2020-12-21	52	B.1.243	1
+Santa Clara County	2020-12-21	52	B.1.427	3
+Santa Clara County	2020-12-21	52	B.1.429	1
+Santa Clara County	2020-12-22	52	B.1.2	2
+Santa Clara County	2020-12-22	52	B.1.427	1
+Santa Clara County	2020-12-22	52	B.1.429	1
+Santa Clara County	2020-12-23	52	B.1.2	2
+Santa Clara County	2020-12-23	52	B.1.427	2
+Santa Clara County	2020-12-23	52	B.1.429	2
+Santa Clara County	2020-12-24	52	B.1	1
+Santa Clara County	2020-12-24	52	B.1.2	2
+Santa Clara County	2020-12-24	52	B.1.243	1
+Santa Clara County	2020-12-24	52	B.1.427	1
+Santa Clara County	2020-12-24	52	B.1.429	1
+Santa Clara County	2020-12-25	52	B.1.2	1
+Santa Clara County	2020-12-25	52	B.1.243	1
+Santa Clara County	2020-12-26	52	B.1.2	14
+Santa Clara County	2020-12-26	52	B.1.243	1
+Santa Clara County	2020-12-26	52	B.1.260	1
+Santa Clara County	2020-12-26	52	B.1.427	1
+Santa Clara County	2020-12-27	53	B.1.1.205	1
+Santa Clara County	2020-12-27	53	B.1.1.222	1
+Santa Clara County	2020-12-27	53	B.1.2	3
+Santa Clara County	2020-12-27	53	B.1.429	2
+Santa Clara County	2020-12-28	53	B.1	1
+Santa Clara County	2020-12-28	53	B.1.1.152	1
+Santa Clara County	2020-12-28	53	B.1.2	9
+Santa Clara County	2020-12-28	53	B.1.232	2
+Santa Clara County	2020-12-28	53	B.1.243	1
+Santa Clara County	2020-12-28	53	B.1.427	5
+Santa Clara County	2020-12-28	53	B.1.429	3
+Santa Clara County	2020-12-29	53	B.1	1
+Santa Clara County	2020-12-29	53	B.1.2	4
+Santa Clara County	2020-12-29	53	B.1.232	4
+Santa Clara County	2020-12-29	53	B.1.360	1
+Santa Clara County	2020-12-29	53	B.1.427	1
+Santa Clara County	2020-12-30	53	B.1	1
+Santa Clara County	2020-12-30	53	B.1.199	1
+Santa Clara County	2020-12-30	53	B.1.2	4
+Santa Clara County	2020-12-30	53	B.1.243	5
+Santa Clara County	2020-12-30	53	B.1.427	1
+Santa Clara County	2020-12-31	53	B.1.2	7
+Santa Clara County	2020-12-31	53	B.1.429	2
+Santa Clara County	2021-01-01	53	B.1.1.100	1
+Santa Clara County	2021-01-01	53	B.1.2	11
+Santa Clara County	2021-01-01	53	B.1.429	1
+Santa Clara County	2021-01-02	53	B.1.1.100	1
+Santa Clara County	2021-01-02	53	B.1.1.222	1
+Santa Clara County	2021-01-02	53	B.1.2	2
+Santa Clara County	2021-01-02	53	B.1.427	2
+Santa Clara County	2021-01-02	53	B.1.429	1
+Santa Clara County	2021-01-03	1	B.1.2	4
+Santa Clara County	2021-01-03	1	B.1.429	4
+Santa Clara County	2021-01-04	1	B.1.429	1
+Santa Clara County	2021-01-06	1	B.1.427	1
+Santa Clara County	2021-01-10	2	B.1.427	9
+Santa Clara County	2021-01-11	2	B.1	1
+Santa Clara County	2021-01-11	2	B.1.1.85	1
+Santa Clara County	2021-01-11	2	B.1.427	2
+Santa Clara County	2021-01-11	2	B.1.429	2
+Santa Clara County	2021-01-12	2	B.1	1
+Santa Clara County	2021-01-12	2	B.1.427	16
+Santa Clara County	2021-01-12	2	B.1.429	1
+Santa Clara County	2021-01-13	2	B.1.243	1
+Santa Clara County	2021-01-13	2	B.1.427	9
+Santa Clara County	2021-01-14	2	B.1.1.216	1
+Santa Clara County	2021-01-14	2	B.1.2	2
+Santa Clara County	2021-01-14	2	B.1.427	4
+Santa Clara County	2021-01-14	2	B.1.429	4
+Santa Clara County	2021-01-15	2	B.1.1.216	1
+Santa Clara County	2021-01-15	2	B.1.427	18
+Santa Clara County	2021-01-16	2	B.1.427	2
+Santa Clara County	2021-01-16	2	B.1.429	1
+Santa Clara County	2021-01-17	3	B.1.427	1
+Santa Clara County	2021-01-18	3	B.1.427	4
+Santa Clara County	2021-01-19	3	B.1.2	1
+Santa Clara County	2021-01-19	3	B.1.427	4
+Sonoma county	2020-04-29	18	B.1	3
+Sonoma county	2020-05-01	18	B.1	1
+Sonoma county	2020-05-01	18	B.1.106	1
+Sonoma county	2020-05-03	19	B.1.400	1
+Sonoma county	2020-05-09	19	A.1	1
+Sonoma county	2020-05-15	20	B.1.400	2
+Sonoma county	2020-05-18	21	B.1.400	1
+Sonoma county	2020-05-19	21	B.1.400	2
+Sonoma county	2020-05-20	21	B.1.400	1
+Sonoma county	2020-05-22	21	B.1.243	3
+Sonoma county	2020-05-25	22	B.1.239	1
+Sonoma county	2020-05-26	22	B.1.243	1
+Sonoma county	2020-05-28	22	B.1.1.167	1
+Tulare County	2020-05-14	20	B.1	4
+Tulare County	2020-05-26	22	B.1	2
+Tulare County	2020-09-21	39	B.1.243	1
+Tulare County	2020-09-22	39	B.1.243	1
+Tulare County	2020-09-29	40	B.1.369	2
+Tulare County	2020-10-02	40	B.1.2	1
+Tulare County	2020-10-02	40	B.1.243	1
+Tulare County	2020-10-06	41	B.1.240	1
+Tulare County	2020-10-22	43	B.1.2	1
+Tulare County	2020-10-23	43	B.1.2	1
+Tulare County	2020-10-26	44	B.1.2	1
+Tuolumne County	2020-07-13	29	B.1.243	1
+Tuolumne County	2020-08-21	34	B.1	1
+Tuolumne County	2020-08-22	34	B.1.243	1
+Ventura County	2020-03-09	11	B.1	1
+Ventura County	2020-03-13	11	B.1.320	1
+Ventura County	2020-03-16	12	B.1	1
+Ventura County	2020-03-17	12	A.1	1
+Ventura County	2020-03-18	12	A.1	1
+Ventura County	2020-03-20	12	B	1
+Ventura County	2020-03-20	12	B.1	1
+Ventura County	2020-03-23	13	B.1	2
+Ventura County	2020-03-25	13	B.1	3
+Ventura County	2020-03-27	13	B.1	1
+Ventura County	2020-03-29	14	B.1	1
+Ventura County	2020-03-30	14	B.1.166	1
+Ventura County	2020-04-01	14	B.1	1
+Ventura County	2020-04-01	14	B.1.1.174	1
+Ventura County	2020-04-02	14	B.1.166	2
+Ventura County	2020-04-05	15	B.1	2
+Ventura County	2020-04-07	15	B.1.163	1
+Ventura County	2020-04-08	15	B.1	1
+Ventura County	2020-04-12	16	B.1.1.70	2
+Ventura County	2020-04-14	16	B.1.163	2
+Ventura County	2020-04-15	16	B.1.320	1
+Ventura County	2020-04-20	17	B.1	1
+Ventura County	2020-04-21	17	B.1.1.70	1
+Ventura County	2020-04-22	17	B.1.320	1
+Ventura County	2020-04-23	17	B.1.1.70	1
+Ventura County	2020-04-23	17	B.1.163	1
+Ventura County	2020-04-25	17	B.1.163	1
+Ventura County	2020-04-27	18	B.1.163	1
+Ventura County	2020-04-28	18	B.1	2
+Ventura County	2020-04-28	18	B.1.320	1
+Ventura County	2020-04-29	18	B.1.1.61	1
+Ventura County	2020-04-29	18	B.1.320	1
+Ventura County	2020-04-30	18	B.1	2
+Ventura County	2020-05-01	18	B.1.320	1
+Ventura County	2020-05-02	18	B.1	2
+Ventura County	2020-05-03	19	B.1.320	1
+Ventura County	2020-05-05	19	B.1.241	1
+Ventura County	2020-05-06	19	B.1.320	2
+Ventura County	2020-05-07	19	B.1.320	1
+Ventura County	2020-05-08	19	B.1	1
+Ventura County	2020-05-11	20	B.1.320	7
+Ventura County	2020-05-12	20	B.1.320	1
+Ventura County	2020-05-13	20	B.1	1
+Ventura County	2020-05-13	20	B.1.369	1
+Ventura County	2020-05-15	20	B.1	1
+Ventura County	2020-05-16	20	B.1.243	1
+Ventura County	2020-05-24	22	B.1.1.287	1
+Ventura County	2020-05-26	22	B.1.521	1
+Ventura County	2020-05-30	22	B.1.369	1
+Ventura County	2020-06-04	23	B.1.243	1
+Ventura County	2020-06-04	23	B.1.320	7
+Ventura County	2020-06-05	23	B.1.243	1
+Ventura County	2020-06-05	23	B.1.320	3
+Ventura County	2020-06-07	24	B.1.320	1
+Ventura County	2020-06-12	24	B.1.1.1	1
+Ventura County	2020-06-14	25	B.1.243	1
+Ventura County	2020-06-18	25	B.1	1
+Ventura County	2020-06-28	27	B.1.243	1
